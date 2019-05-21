@@ -1,0 +1,16 @@
+# PBS (Professional Backup Script)
+# By Brainzman (u/Brainzman, Brainzman#9780)
+
+# Backup stuff
+# config file
+cp ~/paper-1132/{*.yml,*.json} backups/config
+cp -r ~/paper-1132/{world} backups/worlds
+
+# Add all file
+git add .
+
+# Commit + Fancy Message
+git commit -m  "Backup at $(date)"
+
+# Push to Github
+git push origin master
