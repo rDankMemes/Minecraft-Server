@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:53:39 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-19 00:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
     },
     "done": true
   },
@@ -176,6 +188,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2019-05-19 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
     },
     "done": true
   },
@@ -284,6 +302,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-05-21 06:52:08 +0000"
     },
     "done": true
   },
@@ -575,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-05-21 06:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
@@ -707,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-05-19 06:46:42 +0000"
@@ -760,6 +796,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
     },
     "done": true
   },
@@ -1033,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-05-21 06:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2019-05-19 00:13:42 +0000"
@@ -1090,6 +1138,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
     },
     "done": true
   },
@@ -1207,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2019-05-19 06:23:12 +0000"
@@ -1291,6 +1351,7 @@
       "minecraft:forest": "2019-05-19 00:36:36 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:desert": "2019-05-19 05:07:19 +0000",
+      "minecraft:jungle": "2019-05-21 07:43:29 +0000",
       "minecraft:beach": "2019-05-18 23:09:37 +0000",
       "minecraft:river": "2019-05-18 23:08:24 +0000",
       "minecraft:plains": "2019-05-18 23:07:07 +0000"
@@ -1480,6 +1541,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2019-05-18 23:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-21 06:54:32 +0000"
     },
     "done": true
   },
