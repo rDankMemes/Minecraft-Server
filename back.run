@@ -9,7 +9,7 @@ rm -r backups/worlds/*
 # config file
 cp ~/paper-1132/{*.yml,*.json} backups/config
 # world(s)
-cp -r ~/paper-1132/world backups/worlds
+cp -r ~/paper-1132/world backups/{world,cart,themetest} backups/worlds
 
 # Add all file
 git add .
