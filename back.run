@@ -1,6 +1,10 @@
 # PBS (Professional Backup Script)
 # By Brainzman (u/Brainzman, Brainzman#9780)
 
+# Remove old Backup
+rm backups/config/*
+rm -r backups/worlds/*
+
 # Backup stuff
 # config file
 cp ~/paper-1132/{*.yml,*.json} backups/config

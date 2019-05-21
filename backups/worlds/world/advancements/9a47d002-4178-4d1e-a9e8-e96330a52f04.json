@@ -1,7 +1,19 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_stone_pickaxe": "2019-05-20 21:14:21 +0000"
+      "in_water": "2019-05-21 01:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-21 01:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2019-05-21 01:04:13 +0000"
     },
     "done": true
   },
@@ -11,10 +23,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-05-20 21:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-05-21 01:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-21 01:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-05-21 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-05-21 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-05-21 01:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-05-21 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-05-21 01:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2019-05-20 21:14:20 +0000",
-      "minecraft:stone_shore": "2019-05-20 21:15:11 +0000"
+      "minecraft:stone_shore": "2019-05-20 21:15:11 +0000",
+      "minecraft:plains": "2019-05-21 00:56:20 +0000"
     },
     "done": false
   }
