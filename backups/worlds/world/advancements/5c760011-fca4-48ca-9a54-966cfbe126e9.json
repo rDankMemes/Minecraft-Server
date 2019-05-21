@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-05-21 20:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-21 02:19:35 +0000"
@@ -1025,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-05-21 20:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-21 02:19:35 +0000"
@@ -1298,8 +1310,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:01:18 +0000",
-      "minecraft:forest": "2019-05-18 23:06:01 +0000",
       "minecraft:badlands_plateau": "2019-05-18 22:56:32 +0000",
+      "minecraft:forest": "2019-05-18 23:06:01 +0000",
       "minecraft:desert_hills": "2019-05-18 23:05:48 +0000",
       "minecraft:desert": "2019-05-18 23:01:19 +0000",
       "minecraft:jungle": "2019-05-18 22:59:00 +0000",
@@ -1313,6 +1325,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2019-05-19 00:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-05-21 20:37:17 +0000"
     },
     "done": true
   },
@@ -1451,6 +1469,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-21 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-05-21 20:37:17 +0000"
     },
     "done": true
   },
