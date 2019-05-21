@@ -53,13 +53,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:06:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:06:02 +0000"
     },
@@ -518,6 +518,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-20 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2019-05-21 14:24:07 +0000"
     },
     "done": true
   },

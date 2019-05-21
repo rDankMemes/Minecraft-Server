@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2019-05-21 07:13:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-05-21 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2019-05-21 07:13:07 +0000"
     },
     "done": true
   },
@@ -113,15 +113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2019-05-21 07:17:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2019-05-21 07:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-21 07:17:04 +0000"
     },
     "done": true
   },
@@ -131,9 +131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "has_planks": "2019-05-21 07:13:29 +0000"
+      "has_quartz_block": "2019-05-21 06:23:22 +0000"
     },
     "done": true
   },
@@ -143,9 +143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "has_quartz_block": "2019-05-21 06:23:22 +0000"
+      "has_planks": "2019-05-21 07:13:29 +0000"
     },
     "done": true
   },
@@ -185,9 +185,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_planks": "2019-05-21 07:13:29 +0000"
+      "has_flint": "2019-05-21 06:45:04 +0000"
     },
     "done": true
   },
@@ -197,9 +197,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_flint": "2019-05-21 06:45:04 +0000"
+      "has_planks": "2019-05-21 07:13:29 +0000"
     },
     "done": true
   },
@@ -305,15 +305,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2019-05-21 07:13:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-05-21 07:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2019-05-21 07:13:29 +0000"
     },
     "done": true
   },
