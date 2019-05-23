@@ -1340,8 +1340,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:01:18 +0000",
-      "minecraft:badlands_plateau": "2019-05-18 22:56:32 +0000",
       "minecraft:forest": "2019-05-18 23:06:01 +0000",
+      "minecraft:badlands_plateau": "2019-05-18 22:56:32 +0000",
       "minecraft:desert_hills": "2019-05-18 23:05:48 +0000",
       "minecraft:desert": "2019-05-18 23:01:19 +0000",
       "minecraft:jungle": "2019-05-18 22:59:00 +0000",
