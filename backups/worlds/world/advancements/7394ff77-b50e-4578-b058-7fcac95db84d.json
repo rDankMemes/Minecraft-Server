@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:05:53 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 05:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
     },
     "done": true
   },
@@ -182,6 +194,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2019-05-18 23:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
     },
     "done": true
   },
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:05:53 +0000"
@@ -329,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-05-23 05:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-05-21 05:04:42 +0000"
@@ -344,6 +374,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2019-05-18 23:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2019-05-23 05:13:16 +0000"
     },
     "done": true
   },
@@ -413,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2019-05-21 05:22:21 +0000"
@@ -467,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2019-05-23 05:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:05:53 +0000"
@@ -518,8 +566,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:02:18 +0000",
-      "minecraft:forest": "2019-05-18 22:34:34 +0000",
       "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
+      "minecraft:forest": "2019-05-18 22:34:34 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:desert": "2019-05-18 23:02:16 +0000",
       "minecraft:jungle": "2019-05-18 23:00:02 +0000",
@@ -618,6 +666,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2019-05-23 05:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2019-05-23 05:13:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-05-18 23:35:46 +0000"
@@ -708,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-05-23 05:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-05-21 05:04:42 +0000"
@@ -723,6 +789,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-05-21 01:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
     },
     "done": true
   },
@@ -780,6 +852,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-05-23 05:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2019-05-18 23:16:58 +0000"
@@ -795,6 +879,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2019-05-18 23:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-23 05:11:46 +0000"
     },
     "done": true
   },
