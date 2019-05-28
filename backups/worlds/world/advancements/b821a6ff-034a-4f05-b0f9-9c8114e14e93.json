@@ -347,13 +347,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-22 14:08:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+  "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-22 14:08:01 +0000"
     },
@@ -575,15 +575,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2019-05-21 10:18:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-21 10:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-05-21 10:18:34 +0000"
     },
     "done": true
   },
@@ -626,6 +626,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-05-21 10:34:47 +0000",
+      "minecraft:desert": "2019-05-28 18:41:48 +0000",
       "minecraft:beach": "2019-05-19 05:35:28 +0000",
       "minecraft:river": "2019-05-19 10:49:38 +0000",
       "minecraft:plains": "2019-05-19 05:34:05 +0000"

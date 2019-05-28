@@ -1,7 +1,19 @@
 {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-05-28 18:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2019-05-21 14:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-28 18:38:53 +0000"
     },
     "done": true
   },
@@ -20,6 +32,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-05-21 15:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-05-28 18:34:58 +0000"
     },
     "done": true
   },
@@ -55,7 +73,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2019-05-28 18:33:52 +0000",
+      "minecraft:desert_hills": "2019-05-28 18:34:49 +0000",
+      "minecraft:desert": "2019-05-28 18:34:39 +0000",
       "minecraft:beach": "2019-05-21 14:34:25 +0000",
+      "minecraft:river": "2019-05-28 18:33:48 +0000",
       "minecraft:plains": "2019-05-21 14:29:16 +0000"
     },
     "done": false
@@ -78,6 +100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-05-28 18:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2019-05-21 14:47:50 +0000"
@@ -87,6 +115,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-05-21 14:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-28 18:38:53 +0000"
     },
     "done": true
   },
@@ -126,9 +160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-05-28 18:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-05-21 14:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-28 18:38:53 +0000"
     },
     "done": true
   },
@@ -153,6 +199,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2019-05-21 14:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-05-28 18:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-05-28 18:38:53 +0000"
     },
     "done": true
   }

@@ -467,13 +467,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-05-19 19:23:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-05-19 19:23:43 +0000"
     },
@@ -638,6 +638,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-21 21:26:41 +0000",
+      "minecraft:forest": "2019-05-28 19:57:49 +0000",
       "minecraft:desert_hills": "2019-05-21 20:42:31 +0000",
       "minecraft:desert": "2019-05-21 20:42:14 +0000",
       "minecraft:jungle": "2019-05-21 20:42:37 +0000",
