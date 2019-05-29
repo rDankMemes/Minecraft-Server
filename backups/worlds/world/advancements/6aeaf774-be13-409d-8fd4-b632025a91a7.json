@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-05-23 23:39:22 +0000",
+      "minecraft:beach": "2019-05-29 02:37:17 +0000",
       "minecraft:river": "2019-05-23 23:38:04 +0000",
       "minecraft:plains": "2019-05-23 23:32:39 +0000"
     },
@@ -97,13 +98,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_chiseled_quartz_block": "2019-05-24 00:52:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_chiseled_quartz_block": "2019-05-24 00:52:50 +0000"
     },
@@ -196,6 +197,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-05-24 01:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-05-29 02:51:44 +0000"
     },
     "done": true
   },
