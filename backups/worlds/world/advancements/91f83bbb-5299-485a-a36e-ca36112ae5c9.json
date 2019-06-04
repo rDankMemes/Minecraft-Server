@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2019-05-26 22:35:58 +0000"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-22 18:21:15 +0000"
@@ -386,6 +398,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-26 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
     },
     "done": true
   },
@@ -506,6 +524,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-05-26 22:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
     },
     "done": true
   },
@@ -731,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2019-05-22 18:21:15 +0000"
@@ -818,6 +848,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2019-05-23 10:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
     },
     "done": true
   },
@@ -920,6 +956,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-05-23 10:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
     },
     "done": true
   },
@@ -1238,6 +1280,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2019-05-23 10:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-04 14:32:01 +0000"
     },
     "done": true
   },
