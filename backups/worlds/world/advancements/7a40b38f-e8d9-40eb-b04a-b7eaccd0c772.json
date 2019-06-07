@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-06-07 10:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-06-05 18:29:21 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2019-06-07 10:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2019-06-05 19:07:28 +0000"
@@ -85,6 +97,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert_hills": "2019-06-07 11:35:20 +0000",
+      "minecraft:desert": "2019-06-07 11:35:22 +0000",
+      "minecraft:jungle": "2019-06-07 11:30:57 +0000",
+      "minecraft:jungle_hills": "2019-06-07 11:33:22 +0000",
+      "minecraft:river": "2019-06-07 11:30:40 +0000",
       "minecraft:plains": "2019-06-03 17:15:44 +0000"
     },
     "done": false
@@ -365,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-06-07 10:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-06-05 19:08:09 +0000"
@@ -386,6 +409,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2019-06-05 19:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-06-07 10:16:34 +0000"
     },
     "done": true
   },
@@ -446,6 +475,12 @@
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2019-06-05 19:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2019-06-07 10:17:01 +0000"
     },
     "done": true
   }
