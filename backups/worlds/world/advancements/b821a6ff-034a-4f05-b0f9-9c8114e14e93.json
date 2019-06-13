@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-06-13 09:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2019-06-06 15:49:32 +0000"
@@ -698,6 +704,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-05-19 16:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-06-13 09:57:05 +0000"
     },
     "done": true
   },
@@ -1276,6 +1288,7 @@
       "minecraft:cold_ocean": "2019-06-09 07:54:01 +0000",
       "minecraft:jungle_edge": "2019-06-09 07:27:36 +0000",
       "minecraft:snowy_mountains": "2019-06-09 07:51:45 +0000",
+      "minecraft:badlands_plateau": "2019-06-13 09:01:33 +0000",
       "minecraft:mountains": "2019-06-09 07:54:29 +0000",
       "minecraft:forest": "2019-05-21 10:34:47 +0000",
       "minecraft:taiga": "2019-06-09 07:55:15 +0000",
@@ -1290,7 +1303,10 @@
       "minecraft:birch_forest": "2019-06-09 09:12:55 +0000",
       "minecraft:jungle_hills": "2019-06-09 07:27:15 +0000",
       "minecraft:snowy_beach": "2019-06-09 07:53:02 +0000",
+      "minecraft:warm_ocean": "2019-06-13 09:02:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-09 07:51:23 +0000",
+      "minecraft:badlands": "2019-06-13 09:01:30 +0000",
+      "minecraft:savanna_plateau": "2019-06-13 09:01:05 +0000",
       "minecraft:beach": "2019-05-19 05:35:28 +0000",
       "minecraft:dark_forest": "2019-06-09 07:56:34 +0000",
       "minecraft:lukewarm_ocean": "2019-06-09 07:51:20 +0000",
@@ -1299,6 +1315,7 @@
       "minecraft:birch_forest_hills": "2019-06-10 08:23:44 +0000",
       "minecraft:wooded_hills": "2019-06-08 19:28:37 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-06-09 07:55:14 +0000",
+      "minecraft:wooded_badlands_plateau": "2019-06-13 09:01:43 +0000",
       "minecraft:swamp": "2019-06-09 07:54:50 +0000",
       "minecraft:snowy_taiga_hills": "2019-06-10 08:23:24 +0000",
       "minecraft:savanna": "2019-06-08 19:28:22 +0000",
