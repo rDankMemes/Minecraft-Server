@@ -943,6 +943,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:polar_bear": "2019-06-13 06:18:33 +0000",
       "minecraft:skeleton": "2019-05-19 09:14:01 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
       "minecraft:creeper": "2019-05-19 06:05:16 +0000"
