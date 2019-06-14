@@ -1364,6 +1364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2019-06-14 06:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2019-05-19 00:13:42 +0000"
