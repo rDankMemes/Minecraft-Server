@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-06-15 17:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-05-19 01:56:33 +0000"
@@ -97,10 +103,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2019-06-15 17:21:01 +0000",
       "minecraft:desert_hills": "2019-05-19 05:02:21 +0000",
       "minecraft:desert": "2019-05-19 05:02:00 +0000",
       "minecraft:beach": "2019-05-19 04:12:13 +0000",
       "minecraft:river": "2019-05-19 04:12:10 +0000",
+      "minecraft:savanna": "2019-06-15 17:20:20 +0000",
       "minecraft:plains": "2019-05-19 01:49:19 +0000"
     },
     "done": false
@@ -282,6 +290,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-05-19 05:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-06-15 17:16:14 +0000"
     },
     "done": true
   },
