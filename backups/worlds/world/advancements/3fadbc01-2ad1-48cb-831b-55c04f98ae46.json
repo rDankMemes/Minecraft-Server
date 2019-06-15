@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-06-15 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-06-15 00:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
@@ -29,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-06-15 00:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-06-14 04:28:31 +0000"
@@ -41,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-06-15 00:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
@@ -50,6 +74,24 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-06-15 00:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-06-15 00:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-06-15 00:38:41 +0000"
     },
     "done": true
   },
@@ -68,6 +110,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2019-06-15 00:21:24 +0000"
     },
     "done": true
   },
