@@ -97,10 +97,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-21 01:25:08 +0000",
       "minecraft:cold_ocean": "2019-06-15 02:31:10 +0000",
-      "minecraft:forest": "2019-05-20 05:41:57 +0000",
+      "minecraft:jungle_edge": "2019-05-21 01:25:08 +0000",
       "minecraft:mountains": "2019-06-15 04:06:56 +0000",
+      "minecraft:forest": "2019-05-20 05:41:57 +0000",
       "minecraft:taiga": "2019-06-15 04:06:49 +0000",
       "minecraft:desert_hills": "2019-05-20 05:43:18 +0000",
       "minecraft:desert": "2019-05-20 05:42:53 +0000",
@@ -121,6 +121,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2019-05-21 23:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
     },
     "done": true
   },
@@ -169,6 +175,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-05-21 03:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
     },
     "done": true
   },
@@ -304,6 +316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-05-21 03:06:29 +0000"
@@ -364,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2019-05-19 19:41:34 +0000"
@@ -406,6 +430,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-05-18 22:31:52 +0000"
@@ -415,6 +451,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-05-21 02:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
     },
     "done": true
   },
@@ -445,6 +487,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2019-05-29 04:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-06-15 18:00:26 +0000"
     },
     "done": true
   },
