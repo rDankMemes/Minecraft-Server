@@ -17,19 +17,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2019-06-14 04:35:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-06-14 04:28:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_door": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
     },
@@ -38,6 +32,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-06-14 04:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-06-14 04:35:19 +0000"
     },
     "done": true
   },
@@ -59,13 +59,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sign": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
     },
