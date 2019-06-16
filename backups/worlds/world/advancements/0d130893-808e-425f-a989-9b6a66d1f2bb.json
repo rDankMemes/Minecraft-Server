@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-06-16 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2019-06-14 03:59:27 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2019-06-16 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2019-06-16 03:48:22 +0000"
     },
     "done": true
   },
@@ -608,6 +620,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-06-15 23:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2019-06-16 03:37:28 +0000"
     },
     "done": true
   },
@@ -1016,6 +1034,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-06-15 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2019-06-16 03:06:43 +0000"
     },
     "done": true
   },
