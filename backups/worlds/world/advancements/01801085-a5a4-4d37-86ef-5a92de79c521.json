@@ -71,13 +71,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-05-28 07:37:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-05-28 07:37:09 +0000"
     },
@@ -413,15 +413,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2019-06-12 14:47:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-06-12 14:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-06-12 14:47:02 +0000"
     },
     "done": true
   },

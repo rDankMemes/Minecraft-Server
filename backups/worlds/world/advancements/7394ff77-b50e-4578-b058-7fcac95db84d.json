@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:05:53 +0000"
@@ -332,6 +338,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-28 07:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
     },
     "done": true
   },
@@ -482,6 +494,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2019-05-23 05:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
     },
     "done": true
   },
@@ -689,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:05:53 +0000"
@@ -698,6 +722,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
     },
     "done": true
   },
@@ -716,6 +746,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 05:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
     },
     "done": true
   },
@@ -965,11 +1001,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-06-15 23:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:02:18 +0000",
-      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
       "minecraft:forest": "2019-05-18 22:34:34 +0000",
+      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:desert": "2019-05-18 23:02:16 +0000",
       "minecraft:jungle": "2019-05-18 23:00:02 +0000",
