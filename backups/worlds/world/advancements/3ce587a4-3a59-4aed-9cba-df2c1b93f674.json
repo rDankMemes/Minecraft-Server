@@ -65,15 +65,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-05-21 03:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-21 03:06:29 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "get_stone": "2019-05-21 03:06:29 +0000"
+      "has_stone_bricks": "2019-06-17 03:35:00 +0000"
     },
     "done": true
   },
@@ -97,10 +103,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-21 01:25:08 +0000",
       "minecraft:cold_ocean": "2019-06-15 02:31:10 +0000",
-      "minecraft:forest": "2019-05-20 05:41:57 +0000",
+      "minecraft:jungle_edge": "2019-05-21 01:25:08 +0000",
       "minecraft:mountains": "2019-06-15 04:06:56 +0000",
+      "minecraft:forest": "2019-05-20 05:41:57 +0000",
       "minecraft:taiga": "2019-06-15 04:06:49 +0000",
       "minecraft:desert_hills": "2019-05-20 05:43:18 +0000",
       "minecraft:desert": "2019-05-20 05:42:53 +0000",
@@ -151,6 +157,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-05-19 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-17 03:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-06-17 04:02:49 +0000"
     },
     "done": true
   },
@@ -325,6 +343,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-05-24 03:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-17 03:35:00 +0000"
     },
     "done": true
   },
@@ -541,6 +565,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-05-29 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-17 03:35:00 +0000"
     },
     "done": true
   }

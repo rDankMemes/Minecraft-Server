@@ -1925,6 +1925,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2019-06-17 03:23:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-18 23:09:34 +0000"
