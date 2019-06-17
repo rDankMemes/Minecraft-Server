@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-06-14 14:58:09 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2019-06-17 00:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-06-14 03:37:03 +0000"
@@ -290,6 +302,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-06-14 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
     },
     "done": true
   },
@@ -410,6 +428,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-06-14 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-06-17 02:31:12 +0000"
     },
     "done": true
   },
@@ -593,13 +617,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-06-15 23:19:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-06-15 23:19:43 +0000"
     },
@@ -671,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 23:03:50 +0000"
@@ -722,6 +752,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
     },
     "done": true
   },
@@ -845,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-06-14 03:41:27 +0000"
@@ -860,6 +902,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2019-06-17 00:55:46 +0000"
     },
     "done": true
   },
@@ -995,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-06-14 03:59:12 +0000"
@@ -1111,6 +1165,7 @@
       "minecraft:desert": "2019-06-15 04:10:41 +0000",
       "minecraft:jungle": "2019-06-14 14:40:38 +0000",
       "minecraft:jungle_hills": "2019-06-15 04:11:15 +0000",
+      "minecraft:beach": "2019-06-17 02:50:39 +0000",
       "minecraft:river": "2019-06-15 04:10:21 +0000",
       "minecraft:plains": "2019-06-14 03:26:42 +0000"
     },
@@ -1206,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2019-06-14 21:27:28 +0000"
@@ -1263,6 +1324,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-06-15 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-17 02:16:02 +0000"
     },
     "done": true
   },
