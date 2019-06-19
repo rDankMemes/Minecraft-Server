@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-06-14 14:58:33 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2019-06-18 22:47:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-14 18:12:37 +0000"
@@ -311,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-14 18:12:37 +0000"
@@ -320,6 +338,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-06-06 11:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-06-18 22:34:47 +0000"
     },
     "done": true
   },
@@ -509,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-06-18 22:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-06-05 19:16:03 +0000"
@@ -545,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-06-18 22:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-06 11:39:29 +0000"
@@ -560,6 +596,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-06-06 12:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-06-18 22:34:47 +0000"
     },
     "done": true
   },
@@ -629,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
@@ -680,6 +728,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
     },
     "done": true
   },
@@ -737,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-06-06 12:17:01 +0000"
@@ -770,6 +830,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-06-06 11:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-06-18 22:40:57 +0000"
     },
     "done": true
   },
@@ -863,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-06-18 22:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2019-06-14 10:29:31 +0000"
@@ -899,9 +971,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-06-06 11:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-06-18 22:34:47 +0000"
     },
     "done": true
   },
@@ -938,6 +1022,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2019-06-11 10:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-06-18 22:34:47 +0000"
     },
     "done": true
   },
@@ -1069,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2019-06-14 17:27:31 +0000"
@@ -1120,6 +1216,18 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-06-15 06:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-18 22:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-06-18 22:34:47 +0000"
     },
     "done": true
   },

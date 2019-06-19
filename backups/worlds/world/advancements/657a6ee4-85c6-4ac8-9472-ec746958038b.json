@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-06-18 22:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-06-18 22:22:34 +0000"
+    },
+    "done": true
+  }
+}

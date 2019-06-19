@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2019-06-18 22:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 23:03:50 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2019-06-17 03:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2019-06-18 23:39:48 +0000"
     },
     "done": true
   },
@@ -575,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-06-18 23:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-06-15 03:27:39 +0000"
@@ -680,6 +698,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2019-06-15 02:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-06-18 22:55:55 +0000"
     },
     "done": true
   },
@@ -1043,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-06-18 22:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-06-14 15:52:51 +0000"
@@ -1130,6 +1160,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-06-15 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-06-18 23:39:48 +0000"
     },
     "done": true
   },
@@ -1420,6 +1456,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-06-15 23:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-06-18 22:40:02 +0000"
     },
     "done": true
   },
