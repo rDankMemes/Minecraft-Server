@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-06-21 22:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2019-06-14 18:23:58 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-06-17 10:40:40 +0000"
@@ -393,6 +405,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-14 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
     },
     "done": true
   },
@@ -585,6 +603,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2019-06-14 14:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
     },
     "done": true
   },
@@ -810,9 +834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2019-06-14 13:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
     },
     "done": true
   },
@@ -831,6 +867,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
     },
     "done": true
   },
@@ -1125,6 +1167,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-14 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-06-21 21:34:19 +0000"
     },
     "done": true
   },
