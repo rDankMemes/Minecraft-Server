@@ -1,7 +1,19 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_stone_pickaxe": "2019-06-22 02:49:26 +0000"
+      "has_redstone_block": "2019-06-22 05:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-06-22 03:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-06-22 03:24:09 +0000"
     },
     "done": true
   },
@@ -11,15 +23,77 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-06-22 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-06-22 05:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-06-22 02:49:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-06-22 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-06-22 02:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-06-22 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-06-22 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-06-22 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-06-22 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-06-22 03:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle": "2019-06-22 02:59:24 +0000"
+      "minecraft:jungle_edge": "2019-06-22 03:00:46 +0000",
+      "minecraft:desert": "2019-06-22 03:00:47 +0000",
+      "minecraft:jungle": "2019-06-22 02:59:24 +0000",
+      "minecraft:jungle_hills": "2019-06-22 03:02:27 +0000",
+      "minecraft:savanna_plateau": "2019-06-22 03:01:07 +0000",
+      "minecraft:beach": "2019-06-22 04:37:56 +0000",
+      "minecraft:river": "2019-06-22 03:02:20 +0000",
+      "minecraft:savanna": "2019-06-22 03:00:59 +0000",
+      "minecraft:plains": "2019-06-22 04:33:21 +0000"
     },
     "done": false
   }
