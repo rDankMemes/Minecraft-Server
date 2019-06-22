@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2019-06-22 12:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-21 22:30:44 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-06-22 12:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-21 22:30:44 +0000"
@@ -256,6 +268,13 @@
       "has_egg": "2019-06-22 10:17:22 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2019-06-22 12:10:02 +0000",
+      "enchanted_golden_apple": "2019-06-22 12:15:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
@@ -533,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-06-22 12:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2019-06-22 11:31:14 +0000"
@@ -647,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-06-22 12:17:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2019-06-21 20:11:02 +0000"
@@ -703,7 +734,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:stray": "2019-06-22 11:35:34 +0000"
+      "minecraft:stray": "2019-06-22 11:35:34 +0000",
+      "minecraft:creeper": "2019-06-22 12:25:08 +0000"
     },
     "done": false
   },
