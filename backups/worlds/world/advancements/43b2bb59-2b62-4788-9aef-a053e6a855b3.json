@@ -722,7 +722,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:shulker": "2019-06-22 11:35:58 +0000"
+      "minecraft:shulker": "2019-06-22 11:35:58 +0000",
+      "minecraft:zombie": "2019-06-22 17:18:28 +0000"
     },
     "done": false
   },
