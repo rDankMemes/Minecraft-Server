@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-06-22 11:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-05-21 10:34:41 +0000"
@@ -1603,12 +1609,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-06-09 07:27:36 +0000",
       "minecraft:cold_ocean": "2019-06-09 07:54:01 +0000",
+      "minecraft:jungle_edge": "2019-06-09 07:27:36 +0000",
       "minecraft:snowy_mountains": "2019-06-09 07:51:45 +0000",
-      "minecraft:forest": "2019-05-21 10:34:47 +0000",
-      "minecraft:mountains": "2019-06-09 07:54:29 +0000",
       "minecraft:badlands_plateau": "2019-06-13 09:01:33 +0000",
+      "minecraft:mountains": "2019-06-09 07:54:29 +0000",
+      "minecraft:forest": "2019-05-21 10:34:47 +0000",
       "minecraft:taiga": "2019-06-09 07:55:15 +0000",
       "minecraft:desert_hills": "2019-06-08 19:29:23 +0000",
       "minecraft:giant_tree_taiga": "2019-06-09 07:55:12 +0000",
@@ -1627,8 +1633,8 @@
       "minecraft:savanna_plateau": "2019-06-13 09:01:05 +0000",
       "minecraft:beach": "2019-05-19 05:35:28 +0000",
       "minecraft:dark_forest": "2019-06-09 07:56:34 +0000",
-      "minecraft:river": "2019-05-19 10:49:38 +0000",
       "minecraft:lukewarm_ocean": "2019-06-09 07:51:20 +0000",
+      "minecraft:river": "2019-05-19 10:49:38 +0000",
       "minecraft:snowy_taiga": "2019-06-09 09:12:25 +0000",
       "minecraft:birch_forest_hills": "2019-06-10 08:23:44 +0000",
       "minecraft:wooded_hills": "2019-06-08 19:28:37 +0000",
@@ -1674,6 +1680,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-06-09 09:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-06-22 11:24:52 +0000"
     },
     "done": true
   },
