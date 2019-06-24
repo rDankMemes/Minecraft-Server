@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2019-06-23 22:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-06-23 21:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-05-19 00:43:21 +0000"
@@ -446,6 +458,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2019-05-25 23:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-06-23 22:18:29 +0000"
     },
     "done": true
   },
@@ -572,6 +590,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2019-05-18 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2019-06-23 22:18:33 +0000"
     },
     "done": true
   },
@@ -917,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2019-06-23 22:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2019-05-21 06:54:32 +0000"
@@ -946,7 +976,8 @@
       "minecraft:polar_bear": "2019-06-13 06:18:33 +0000",
       "minecraft:skeleton": "2019-05-19 09:14:01 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
-      "minecraft:creeper": "2019-05-19 06:05:16 +0000"
+      "minecraft:creeper": "2019-05-19 06:05:16 +0000",
+      "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
     "done": false
   },
@@ -1004,6 +1035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-06-23 21:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2019-05-18 23:11:02 +0000"
@@ -1031,6 +1068,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2019-05-19 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-06-23 22:04:34 +0000"
     },
     "done": true
   },
@@ -1280,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-06-23 21:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-05-18 23:21:23 +0000"
@@ -1436,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-06-23 21:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
@@ -1490,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-06-23 22:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2019-05-19 01:43:21 +0000"
@@ -1499,6 +1560,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2019-06-10 03:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2019-06-23 22:18:33 +0000"
     },
     "done": true
   },
@@ -1688,6 +1755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-06-23 22:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-19 00:43:21 +0000"
@@ -1746,6 +1819,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-05-19 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-06-23 21:08:32 +0000"
     },
     "done": true
   },
@@ -1878,6 +1957,12 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2019-05-19 07:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-06-23 21:52:35 +0000"
     },
     "done": true
   },
@@ -2058,6 +2143,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2019-05-18 23:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-06-23 21:07:26 +0000"
     },
     "done": true
   },

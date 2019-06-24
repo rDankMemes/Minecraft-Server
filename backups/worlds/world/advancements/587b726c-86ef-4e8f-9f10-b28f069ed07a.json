@@ -725,7 +725,8 @@
       "minecraft:ghast": "2019-06-21 18:00:29 +0000",
       "minecraft:shulker": "2019-05-22 20:53:28 +0000",
       "minecraft:zombie": "2019-05-18 23:21:03 +0000",
-      "minecraft:creeper": "2019-05-19 09:38:30 +0000"
+      "minecraft:creeper": "2019-05-19 09:38:30 +0000",
+      "minecraft:slime": "2019-06-23 22:04:04 +0000"
     },
     "done": false
   },
@@ -1326,9 +1327,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 22:58:11 +0000",
-      "minecraft:forest": "2019-05-18 22:46:16 +0000",
-      "minecraft:mountains": "2019-05-18 22:51:56 +0000",
       "minecraft:mushroom_fields": "2019-05-18 22:54:29 +0000",
+      "minecraft:mountains": "2019-05-18 22:51:56 +0000",
+      "minecraft:forest": "2019-05-18 22:46:16 +0000",
       "minecraft:taiga": "2019-05-18 22:52:20 +0000",
       "minecraft:desert_hills": "2019-05-18 22:46:37 +0000",
       "minecraft:desert": "2019-05-18 22:46:24 +0000",
@@ -1339,8 +1340,8 @@
       "minecraft:badlands": "2019-05-18 22:49:43 +0000",
       "minecraft:savanna_plateau": "2019-05-18 22:58:01 +0000",
       "minecraft:beach": "2019-05-18 22:36:47 +0000",
-      "minecraft:river": "2019-05-18 22:36:50 +0000",
       "minecraft:lukewarm_ocean": "2019-05-18 22:50:34 +0000",
+      "minecraft:river": "2019-05-18 22:36:50 +0000",
       "minecraft:wooded_mountains": "2019-05-18 22:52:15 +0000",
       "minecraft:wooded_hills": "2019-05-19 20:52:30 +0000",
       "minecraft:stone_shore": "2019-05-18 22:51:54 +0000",
