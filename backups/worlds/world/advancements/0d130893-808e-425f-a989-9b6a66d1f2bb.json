@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2019-06-24 01:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-06-14 22:08:19 +0000"
@@ -890,6 +896,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-06-16 03:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2019-06-24 01:18:27 +0000"
     },
     "done": true
   },
@@ -1394,6 +1406,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2019-06-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2019-06-24 01:18:27 +0000"
     },
     "done": true
   },

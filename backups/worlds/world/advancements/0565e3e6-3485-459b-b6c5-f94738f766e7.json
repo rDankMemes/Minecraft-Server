@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-06-23 23:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-05-19 23:55:32 +0000"
@@ -782,6 +788,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-06-23 23:59:26 +0000"
     },
     "done": true
   },
@@ -1701,18 +1713,18 @@
       "minecraft:shulker": "2019-05-23 02:05:17 +0000",
       "minecraft:cave_spider": "2019-05-23 02:05:17 +0000",
       "minecraft:guardian": "2019-05-23 02:05:17 +0000",
-      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
-      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
-      "minecraft:stray": "2019-05-23 02:05:17 +0000",
       "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
+      "minecraft:stray": "2019-05-23 02:05:17 +0000",
+      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
+      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
       "minecraft:magma_cube": "2019-05-23 02:05:17 +0000",
       "minecraft:spider": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie": "2019-05-23 02:05:17 +0000",
-      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:drowned": "2019-05-23 02:05:17 +0000",
+      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie_villager": "2019-05-23 02:05:17 +0000",
-      "minecraft:evoker": "2019-05-23 02:05:17 +0000",
-      "minecraft:slime": "2019-05-23 02:05:17 +0000"
+      "minecraft:slime": "2019-05-23 02:05:17 +0000",
+      "minecraft:evoker": "2019-05-23 02:05:17 +0000"
     },
     "done": true
   },
@@ -1772,10 +1784,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
-      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:forest": "2019-05-21 01:49:22 +0000",
+      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
       "minecraft:desert": "2019-05-19 01:53:40 +0000",
       "minecraft:deep_frozen_ocean": "2019-05-31 00:47:33 +0000",
