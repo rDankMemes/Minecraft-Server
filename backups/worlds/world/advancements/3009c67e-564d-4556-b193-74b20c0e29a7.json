@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-06-24 04:40:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
@@ -975,8 +981,11 @@
     "criteria": {
       "minecraft:polar_bear": "2019-06-13 06:18:33 +0000",
       "minecraft:skeleton": "2019-05-19 09:14:01 +0000",
+      "minecraft:guardian": "2019-06-24 05:27:47 +0000",
+      "minecraft:magma_cube": "2019-06-24 04:40:05 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
       "minecraft:creeper": "2019-05-19 06:05:16 +0000",
+      "minecraft:zombie_villager": "2019-06-24 05:27:22 +0000",
       "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
     "done": false
