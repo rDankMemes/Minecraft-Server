@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-28 02:56:40 +0000"
@@ -542,6 +548,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-05-19 05:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
     },
     "done": true
   },
@@ -725,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-05-19 05:31:39 +0000"
@@ -752,6 +770,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-20 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
     },
     "done": true
   },
@@ -935,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-20 04:28:59 +0000"
@@ -989,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2019-06-24 01:20:40 +0000"
@@ -1037,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-06-20 03:18:52 +0000"
@@ -1068,6 +1110,7 @@
       "minecraft:desert_hills": "2019-05-21 01:31:07 +0000",
       "minecraft:desert": "2019-05-21 01:30:41 +0000",
       "minecraft:jungle": "2019-05-21 01:27:08 +0000",
+      "minecraft:jungle_hills": "2019-06-25 04:58:20 +0000",
       "minecraft:beach": "2019-05-19 05:30:19 +0000",
       "minecraft:river": "2019-05-19 05:30:30 +0000",
       "minecraft:savanna": "2019-05-21 01:22:53 +0000",
@@ -1108,6 +1151,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-06-20 03:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2019-06-25 04:03:43 +0000"
     },
     "done": true
   },

@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-06-25 03:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-06-16 01:34:35 +0000"
@@ -665,6 +671,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-06-21 17:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-06-25 03:11:30 +0000"
     },
     "done": true
   },
@@ -990,6 +1002,7 @@
       "minecraft:jungle_hills": "2019-06-15 04:11:15 +0000",
       "minecraft:beach": "2019-06-17 02:50:39 +0000",
       "minecraft:river": "2019-06-15 04:10:21 +0000",
+      "minecraft:savanna": "2019-06-25 03:21:42 +0000",
       "minecraft:plains": "2019-06-14 03:26:42 +0000"
     },
     "done": false
@@ -1285,6 +1298,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2019-06-25 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-06-25 03:12:10 +0000"
     },
     "done": true
   },
@@ -1610,11 +1629,11 @@
       "minecraft:ocelot": "2019-06-24 23:11:21 +0000",
       "minecraft:cow": "2019-06-24 23:16:44 +0000",
       "minecraft:chicken": "2019-06-24 23:13:17 +0000",
-      "minecraft:llama": "2019-06-24 23:13:43 +0000",
       "minecraft:wolf": "2019-06-24 23:11:00 +0000",
+      "minecraft:llama": "2019-06-24 23:13:43 +0000",
       "minecraft:turtle": "2019-06-24 23:11:52 +0000",
-      "minecraft:rabbit": "2019-06-24 23:17:43 +0000",
-      "minecraft:sheep": "2019-06-24 23:09:28 +0000"
+      "minecraft:sheep": "2019-06-24 23:09:28 +0000",
+      "minecraft:rabbit": "2019-06-24 23:17:43 +0000"
     },
     "done": false
   },
@@ -1846,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-06-25 03:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-06-21 18:23:28 +0000"
@@ -2035,6 +2060,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2019-06-24 22:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-06-25 03:13:57 +0000"
     },
     "done": true
   },
@@ -2350,9 +2381,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-06-25 03:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-06-24 23:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-06-25 04:53:03 +0000"
     },
     "done": true
   },
