@@ -403,6 +403,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2019-06-25 00:49:03 +0000",
       "enchanted_golden_apple": "2019-05-19 07:40:29 +0000"
     },
     "done": false
