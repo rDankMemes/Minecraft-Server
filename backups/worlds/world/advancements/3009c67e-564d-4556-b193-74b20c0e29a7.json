@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-06-24 22:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:53:39 +0000"
@@ -716,6 +722,18 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-05-19 06:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-06-24 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-06-24 22:17:46 +0000"
     },
     "done": true
   },
@@ -1098,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-06-24 22:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
@@ -1227,6 +1251,12 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2019-05-19 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2019-06-24 22:17:22 +0000"
     },
     "done": true
   },
@@ -1801,6 +1831,7 @@
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:desert": "2019-05-19 05:07:19 +0000",
       "minecraft:jungle": "2019-05-21 07:43:29 +0000",
+      "minecraft:jungle_hills": "2019-06-24 22:09:27 +0000",
       "minecraft:beach": "2019-05-18 23:09:37 +0000",
       "minecraft:river": "2019-05-18 23:08:24 +0000",
       "minecraft:plains": "2019-05-18 23:07:07 +0000"
@@ -2035,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-06-24 22:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-05-19 09:38:51 +0000"
@@ -2050,6 +2087,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-05-25 23:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-06-24 22:20:08 +0000"
     },
     "done": true
   },
