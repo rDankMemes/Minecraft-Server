@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-26 05:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
@@ -206,6 +212,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2019-06-22 12:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-26 05:35:02 +0000"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-06-26 05:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2019-06-14 12:28:28 +0000"
@@ -432,13 +450,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-06 11:39:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-06 11:39:29 +0000"
     },
@@ -579,6 +597,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-06-14 06:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-26 05:35:02 +0000"
     },
     "done": true
   },
@@ -753,6 +777,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-06-21 12:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-06-26 05:28:47 +0000"
     },
     "done": true
   },
@@ -1367,6 +1397,7 @@
     "criteria": {
       "minecraft:jungle": "2019-06-14 14:40:15 +0000",
       "minecraft:beach": "2019-06-05 19:12:52 +0000",
+      "minecraft:river": "2019-06-26 05:34:24 +0000",
       "minecraft:plains": "2019-06-05 19:11:26 +0000"
     },
     "done": false
@@ -1416,6 +1447,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2019-06-19 22:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-06-26 05:28:47 +0000"
     },
     "done": true
   },
@@ -1557,6 +1594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-26 05:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-06-18 22:34:47 +0000"
@@ -1566,6 +1609,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-06-14 14:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-06-26 05:35:02 +0000"
     },
     "done": true
   },
