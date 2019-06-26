@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-06-25 21:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-05-18 23:11:12 +0000"
@@ -895,6 +901,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-05-18 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-06-25 21:37:34 +0000"
     },
     "done": true
   },
@@ -1729,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-06-25 21:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2019-05-18 23:09:44 +0000"
@@ -2384,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-06-25 21:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-18 23:11:07 +0000"
@@ -2882,6 +2906,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-06-25 21:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-05-18 23:11:28 +0000"
@@ -2903,6 +2933,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-05-18 23:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-06-25 21:42:28 +0000"
     },
     "done": true
   },
@@ -3137,6 +3173,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-18 23:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-06-25 21:37:34 +0000"
     },
     "done": true
   },
