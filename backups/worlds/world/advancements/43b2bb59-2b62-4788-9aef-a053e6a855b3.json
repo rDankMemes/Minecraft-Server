@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-06-26 14:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2019-06-14 18:23:58 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-06-26 14:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-06-18 22:29:43 +0000"
@@ -182,6 +194,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-06-26 14:34:24 +0000"
     },
     "done": true
   },
@@ -374,6 +392,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2019-06-21 12:05:04 +0000",
+      "cooked_chicken": "2019-06-26 14:00:42 +0000",
       "enchanted_golden_apple": "2019-06-18 22:47:22 +0000"
     },
     "done": false
@@ -486,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-06-26 14:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2019-06-14 14:30:39 +0000"
@@ -495,6 +520,12 @@
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2019-06-14 18:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-06-26 14:41:36 +0000"
     },
     "done": true
   },
@@ -741,6 +772,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-06 11:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-06-26 14:41:36 +0000"
     },
     "done": true
   },
@@ -1321,6 +1358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-06-26 14:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2019-06-06 11:36:06 +0000"
@@ -1401,8 +1444,9 @@
       "minecraft:warm_ocean": "2019-06-26 10:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-26 10:13:20 +0000",
       "minecraft:beach": "2019-06-05 19:12:52 +0000",
-      "minecraft:river": "2019-06-26 05:34:24 +0000",
       "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
+      "minecraft:river": "2019-06-26 05:34:24 +0000",
+      "minecraft:savanna": "2019-06-26 14:06:19 +0000",
       "minecraft:plains": "2019-06-05 19:11:26 +0000"
     },
     "done": false
@@ -1500,6 +1544,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-06-26 14:41:36 +0000"
     },
     "done": true
   },
