@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-06-30 05:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-06-22 01:06:36 +0000"
@@ -335,15 +341,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2019-05-21 03:06:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-21 03:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-05-21 03:06:29 +0000"
     },
     "done": true
   },
@@ -361,10 +367,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-21 01:25:08 +0000",
       "minecraft:cold_ocean": "2019-06-15 02:31:10 +0000",
-      "minecraft:forest": "2019-05-20 05:41:57 +0000",
+      "minecraft:jungle_edge": "2019-05-21 01:25:08 +0000",
       "minecraft:mountains": "2019-06-15 04:06:56 +0000",
+      "minecraft:forest": "2019-05-20 05:41:57 +0000",
       "minecraft:taiga": "2019-06-15 04:06:49 +0000",
       "minecraft:desert_hills": "2019-05-20 05:43:18 +0000",
       "minecraft:desert": "2019-05-20 05:42:53 +0000",
