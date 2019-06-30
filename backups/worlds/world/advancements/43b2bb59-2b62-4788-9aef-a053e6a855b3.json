@@ -840,6 +840,7 @@
       "minecraft:skeleton": "2019-06-26 15:05:03 +0000",
       "minecraft:wither_skeleton": "2019-06-26 15:03:49 +0000",
       "minecraft:shulker": "2019-06-22 11:35:58 +0000",
+      "minecraft:cave_spider": "2019-06-30 20:40:45 +0000",
       "minecraft:zombie": "2019-06-22 17:18:28 +0000",
       "minecraft:creeper": "2019-06-26 15:02:24 +0000"
     },
@@ -1459,8 +1460,8 @@
       "minecraft:warm_ocean": "2019-06-26 10:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-26 10:13:20 +0000",
       "minecraft:beach": "2019-06-05 19:12:52 +0000",
-      "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
       "minecraft:river": "2019-06-26 05:34:24 +0000",
+      "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
       "minecraft:savanna": "2019-06-26 14:06:19 +0000",
       "minecraft:plains": "2019-06-05 19:11:26 +0000"
     },
@@ -1751,6 +1752,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-06-06 11:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-06-30 20:22:47 +0000"
     },
     "done": true
   },
