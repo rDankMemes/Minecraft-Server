@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2019-07-13 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-06-09 13:19:45 +0000"
@@ -539,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2019-07-13 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2019-05-19 10:59:00 +0000"
@@ -554,6 +566,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-22 14:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-07-13 19:50:03 +0000"
     },
     "done": true
   },
@@ -937,6 +955,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2019-07-13 19:55:36 +0000",
       "minecraft:creeper": "2019-06-22 12:23:54 +0000"
     },
     "done": false
@@ -962,6 +981,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2019-05-19 11:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-07-13 19:46:59 +0000"
     },
     "done": true
   },
@@ -1217,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-07-13 19:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2019-06-21 20:12:18 +0000"
@@ -1253,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-07-13 19:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-05-19 15:57:23 +0000"
@@ -1274,6 +1311,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2019-05-19 12:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2019-07-13 19:50:38 +0000"
     },
     "done": true
   },
@@ -1705,12 +1748,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-06-09 07:54:01 +0000",
       "minecraft:jungle_edge": "2019-06-09 07:27:36 +0000",
+      "minecraft:cold_ocean": "2019-06-09 07:54:01 +0000",
       "minecraft:snowy_mountains": "2019-06-09 07:51:45 +0000",
-      "minecraft:badlands_plateau": "2019-06-13 09:01:33 +0000",
-      "minecraft:mountains": "2019-06-09 07:54:29 +0000",
       "minecraft:forest": "2019-05-21 10:34:47 +0000",
+      "minecraft:mountains": "2019-06-09 07:54:29 +0000",
+      "minecraft:badlands_plateau": "2019-06-13 09:01:33 +0000",
       "minecraft:taiga": "2019-06-09 07:55:15 +0000",
       "minecraft:desert_hills": "2019-06-08 19:29:23 +0000",
       "minecraft:giant_tree_taiga": "2019-06-09 07:55:12 +0000",
@@ -1729,8 +1772,8 @@
       "minecraft:savanna_plateau": "2019-06-13 09:01:05 +0000",
       "minecraft:beach": "2019-05-19 05:35:28 +0000",
       "minecraft:dark_forest": "2019-06-09 07:56:34 +0000",
-      "minecraft:lukewarm_ocean": "2019-06-09 07:51:20 +0000",
       "minecraft:river": "2019-05-19 10:49:38 +0000",
+      "minecraft:lukewarm_ocean": "2019-06-09 07:51:20 +0000",
       "minecraft:snowy_taiga": "2019-06-09 09:12:25 +0000",
       "minecraft:birch_forest_hills": "2019-06-10 08:23:44 +0000",
       "minecraft:wooded_hills": "2019-06-08 19:28:37 +0000",
