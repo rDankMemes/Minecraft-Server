@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2019-07-13 07:08:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-07-10 21:32:47 +0000"
@@ -503,6 +509,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-14 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2019-07-13 07:08:13 +0000"
     },
     "done": true
   },
@@ -943,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2019-07-13 07:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
@@ -1075,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2019-07-13 07:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2019-06-14 13:17:25 +0000"
@@ -1144,6 +1168,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2019-06-11 10:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2019-07-13 07:08:13 +0000"
     },
     "done": true
   },
@@ -1521,8 +1551,8 @@
       "minecraft:warm_ocean": "2019-06-26 10:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-26 10:13:20 +0000",
       "minecraft:beach": "2019-06-05 19:12:52 +0000",
-      "minecraft:river": "2019-06-26 05:34:24 +0000",
       "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
+      "minecraft:river": "2019-06-26 05:34:24 +0000",
       "minecraft:savanna": "2019-06-26 14:06:19 +0000",
       "minecraft:plains": "2019-06-05 19:11:26 +0000"
     },
@@ -1597,6 +1627,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2019-06-14 14:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2019-07-13 07:10:28 +0000"
     },
     "done": true
   },
