@@ -404,6 +404,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2019-06-21 12:05:04 +0000",
+      "pufferfish": "2019-07-13 05:23:31 +0000",
       "cooked_chicken": "2019-06-26 14:00:42 +0000",
       "enchanted_golden_apple": "2019-06-18 22:47:22 +0000"
     },
@@ -879,6 +880,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2019-06-14 06:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-07-13 04:25:06 +0000"
     },
     "done": true
   },
@@ -1514,8 +1521,8 @@
       "minecraft:warm_ocean": "2019-06-26 10:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-26 10:13:20 +0000",
       "minecraft:beach": "2019-06-05 19:12:52 +0000",
-      "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
       "minecraft:river": "2019-06-26 05:34:24 +0000",
+      "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
       "minecraft:savanna": "2019-06-26 14:06:19 +0000",
       "minecraft:plains": "2019-06-05 19:11:26 +0000"
     },
