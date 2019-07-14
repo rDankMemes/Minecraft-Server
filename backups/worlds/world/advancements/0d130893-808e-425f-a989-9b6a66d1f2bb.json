@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2019-07-14 03:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-06-15 22:59:51 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2019-06-25 03:11:41 +0000"
@@ -592,8 +604,8 @@
       "minecraft:skeleton": "2019-06-27 00:13:45 +0000",
       "minecraft:wither_skeleton": "2019-06-24 04:08:02 +0000",
       "minecraft:shulker": "2019-06-24 04:22:17 +0000",
-      "minecraft:silverfish": "2019-07-13 00:56:18 +0000",
       "minecraft:enderman": "2019-06-25 21:54:10 +0000",
+      "minecraft:silverfish": "2019-07-13 00:56:18 +0000",
       "minecraft:magma_cube": "2019-06-26 01:09:29 +0000",
       "minecraft:creeper": "2019-06-22 22:37:07 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:20 +0000"
@@ -741,6 +753,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-06-21 17:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
     },
     "done": true
   },
@@ -1118,13 +1136,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-06-15 04:10:38 +0000",
       "minecraft:cold_ocean": "2019-06-25 20:29:33 +0000",
+      "minecraft:jungle_edge": "2019-06-15 04:10:38 +0000",
       "minecraft:snowy_mountains": "2019-06-25 20:18:28 +0000",
-      "minecraft:forest": "2019-06-16 01:44:41 +0000",
-      "minecraft:mountains": "2019-06-25 20:16:29 +0000",
-      "minecraft:badlands_plateau": "2019-06-25 20:28:21 +0000",
       "minecraft:mushroom_fields": "2019-06-25 20:18:58 +0000",
+      "minecraft:badlands_plateau": "2019-06-25 20:28:21 +0000",
+      "minecraft:mountains": "2019-06-25 20:16:29 +0000",
+      "minecraft:forest": "2019-06-16 01:44:41 +0000",
       "minecraft:taiga": "2019-06-25 20:16:51 +0000",
       "minecraft:desert_hills": "2019-06-15 04:12:29 +0000",
       "minecraft:giant_tree_taiga": "2019-06-25 20:26:31 +0000",
@@ -1144,16 +1162,16 @@
       "minecraft:savanna_plateau": "2019-06-25 20:27:20 +0000",
       "minecraft:beach": "2019-06-17 02:50:39 +0000",
       "minecraft:dark_forest": "2019-06-25 20:25:36 +0000",
-      "minecraft:river": "2019-06-15 04:10:21 +0000",
       "minecraft:lukewarm_ocean": "2019-06-25 20:29:27 +0000",
+      "minecraft:river": "2019-06-15 04:10:21 +0000",
       "minecraft:snowy_taiga": "2019-06-25 20:25:56 +0000",
       "minecraft:birch_forest_hills": "2019-06-25 20:25:20 +0000",
       "minecraft:wooded_mountains": "2019-06-25 20:26:54 +0000",
       "minecraft:wooded_hills": "2019-06-25 20:19:48 +0000",
-      "minecraft:giant_tree_taiga_hills": "2019-06-25 20:26:34 +0000",
       "minecraft:stone_shore": "2019-06-25 20:24:17 +0000",
-      "minecraft:wooded_badlands_plateau": "2019-06-25 20:28:09 +0000",
+      "minecraft:giant_tree_taiga_hills": "2019-06-25 20:26:34 +0000",
       "minecraft:mushroom_field_shore": "2019-06-25 20:18:50 +0000",
+      "minecraft:wooded_badlands_plateau": "2019-06-25 20:28:09 +0000",
       "minecraft:swamp": "2019-06-25 20:16:59 +0000",
       "minecraft:snowy_taiga_hills": "2019-06-25 20:26:07 +0000",
       "minecraft:savanna": "2019-06-25 03:21:42 +0000",
@@ -1419,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2019-07-14 03:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2019-06-15 23:03:50 +0000"
@@ -1440,6 +1464,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-25 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2019-07-14 03:03:02 +0000"
     },
     "done": true
   },
@@ -1706,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-06-21 18:24:12 +0000"
@@ -1715,6 +1751,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-06-21 16:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
     },
     "done": true
   },
@@ -1831,11 +1873,11 @@
       "minecraft:ocelot": "2019-06-24 23:11:21 +0000",
       "minecraft:cow": "2019-06-24 23:16:44 +0000",
       "minecraft:chicken": "2019-06-24 23:13:17 +0000",
-      "minecraft:llama": "2019-06-24 23:13:43 +0000",
       "minecraft:wolf": "2019-06-24 23:11:00 +0000",
+      "minecraft:llama": "2019-06-24 23:13:43 +0000",
       "minecraft:turtle": "2019-06-24 23:11:52 +0000",
-      "minecraft:rabbit": "2019-06-24 23:17:43 +0000",
-      "minecraft:sheep": "2019-06-24 23:09:28 +0000"
+      "minecraft:sheep": "2019-06-24 23:09:28 +0000",
+      "minecraft:rabbit": "2019-06-24 23:17:43 +0000"
     },
     "done": false
   },
@@ -2493,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-06-15 00:31:14 +0000"
@@ -2625,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2019-06-25 21:39:58 +0000"
@@ -2673,6 +2727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-06-21 18:23:28 +0000"
@@ -2694,6 +2754,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-06-25 04:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-07-14 02:55:44 +0000"
     },
     "done": true
   },
