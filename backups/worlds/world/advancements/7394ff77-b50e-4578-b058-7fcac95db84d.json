@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-07-20 17:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2019-05-18 23:47:18 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-20 04:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-07-20 17:32:57 +0000"
     },
     "done": true
   },
@@ -671,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-07-20 17:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 05:45:52 +0000"
@@ -989,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-07-20 17:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-05-20 00:48:50 +0000"
@@ -1088,18 +1112,27 @@
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:desert": "2019-05-18 23:02:16 +0000",
       "minecraft:jungle": "2019-05-18 23:00:02 +0000",
+      "minecraft:birch_forest": "2019-07-20 17:17:18 +0000",
       "minecraft:jungle_hills": "2019-05-18 23:00:11 +0000",
       "minecraft:badlands": "2019-05-18 22:56:13 +0000",
       "minecraft:savanna_plateau": "2019-05-21 01:24:30 +0000",
       "minecraft:beach": "2019-05-18 22:32:30 +0000",
       "minecraft:dark_forest": "2019-07-18 19:18:29 +0000",
       "minecraft:river": "2019-05-18 22:32:28 +0000",
+      "minecraft:birch_forest_hills": "2019-07-20 17:18:26 +0000",
       "minecraft:wooded_mountains": "2019-07-18 19:19:06 +0000",
+      "minecraft:wooded_hills": "2019-07-20 17:18:32 +0000",
       "minecraft:wooded_badlands_plateau": "2019-05-18 22:57:29 +0000",
       "minecraft:savanna": "2019-05-18 22:35:31 +0000",
       "minecraft:plains": "2019-05-18 22:25:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-07-20 17:33:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
