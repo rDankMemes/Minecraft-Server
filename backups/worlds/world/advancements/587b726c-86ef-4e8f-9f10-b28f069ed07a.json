@@ -359,15 +359,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2019-05-18 23:11:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-05-18 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-05-18 23:11:28 +0000"
     },
     "done": true
   },
@@ -1345,9 +1345,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 22:58:11 +0000",
-      "minecraft:forest": "2019-05-18 22:46:16 +0000",
-      "minecraft:mountains": "2019-05-18 22:51:56 +0000",
       "minecraft:mushroom_fields": "2019-05-18 22:54:29 +0000",
+      "minecraft:mountains": "2019-05-18 22:51:56 +0000",
+      "minecraft:forest": "2019-05-18 22:46:16 +0000",
       "minecraft:taiga": "2019-05-18 22:52:20 +0000",
       "minecraft:desert_hills": "2019-05-18 22:46:37 +0000",
       "minecraft:taiga_hills": "2019-08-16 13:09:47 +0000",
@@ -1359,8 +1359,8 @@
       "minecraft:badlands": "2019-05-18 22:49:43 +0000",
       "minecraft:savanna_plateau": "2019-05-18 22:58:01 +0000",
       "minecraft:beach": "2019-05-18 22:36:47 +0000",
-      "minecraft:river": "2019-05-18 22:36:50 +0000",
       "minecraft:lukewarm_ocean": "2019-05-18 22:50:34 +0000",
+      "minecraft:river": "2019-05-18 22:36:50 +0000",
       "minecraft:wooded_mountains": "2019-05-18 22:52:15 +0000",
       "minecraft:wooded_hills": "2019-05-19 20:52:30 +0000",
       "minecraft:stone_shore": "2019-05-18 22:51:54 +0000",
@@ -1954,6 +1954,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2019-08-16 15:24:33 +0000",
+      "cooked_beef": "2019-08-16 15:25:04 +0000",
       "cooked_chicken": "2019-06-19 22:04:01 +0000",
       "enchanted_golden_apple": "2019-06-17 03:23:06 +0000"
     },

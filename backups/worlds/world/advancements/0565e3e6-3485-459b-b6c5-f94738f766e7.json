@@ -545,13 +545,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
     },
@@ -1175,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-08-16 17:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2019-05-21 02:55:03 +0000"
@@ -1328,6 +1334,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_gray_dye": "2019-06-15 15:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2019-08-16 17:45:10 +0000"
     },
     "done": true
   },
@@ -1729,18 +1741,18 @@
       "minecraft:shulker": "2019-05-23 02:05:17 +0000",
       "minecraft:cave_spider": "2019-05-23 02:05:17 +0000",
       "minecraft:guardian": "2019-05-23 02:05:17 +0000",
-      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
-      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
-      "minecraft:stray": "2019-05-23 02:05:17 +0000",
       "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
+      "minecraft:stray": "2019-05-23 02:05:17 +0000",
+      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
+      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
       "minecraft:magma_cube": "2019-05-23 02:05:17 +0000",
       "minecraft:spider": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie": "2019-05-23 02:05:17 +0000",
-      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:drowned": "2019-05-23 02:05:17 +0000",
+      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie_villager": "2019-05-23 02:05:17 +0000",
-      "minecraft:evoker": "2019-05-23 02:05:17 +0000",
-      "minecraft:slime": "2019-05-23 02:05:17 +0000"
+      "minecraft:slime": "2019-05-23 02:05:17 +0000",
+      "minecraft:evoker": "2019-05-23 02:05:17 +0000"
     },
     "done": true
   },
@@ -1800,10 +1812,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
-      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:forest": "2019-05-21 01:49:22 +0000",
+      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
       "minecraft:taiga": "2019-08-16 12:25:05 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
       "minecraft:snowy_tundra": "2019-08-16 14:27:41 +0000",
@@ -1817,8 +1829,9 @@
       "minecraft:savanna_plateau": "2019-08-16 14:28:16 +0000",
       "minecraft:beach": "2019-05-18 23:41:14 +0000",
       "minecraft:dark_forest": "2019-05-23 02:04:10 +0000",
-      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
+      "minecraft:river": "2019-05-18 23:41:31 +0000",
+      "minecraft:wooded_mountains": "2019-08-16 17:29:24 +0000",
       "minecraft:wooded_hills": "2019-08-16 12:26:47 +0000",
       "minecraft:savanna": "2019-05-23 02:51:15 +0000",
       "minecraft:plains": "2019-05-18 23:40:47 +0000"
@@ -1948,6 +1961,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2019-05-19 03:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2019-08-16 17:36:02 +0000"
     },
     "done": true
   },
