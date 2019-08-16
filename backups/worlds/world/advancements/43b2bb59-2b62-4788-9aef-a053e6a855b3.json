@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2019-08-16 14:12:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-06-05 19:11:25 +0000"
@@ -895,9 +901,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-08-16 12:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2019-07-14 12:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-08-16 13:37:28 +0000"
     },
     "done": true
   },
@@ -922,6 +940,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-06-24 10:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-08-16 12:19:48 +0000"
     },
     "done": true
   },
@@ -1024,6 +1048,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2019-06-21 19:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-16 12:20:53 +0000"
     },
     "done": true
   },
@@ -1279,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-08-16 13:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-06-11 10:24:33 +0000"
@@ -1408,6 +1444,12 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2019-07-14 12:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-16 14:03:13 +0000"
     },
     "done": true
   },
@@ -1563,8 +1605,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-08-16 12:25:01 +0000",
       "minecraft:forest": "2019-06-26 10:14:38 +0000",
+      "minecraft:taiga": "2019-08-16 13:19:24 +0000",
+      "minecraft:deep_cold_ocean": "2019-08-16 12:25:00 +0000",
+      "minecraft:taiga_hills": "2019-08-16 13:19:29 +0000",
       "minecraft:desert": "2019-06-26 10:12:36 +0000",
+      "minecraft:deep_frozen_ocean": "2019-08-16 12:25:07 +0000",
       "minecraft:jungle": "2019-06-14 14:40:15 +0000",
       "minecraft:warm_ocean": "2019-06-26 10:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-26 10:13:20 +0000",

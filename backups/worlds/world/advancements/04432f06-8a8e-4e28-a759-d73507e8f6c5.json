@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-16 12:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-30 22:55:55 +0000"
@@ -1036,11 +1042,15 @@
       "minecraft:forest": "2019-08-16 11:20:29 +0000",
       "minecraft:mountains": "2019-08-16 11:44:37 +0000",
       "minecraft:taiga": "2019-08-16 11:31:26 +0000",
+      "minecraft:desert_hills": "2019-08-16 12:10:52 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:24:43 +0000",
+      "minecraft:desert": "2019-08-16 12:10:48 +0000",
       "minecraft:warm_ocean": "2019-08-16 11:43:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-16 11:43:57 +0000",
       "minecraft:beach": "2019-05-19 11:27:42 +0000",
       "minecraft:river": "2019-05-30 18:21:18 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
+      "minecraft:wooded_mountains": "2019-08-16 12:06:51 +0000",
       "minecraft:stone_shore": "2019-08-16 11:44:31 +0000",
       "minecraft:savanna": "2019-05-30 18:21:39 +0000",
       "minecraft:plains": "2019-05-19 05:41:42 +0000"

@@ -545,13 +545,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
     },
@@ -1003,7 +1003,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:shulker": "2019-05-26 22:18:27 +0000"
+      "minecraft:phantom": "2019-08-16 13:03:12 +0000",
+      "minecraft:ghast": "2019-08-16 13:19:36 +0000",
+      "minecraft:shulker": "2019-05-26 22:18:27 +0000",
+      "minecraft:creeper": "2019-08-16 13:48:53 +0000",
+      "minecraft:zombie_villager": "2019-08-16 12:03:13 +0000"
     },
     "done": false
   },
@@ -1022,6 +1026,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2019-06-12 14:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-08-16 12:52:27 +0000"
     },
     "done": true
   },
@@ -1090,6 +1100,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2019-06-08 00:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2019-08-16 13:19:36 +0000"
     },
     "done": true
   },
@@ -1788,16 +1804,22 @@
       "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
       "minecraft:mountains": "2019-05-31 00:46:54 +0000",
       "minecraft:forest": "2019-05-21 01:49:22 +0000",
+      "minecraft:taiga": "2019-08-16 12:25:05 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
+      "minecraft:snowy_tundra": "2019-08-16 14:27:41 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:47:56 +0000",
       "minecraft:desert": "2019-05-19 01:53:40 +0000",
       "minecraft:deep_frozen_ocean": "2019-05-31 00:47:33 +0000",
       "minecraft:jungle": "2019-05-19 01:08:46 +0000",
       "minecraft:jungle_hills": "2019-05-22 23:29:09 +0000",
       "minecraft:warm_ocean": "2019-08-16 11:48:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-08-16 12:21:01 +0000",
+      "minecraft:savanna_plateau": "2019-08-16 14:28:16 +0000",
       "minecraft:beach": "2019-05-18 23:41:14 +0000",
       "minecraft:dark_forest": "2019-05-23 02:04:10 +0000",
       "minecraft:river": "2019-05-18 23:41:31 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
+      "minecraft:wooded_hills": "2019-08-16 12:26:47 +0000",
       "minecraft:savanna": "2019-05-23 02:51:15 +0000",
       "minecraft:plains": "2019-05-18 23:40:47 +0000"
     },
@@ -2022,6 +2044,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-22 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2019-08-16 13:09:55 +0000"
     },
     "done": true
   },

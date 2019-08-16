@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 05:45:52 +0000"
@@ -548,6 +554,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2019-05-18 23:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
     },
     "done": true
   },
@@ -743,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-05-18 23:35:46 +0000"
@@ -776,6 +794,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-05-19 00:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
     },
     "done": true
   },
@@ -1025,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2019-05-18 23:46:57 +0000"
@@ -1085,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-05-22 03:05:47 +0000"
@@ -1118,6 +1154,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-28 07:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
     },
     "done": true
   },
@@ -1166,15 +1208,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:02:18 +0000",
-      "minecraft:mountains": "2019-07-18 19:18:36 +0000",
-      "minecraft:forest": "2019-05-18 22:34:34 +0000",
       "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
+      "minecraft:forest": "2019-05-18 22:34:34 +0000",
+      "minecraft:mountains": "2019-07-18 19:18:36 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:25:13 +0000",
       "minecraft:desert": "2019-05-18 23:02:16 +0000",
       "minecraft:jungle": "2019-05-18 23:00:02 +0000",
       "minecraft:birch_forest": "2019-07-20 17:17:18 +0000",
       "minecraft:jungle_hills": "2019-05-18 23:00:11 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-08-16 12:01:00 +0000",
       "minecraft:badlands": "2019-05-18 22:56:13 +0000",
       "minecraft:savanna_plateau": "2019-05-21 01:24:30 +0000",
       "minecraft:beach": "2019-05-18 22:32:30 +0000",
@@ -1228,6 +1271,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-05-21 05:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2019-08-16 12:03:04 +0000"
     },
     "done": true
   },
