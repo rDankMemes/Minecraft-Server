@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2019-08-16 19:26:24 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-08-16 13:46:32 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-16 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -158,6 +176,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-17 13:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -323,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-08-17 20:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2019-08-16 17:11:10 +0000"
@@ -341,6 +371,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2019-08-16 19:32:45 +0000"
@@ -356,6 +398,18 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2019-08-16 13:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -386,6 +440,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-17 13:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -479,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-08-16 14:41:47 +0000"
@@ -500,6 +566,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2019-08-16 19:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-17 19:41:11 +0000"
     },
     "done": true
   },
@@ -530,6 +602,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2019-08-16 20:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -578,6 +656,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-17 16:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -761,9 +845,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-08-16 13:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -881,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2019-08-16 19:43:00 +0000"
@@ -920,6 +1022,18 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-17 13:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -968,6 +1082,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2019-08-17 16:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
@@ -1049,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2019-08-16 14:42:47 +0000"
@@ -1099,17 +1225,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-16 15:14:03 +0000",
       "minecraft:forest": "2019-08-16 14:24:08 +0000",
+      "minecraft:mountains": "2019-08-16 15:14:03 +0000",
       "minecraft:taiga": "2019-08-16 13:29:22 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-17 20:42:13 +0000",
       "minecraft:taiga_hills": "2019-08-16 13:29:05 +0000",
-      "minecraft:river": "2019-08-16 14:19:05 +0000"
+      "minecraft:river": "2019-08-16 14:19:05 +0000",
+      "minecraft:wooded_mountains": "2019-08-17 20:31:30 +0000",
+      "minecraft:swamp": "2019-08-17 20:42:48 +0000",
+      "minecraft:savanna": "2019-08-17 20:44:39 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-17 16:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-17 20:51:42 +0000"
     },
     "done": true
   },

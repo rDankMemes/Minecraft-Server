@@ -418,6 +418,7 @@
       "chorus_fruit": "2019-06-21 12:05:04 +0000",
       "cooked_beef": "2019-08-16 15:14:55 +0000",
       "pufferfish": "2019-07-13 05:23:31 +0000",
+      "golden_carrot": "2019-08-17 20:48:40 +0000",
       "cooked_chicken": "2019-06-26 14:00:42 +0000",
       "enchanted_golden_apple": "2019-06-18 22:47:22 +0000"
     },
@@ -621,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-17 20:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-06-15 06:24:48 +0000"
@@ -636,6 +643,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-06-24 10:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2019-08-17 20:51:32 +0000"
     },
     "done": true
   },
@@ -708,6 +721,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 21:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-08-17 20:31:10 +0000"
     },
     "done": true
   },
@@ -1127,6 +1146,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-06-24 10:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-17 20:50:06 +0000"
     },
     "done": true
   },
@@ -1619,8 +1644,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-16 12:25:01 +0000",
-      "minecraft:mountains": "2019-08-16 15:14:12 +0000",
       "minecraft:forest": "2019-06-26 10:14:38 +0000",
+      "minecraft:mountains": "2019-08-16 15:14:12 +0000",
       "minecraft:taiga": "2019-08-16 13:19:24 +0000",
       "minecraft:deep_cold_ocean": "2019-08-16 12:25:00 +0000",
       "minecraft:taiga_hills": "2019-08-16 13:19:29 +0000",
@@ -1630,8 +1655,9 @@
       "minecraft:warm_ocean": "2019-06-26 10:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-06-26 10:13:20 +0000",
       "minecraft:beach": "2019-06-05 19:12:52 +0000",
-      "minecraft:river": "2019-06-26 05:34:24 +0000",
       "minecraft:lukewarm_ocean": "2019-06-26 10:12:44 +0000",
+      "minecraft:river": "2019-06-26 05:34:24 +0000",
+      "minecraft:wooded_mountains": "2019-08-17 18:37:08 +0000",
       "minecraft:savanna": "2019-06-26 14:06:19 +0000",
       "minecraft:plains": "2019-06-05 19:11:26 +0000"
     },

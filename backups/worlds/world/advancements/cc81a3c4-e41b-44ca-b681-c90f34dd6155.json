@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-08-16 18:52:28 +0000"
@@ -50,6 +56,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:35:50 +0000"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2019-08-17 20:17:38 +0000"
     },
     "done": true
   },
@@ -268,6 +286,8 @@
       "beef": "2019-08-16 21:24:23 +0000",
       "porkchop": "2019-08-16 22:25:58 +0000",
       "mutton": "2019-08-16 22:26:55 +0000",
+      "golden_carrot": "2019-08-17 20:53:28 +0000",
+      "cooked_chicken": "2019-08-17 18:37:48 +0000",
       "enchanted_golden_apple": "2019-08-16 21:19:42 +0000"
     },
     "done": false
@@ -416,6 +436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-08-17 19:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
@@ -425,6 +451,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2019-08-17 03:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2019-08-17 20:51:21 +0000"
     },
     "done": true
   },
@@ -687,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
@@ -810,6 +848,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:15:28 +0000"
     },
     "done": true
   },
@@ -1032,6 +1076,7 @@
       "minecraft:warm_ocean": "2019-08-17 06:31:06 +0000",
       "minecraft:badlands": "2019-08-17 06:29:15 +0000",
       "minecraft:beach": "2019-08-17 06:28:28 +0000",
+      "minecraft:river": "2019-08-17 20:27:33 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:24:28 +0000",
       "minecraft:plains": "2019-08-16 22:15:48 +0000"
     },
@@ -1052,6 +1097,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:35:01 +0000"
     },
     "done": true
   },
@@ -1172,6 +1223,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-08-17 19:35:03 +0000"
     },
     "done": true
   },
