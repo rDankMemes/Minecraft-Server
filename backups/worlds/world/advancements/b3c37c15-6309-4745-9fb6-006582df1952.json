@@ -1,4 +1,46 @@
 {
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-08-17 17:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-08-17 17:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-17 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-08-17 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-08-16 14:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-17 17:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-08-16 15:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-08-16 14:57:16 +0000"
@@ -8,6 +50,18 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-08-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-08-17 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-17 16:58:51 +0000"
     },
     "done": true
   },
@@ -35,22 +89,24 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "stone_pickaxe": "2019-08-16 14:57:16 +0000"
+      "in_water": "2019-08-17 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-08-17 16:58:51 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-16 14:57:51 +0000"
+      "minecraft:forest": "2019-08-16 14:57:51 +0000",
+      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
+      "minecraft:wooded_mountains": "2019-08-17 17:00:23 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2019-08-16 15:01:32 +0000"
-    },
-    "done": true
   }
 }

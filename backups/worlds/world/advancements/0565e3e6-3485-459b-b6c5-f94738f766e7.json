@@ -545,13 +545,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
     },
@@ -1287,6 +1287,12 @@
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2019-06-12 14:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-08-17 15:58:47 +0000"
     },
     "done": true
   },
