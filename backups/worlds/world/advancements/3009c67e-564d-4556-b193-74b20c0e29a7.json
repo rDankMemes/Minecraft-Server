@@ -1068,15 +1068,25 @@
     "criteria": {
       "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
       "minecraft:forest": "2019-05-19 00:36:36 +0000",
+      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:desert": "2019-05-19 05:07:19 +0000",
       "minecraft:jungle": "2019-05-21 07:43:29 +0000",
       "minecraft:jungle_hills": "2019-06-24 22:09:27 +0000",
+      "minecraft:warm_ocean": "2019-08-16 23:14:42 +0000",
+      "minecraft:badlands": "2019-08-16 23:13:38 +0000",
       "minecraft:beach": "2019-05-18 23:09:37 +0000",
       "minecraft:river": "2019-05-18 23:08:24 +0000",
+      "minecraft:wooded_mountains": "2019-08-16 22:20:04 +0000",
       "minecraft:plains": "2019-05-18 23:07:07 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-16 22:42:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
@@ -1618,6 +1628,12 @@
       "has_sand": "2019-05-19 00:04:36 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2019-08-16 21:13:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/cactus_green": {
     "criteria": {
@@ -2261,6 +2277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2019-08-16 22:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-05-19 06:46:31 +0000"
@@ -2390,6 +2412,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-05-25 23:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-16 21:13:39 +0000"
     },
     "done": true
   },

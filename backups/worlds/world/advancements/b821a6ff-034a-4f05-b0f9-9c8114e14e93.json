@@ -545,13 +545,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-09 09:09:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-09 09:09:51 +0000"
     },
@@ -947,13 +947,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-06-21 20:12:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-06-21 20:12:18 +0000"
     },
@@ -986,6 +986,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:phantom": "2019-07-13 19:55:36 +0000",
+      "minecraft:shulker": "2019-08-16 21:58:01 +0000",
       "minecraft:creeper": "2019-06-22 12:23:54 +0000"
     },
     "done": false
@@ -1650,6 +1651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-16 21:58:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-05-28 09:48:51 +0000"
@@ -1856,6 +1863,7 @@
       "minecraft:birch_forest_hills": "2019-06-10 08:23:44 +0000",
       "minecraft:wooded_hills": "2019-06-08 19:28:37 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-06-09 07:55:14 +0000",
+      "minecraft:stone_shore": "2019-08-16 22:02:38 +0000",
       "minecraft:wooded_badlands_plateau": "2019-06-13 09:01:43 +0000",
       "minecraft:swamp": "2019-06-09 07:54:50 +0000",
       "minecraft:snowy_taiga_hills": "2019-06-10 08:23:24 +0000",
