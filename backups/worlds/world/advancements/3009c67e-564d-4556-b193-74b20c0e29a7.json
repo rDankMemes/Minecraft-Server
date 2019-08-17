@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-17 03:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2019-05-22 05:12:11 +0000"
@@ -452,6 +458,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2019-06-24 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-08-17 04:07:31 +0000"
     },
     "done": true
   },
@@ -597,6 +609,7 @@
     "criteria": {
       "minecraft:polar_bear": "2019-06-13 06:18:33 +0000",
       "minecraft:skeleton": "2019-05-19 09:14:01 +0000",
+      "minecraft:ghast": "2019-08-17 03:55:17 +0000",
       "minecraft:shulker": "2019-07-10 03:27:47 +0000",
       "minecraft:guardian": "2019-06-24 05:27:47 +0000",
       "minecraft:enderman": "2019-07-10 03:28:10 +0000",
@@ -798,6 +811,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-05-19 06:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2019-08-17 03:49:32 +0000"
     },
     "done": true
   },
@@ -1889,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2019-08-17 03:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-05-18 23:51:03 +0000"
@@ -2000,6 +2025,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-17 03:34:10 +0000"
     },
     "done": true
   },
