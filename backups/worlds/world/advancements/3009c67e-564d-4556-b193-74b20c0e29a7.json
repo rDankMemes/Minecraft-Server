@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-08-18 03:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2019-05-27 07:50:30 +0000"
@@ -883,6 +889,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-08-18 04:36:24 +0000"
     },
     "done": true
   },
@@ -1514,6 +1526,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2019-06-25 00:49:03 +0000",
+      "golden_apple": "2019-08-18 04:35:53 +0000",
       "enchanted_golden_apple": "2019-05-19 07:40:29 +0000"
     },
     "done": false

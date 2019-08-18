@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-08-18 03:57:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2019-08-17 03:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-08-18 03:57:50 +0000"
     },
     "done": true
   },
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-08-18 04:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-08-17 07:15:52 +0000"
@@ -299,6 +317,7 @@
       "beef": "2019-08-16 21:24:23 +0000",
       "porkchop": "2019-08-16 22:25:58 +0000",
       "mutton": "2019-08-16 22:26:55 +0000",
+      "golden_apple": "2019-08-18 04:35:54 +0000",
       "golden_carrot": "2019-08-17 20:53:28 +0000",
       "cooked_chicken": "2019-08-17 18:37:48 +0000",
       "enchanted_golden_apple": "2019-08-16 21:19:42 +0000"
@@ -383,13 +402,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
     },
@@ -515,21 +534,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-08-18 04:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2019-08-16 22:25:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-08-16 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2019-08-16 22:25:35 +0000"
     },
     "done": true
   },
@@ -560,6 +585,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-08-17 07:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-18 05:05:39 +0000"
     },
     "done": true
   },
@@ -629,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-18 04:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
@@ -638,6 +675,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-08-16 20:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-08-18 05:09:07 +0000"
     },
     "done": true
   },
@@ -683,6 +726,12 @@
       "minecraft:vindicator": "2019-08-17 04:08:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-08-18 04:15:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
@@ -930,6 +979,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-08-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-08-18 04:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
@@ -960,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-08-18 04:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
@@ -981,6 +1048,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-08-17 04:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-08-18 04:15:10 +0000"
     },
     "done": true
   },
@@ -1020,9 +1093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-08-18 04:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-18 04:15:17 +0000"
     },
     "done": true
   },
@@ -1110,9 +1195,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2019-08-18 05:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2019-08-18 04:38:37 +0000"
     },
     "done": true
   },
@@ -1136,15 +1233,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
+      "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
       "minecraft:forest": "2019-08-16 21:14:19 +0000",
+      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:deep_cold_ocean": "2019-08-18 03:54:03 +0000",
       "minecraft:desert": "2019-08-17 06:28:47 +0000",
       "minecraft:jungle": "2019-08-16 22:16:43 +0000",
+      "minecraft:jungle_hills": "2019-08-18 03:51:00 +0000",
       "minecraft:warm_ocean": "2019-08-17 06:31:06 +0000",
       "minecraft:badlands": "2019-08-17 06:29:15 +0000",
       "minecraft:beach": "2019-08-17 06:28:28 +0000",
+      "minecraft:dark_forest": "2019-08-18 03:53:05 +0000",
       "minecraft:river": "2019-08-17 20:27:33 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:24:28 +0000",
+      "minecraft:wooded_hills": "2019-08-18 03:54:35 +0000",
+      "minecraft:swamp": "2019-08-18 03:54:20 +0000",
       "minecraft:plains": "2019-08-16 22:15:48 +0000"
     },
     "done": false
@@ -1158,6 +1262,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2019-08-18 05:09:38 +0000"
     },
     "done": true
   },
@@ -1245,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-08-18 04:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
@@ -1254,6 +1370,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-08-18 05:48:47 +0000"
     },
     "done": true
   },
