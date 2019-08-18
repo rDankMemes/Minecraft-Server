@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-17 21:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-05-19 03:52:57 +0000"
@@ -1382,9 +1388,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:02:18 +0000",
-      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
-      "minecraft:forest": "2019-05-18 22:34:34 +0000",
       "minecraft:mountains": "2019-07-18 19:18:36 +0000",
+      "minecraft:forest": "2019-05-18 22:34:34 +0000",
+      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
       "minecraft:taiga": "2019-08-16 17:48:17 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:25:13 +0000",

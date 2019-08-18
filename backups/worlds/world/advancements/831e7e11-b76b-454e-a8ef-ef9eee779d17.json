@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2019-08-16 22:07:49 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-16 22:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
     },
     "done": true
   },
@@ -653,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2019-08-16 19:12:49 +0000"
@@ -730,10 +748,17 @@
       "minecraft:skeleton": "2019-08-17 00:33:36 +0000",
       "minecraft:wither_skeleton": "2019-08-17 01:29:11 +0000",
       "minecraft:ghast": "2019-08-17 03:56:52 +0000",
+      "minecraft:shulker": "2019-08-17 23:03:38 +0000",
       "minecraft:spider": "2019-08-17 03:29:58 +0000",
       "minecraft:zombie": "2019-08-17 00:33:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-08-17 21:17:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -756,6 +781,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-17 01:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-08-17 21:17:41 +0000"
     },
     "done": true
   },
@@ -822,6 +853,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-08-16 19:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-17 21:20:03 +0000"
     },
     "done": true
   },
@@ -897,6 +934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
@@ -906,6 +949,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
     },
     "done": true
   },
@@ -930,6 +979,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2019-08-17 03:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
     },
     "done": true
   },
@@ -1095,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-17 23:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-17 17:15:47 +0000"
@@ -1221,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-08-17 21:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-08-16 19:12:49 +0000"
@@ -1229,9 +1296,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
-      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
       "minecraft:forest": "2019-08-16 21:14:37 +0000",
+      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
+      "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
+      "minecraft:desert": "2019-08-17 21:19:03 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:24:26 +0000",
       "minecraft:plains": "2019-08-17 00:32:27 +0000"
     },
@@ -1348,6 +1416,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-08-16 22:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-08-17 23:40:10 +0000"
     },
     "done": true
   },
