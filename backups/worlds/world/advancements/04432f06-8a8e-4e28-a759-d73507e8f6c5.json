@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-08-18 06:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2019-05-30 19:02:53 +0000"
@@ -768,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2019-08-18 06:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-05-30 22:55:55 +0000"
@@ -969,6 +981,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2019-05-30 20:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-08-18 06:56:29 +0000"
     },
     "done": true
   },
@@ -1262,23 +1280,28 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-16 11:20:29 +0000",
       "minecraft:mountains": "2019-08-16 11:44:37 +0000",
+      "minecraft:forest": "2019-08-16 11:20:29 +0000",
       "minecraft:taiga": "2019-08-16 11:31:26 +0000",
       "minecraft:desert_hills": "2019-08-16 12:10:52 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-18 07:26:03 +0000",
+      "minecraft:snowy_tundra": "2019-08-18 07:24:44 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:24:43 +0000",
       "minecraft:desert": "2019-08-16 12:10:48 +0000",
+      "minecraft:frozen_river": "2019-08-18 07:22:29 +0000",
       "minecraft:birch_forest": "2019-08-17 00:32:27 +0000",
       "minecraft:warm_ocean": "2019-08-16 11:43:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-16 11:43:57 +0000",
+      "minecraft:badlands": "2019-08-18 07:26:42 +0000",
       "minecraft:beach": "2019-05-19 11:27:42 +0000",
       "minecraft:dark_forest": "2019-08-17 00:15:56 +0000",
-      "minecraft:river": "2019-05-30 18:21:18 +0000",
       "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
+      "minecraft:river": "2019-05-30 18:21:18 +0000",
       "minecraft:snowy_taiga": "2019-08-17 00:11:17 +0000",
       "minecraft:wooded_mountains": "2019-08-16 12:06:51 +0000",
       "minecraft:wooded_hills": "2019-08-17 00:13:44 +0000",
       "minecraft:stone_shore": "2019-08-16 11:44:31 +0000",
+      "minecraft:swamp": "2019-08-18 07:43:20 +0000",
       "minecraft:savanna": "2019-05-30 18:21:39 +0000",
       "minecraft:plains": "2019-05-19 05:41:42 +0000"
     },

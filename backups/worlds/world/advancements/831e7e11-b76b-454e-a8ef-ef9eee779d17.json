@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-08-18 06:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-08-16 19:12:49 +0000"
@@ -337,6 +343,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2019-08-18 07:41:04 +0000",
+      "beef": "2019-08-18 08:16:55 +0000",
+      "golden_carrot": "2019-08-18 07:48:36 +0000",
       "enchanted_golden_apple": "2019-08-16 22:14:35 +0000"
     },
     "done": false
@@ -344,6 +353,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-16 19:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-08-18 06:51:02 +0000"
     },
     "done": true
   },
@@ -518,6 +533,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2019-08-18 06:01:47 +0000"
     },
     "done": true
   },
@@ -765,6 +786,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-17 00:33:36 +0000",
       "minecraft:wither_skeleton": "2019-08-17 01:29:11 +0000",
+      "minecraft:zombie_pigman": "2019-08-18 06:51:00 +0000",
       "minecraft:ghast": "2019-08-17 03:56:52 +0000",
       "minecraft:shulker": "2019-08-17 23:03:38 +0000",
       "minecraft:spider": "2019-08-17 03:29:58 +0000",
@@ -853,6 +875,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2019-08-18 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-08-18 06:51:11 +0000"
     },
     "done": true
   },
@@ -994,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2019-08-18 06:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2019-08-17 01:02:18 +0000"
@@ -1126,6 +1160,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2019-08-18 07:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-08-17 17:15:47 +0000"
@@ -1159,6 +1199,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-08-16 19:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-18 07:19:40 +0000"
     },
     "done": true
   },
@@ -1330,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-08-18 07:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2019-08-17 21:39:15 +0000"
@@ -1344,9 +1396,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-16 21:14:37 +0000",
-      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
       "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
+      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
+      "minecraft:forest": "2019-08-16 21:14:37 +0000",
       "minecraft:desert": "2019-08-17 21:19:03 +0000",
       "minecraft:jungle": "2019-08-18 03:48:03 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:24:26 +0000",
@@ -1456,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-08-18 07:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
@@ -1525,6 +1583,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2019-08-16 21:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-18 07:19:40 +0000"
     },
     "done": true
   },
