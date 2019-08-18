@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2019-08-18 13:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-16 19:28:01 +0000"
@@ -1309,11 +1315,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-16 15:14:03 +0000",
       "minecraft:forest": "2019-08-16 14:24:08 +0000",
+      "minecraft:mountains": "2019-08-16 15:14:03 +0000",
       "minecraft:taiga": "2019-08-16 13:29:22 +0000",
       "minecraft:giant_tree_taiga": "2019-08-17 20:42:13 +0000",
       "minecraft:taiga_hills": "2019-08-16 13:29:05 +0000",
+      "minecraft:jungle": "2019-08-18 13:19:51 +0000",
       "minecraft:dark_forest": "2019-08-17 21:00:32 +0000",
       "minecraft:river": "2019-08-16 14:19:05 +0000",
       "minecraft:wooded_mountains": "2019-08-17 20:31:30 +0000",
@@ -1470,6 +1477,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-16 14:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-08-18 13:08:42 +0000"
     },
     "done": true
   },
