@@ -784,11 +784,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:polar_bear": "2019-08-18 20:23:53 +0000",
       "minecraft:skeleton": "2019-08-17 00:33:36 +0000",
       "minecraft:wither_skeleton": "2019-08-17 01:29:11 +0000",
       "minecraft:zombie_pigman": "2019-08-18 06:51:00 +0000",
       "minecraft:ghast": "2019-08-17 03:56:52 +0000",
       "minecraft:shulker": "2019-08-17 23:03:38 +0000",
+      "minecraft:silverfish": "2019-08-18 20:24:06 +0000",
       "minecraft:spider": "2019-08-17 03:29:58 +0000",
       "minecraft:zombie": "2019-08-17 00:33:40 +0000"
     },
@@ -983,6 +985,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-18 20:10:25 +0000"
     },
     "done": true
   },
@@ -1328,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-18 20:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-16 22:45:23 +0000"
@@ -1355,6 +1369,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2019-08-16 22:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-18 20:10:25 +0000"
     },
     "done": true
   },
@@ -1396,11 +1416,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
-      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
       "minecraft:forest": "2019-08-16 21:14:37 +0000",
+      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
+      "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
       "minecraft:desert": "2019-08-17 21:19:03 +0000",
       "minecraft:jungle": "2019-08-18 03:48:03 +0000",
+      "minecraft:dark_forest": "2019-08-18 19:27:45 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:24:26 +0000",
       "minecraft:plains": "2019-08-17 00:32:27 +0000"
     },

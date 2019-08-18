@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2019-08-18 20:58:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-05-31 05:52:12 +0000"
@@ -1004,6 +1010,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-05-20 04:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-18 20:11:33 +0000"
     },
     "done": true
   },
@@ -1313,6 +1325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-08-18 20:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-08-18 16:16:28 +0000"
@@ -1361,9 +1379,21 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-08-18 20:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-08-18 16:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-18 20:16:07 +0000"
     },
     "done": true
   },
@@ -1441,6 +1471,7 @@
       "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
       "minecraft:taiga": "2019-08-16 17:48:17 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-18 17:59:32 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:25:13 +0000",
       "minecraft:desert": "2019-05-18 23:02:16 +0000",
       "minecraft:jungle": "2019-05-18 23:00:02 +0000",
@@ -1604,6 +1635,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2019-05-20 04:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-18 20:11:33 +0000"
     },
     "done": true
   },

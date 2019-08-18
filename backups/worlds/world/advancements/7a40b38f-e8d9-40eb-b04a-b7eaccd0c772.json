@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-18 20:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-06-05 21:13:35 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-08-18 20:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2019-06-05 18:53:59 +0000"
@@ -269,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2019-08-18 20:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-06-07 18:25:41 +0000"
@@ -296,6 +314,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-08-16 18:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-08-18 20:35:11 +0000"
     },
     "done": true
   },
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-08-18 20:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-16 17:45:56 +0000"
@@ -395,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-08-18 20:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-06-07 18:25:41 +0000"
@@ -407,9 +443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-08-18 19:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-16 18:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-08-18 20:25:53 +0000"
     },
     "done": true
   },
@@ -425,6 +473,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-08-18 20:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-08-18 19:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 13:12:05 +0000"
@@ -437,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-08-18 20:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-06-05 18:29:21 +0000"
@@ -446,6 +512,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2019-06-05 21:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-08-18 20:22:06 +0000"
     },
     "done": true
   },
@@ -488,6 +560,18 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2019-06-05 18:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-08-18 19:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:polar_bear": "2019-08-18 19:58:46 +0000"
     },
     "done": true
   },
@@ -547,14 +631,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-16 17:27:22 +0000",
       "minecraft:forest": "2019-08-16 13:02:28 +0000",
+      "minecraft:mountains": "2019-08-16 17:27:22 +0000",
       "minecraft:taiga": "2019-08-16 13:07:57 +0000",
       "minecraft:desert_hills": "2019-06-07 11:35:20 +0000",
       "minecraft:taiga_hills": "2019-08-16 13:08:31 +0000",
       "minecraft:desert": "2019-06-07 11:35:22 +0000",
       "minecraft:jungle": "2019-06-07 11:30:57 +0000",
       "minecraft:jungle_hills": "2019-06-07 11:33:22 +0000",
+      "minecraft:beach": "2019-08-18 20:10:21 +0000",
       "minecraft:dark_forest": "2019-08-16 17:30:18 +0000",
       "minecraft:river": "2019-06-07 11:30:40 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:23 +0000",
@@ -571,6 +656,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-06-05 17:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-18 19:59:06 +0000"
     },
     "done": true
   },
@@ -601,6 +692,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-06-05 19:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-08-18 19:55:30 +0000"
     },
     "done": true
   },
@@ -643,6 +740,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2019-06-05 16:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-08-18 20:22:06 +0000"
     },
     "done": true
   },
@@ -706,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-18 20:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-06-07 18:25:41 +0000"
@@ -715,6 +824,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-08-16 17:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-08-18 19:55:30 +0000"
     },
     "done": true
   },
@@ -754,6 +869,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:polar_bear": "2019-08-18 19:58:46 +0000",
+      "minecraft:phantom": "2019-08-18 20:01:30 +0000",
+      "minecraft:wither_skeleton": "2019-08-18 20:01:58 +0000",
+      "minecraft:silverfish": "2019-08-18 20:24:20 +0000",
+      "minecraft:enderman": "2019-08-18 20:14:10 +0000",
+      "minecraft:zombie": "2019-08-18 20:32:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-08-18 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-18 20:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-06-05 16:11:02 +0000"
@@ -766,9 +904,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-08-18 19:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-08-18 20:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-16 13:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-08-18 20:07:18 +0000"
     },
     "done": true
   },
@@ -793,6 +949,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 13:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-18 20:11:26 +0000"
     },
     "done": true
   },
@@ -841,6 +1003,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2019-06-05 16:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-18 20:23:15 +0000"
     },
     "done": true
   }

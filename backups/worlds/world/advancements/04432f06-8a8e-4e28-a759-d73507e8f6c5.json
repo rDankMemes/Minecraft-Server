@@ -715,7 +715,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-18 20:09:37 +0000",
+      "minecraft:polar_bear": "2019-08-18 19:59:33 +0000",
       "minecraft:skeleton": "2019-08-16 18:43:03 +0000",
+      "minecraft:shulker": "2019-08-18 20:06:18 +0000",
       "minecraft:drowned": "2019-08-16 11:42:20 +0000"
     },
     "done": false
@@ -1170,6 +1173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-08-18 20:10:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-08-16 20:28:36 +0000"
@@ -1312,6 +1321,12 @@
       "minecraft:plains": "2019-05-19 05:41:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-18 19:59:35 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
