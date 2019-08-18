@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-18 15:58:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2019-08-16 13:19:41 +0000"
@@ -1226,6 +1232,12 @@
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2019-08-16 19:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2019-08-18 16:23:40 +0000"
     },
     "done": true
   },
@@ -1525,6 +1537,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2019-08-16 13:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-18 15:58:06 +0000"
     },
     "done": true
   },
