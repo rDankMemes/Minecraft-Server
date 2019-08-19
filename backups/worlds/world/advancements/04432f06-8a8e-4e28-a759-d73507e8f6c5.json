@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2019-05-30 22:49:58 +0000"
@@ -386,6 +392,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-08-16 20:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-05-30 19:43:15 +0000"
@@ -951,6 +969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2019-05-30 19:27:38 +0000"
@@ -990,6 +1014,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-30 22:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-08-19 17:26:52 +0000"
     },
     "done": true
   },
@@ -1269,6 +1299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2019-08-18 23:36:01 +0000"
@@ -1349,8 +1385,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-16 11:44:37 +0000",
+      "minecraft:cold_ocean": "2019-08-19 17:05:55 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 17:20:34 +0000",
       "minecraft:forest": "2019-08-16 11:20:29 +0000",
+      "minecraft:mountains": "2019-08-16 11:44:37 +0000",
       "minecraft:taiga": "2019-08-16 11:31:26 +0000",
       "minecraft:desert_hills": "2019-08-16 12:10:52 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 07:26:03 +0000",
@@ -1364,8 +1402,8 @@
       "minecraft:badlands": "2019-08-18 07:26:42 +0000",
       "minecraft:beach": "2019-05-19 11:27:42 +0000",
       "minecraft:dark_forest": "2019-08-17 00:15:56 +0000",
-      "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
       "minecraft:river": "2019-05-30 18:21:18 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
       "minecraft:snowy_taiga": "2019-08-17 00:11:17 +0000",
       "minecraft:wooded_mountains": "2019-08-16 12:06:51 +0000",
       "minecraft:wooded_hills": "2019-08-17 00:13:44 +0000",
@@ -1472,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2019-05-30 22:49:58 +0000"
@@ -1514,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-05-30 19:29:57 +0000"
@@ -1535,6 +1585,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-05-30 18:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-19 17:42:25 +0000"
     },
     "done": true
   },

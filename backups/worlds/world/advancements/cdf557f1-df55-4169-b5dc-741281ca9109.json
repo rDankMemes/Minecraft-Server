@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-08-19 17:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-05-23 01:33:44 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-05-23 01:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-08-19 17:44:29 +0000"
     },
     "done": true
   },
@@ -104,6 +116,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2019-08-17 03:55:32 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 17:46:14 +0000",
       "minecraft:plains": "2019-05-23 01:33:45 +0000"
     },
     "done": false

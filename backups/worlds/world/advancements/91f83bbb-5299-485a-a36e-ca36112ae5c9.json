@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2019-08-19 17:46:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-22 18:21:15 +0000"
@@ -365,13 +371,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-26 22:39:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-26 22:39:55 +0000"
     },
@@ -452,6 +458,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-06-04 16:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2019-08-19 17:47:59 +0000"
     },
     "done": true
   },
@@ -1163,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-08-19 17:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2019-05-23 10:35:28 +0000"
@@ -1226,9 +1244,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_mountains": "2019-06-06 18:37:31 +0000",
-      "minecraft:badlands_plateau": "2019-06-06 18:28:38 +0000",
-      "minecraft:forest": "2019-06-06 18:26:30 +0000",
       "minecraft:mountains": "2019-08-18 13:58:56 +0000",
+      "minecraft:forest": "2019-06-06 18:26:30 +0000",
+      "minecraft:badlands_plateau": "2019-06-06 18:28:38 +0000",
       "minecraft:taiga": "2019-06-06 18:31:23 +0000",
       "minecraft:desert_hills": "2019-06-06 18:26:59 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 14:14:38 +0000",
@@ -1241,12 +1259,13 @@
       "minecraft:badlands": "2019-06-06 18:28:37 +0000",
       "minecraft:savanna_plateau": "2019-06-06 18:27:39 +0000",
       "minecraft:beach": "2019-06-06 18:25:46 +0000",
-      "minecraft:lukewarm_ocean": "2019-06-06 18:30:23 +0000",
       "minecraft:river": "2019-06-06 18:25:21 +0000",
+      "minecraft:lukewarm_ocean": "2019-06-06 18:30:23 +0000",
       "minecraft:snowy_taiga": "2019-06-06 18:37:40 +0000",
       "minecraft:wooded_hills": "2019-06-06 18:26:05 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-08-18 14:14:34 +0000",
       "minecraft:wooded_badlands_plateau": "2019-06-06 18:30:09 +0000",
+      "minecraft:swamp": "2019-08-19 17:39:06 +0000",
       "minecraft:savanna": "2019-06-06 18:25:24 +0000",
       "minecraft:plains": "2019-05-22 16:23:18 +0000"
     },
@@ -1420,9 +1439,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2019-08-19 17:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2019-05-23 10:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2019-08-19 17:48:49 +0000"
     },
     "done": true
   },

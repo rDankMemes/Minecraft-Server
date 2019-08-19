@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-08-19 17:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2019-08-18 16:16:28 +0000"
@@ -459,6 +465,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-08-19 17:25:59 +0000"
     },
     "done": true
   },
@@ -543,6 +555,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-19 17:26:00 +0000"
     },
     "done": true
   },
@@ -1032,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-19 17:26:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-06-15 23:34:06 +0000"
@@ -1161,6 +1185,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-05-20 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-08-19 17:25:59 +0000"
     },
     "done": true
   },
@@ -1479,10 +1509,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-18 23:02:18 +0000",
-      "minecraft:mountains": "2019-07-18 19:18:36 +0000",
-      "minecraft:forest": "2019-05-18 22:34:34 +0000",
-      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
       "minecraft:mushroom_fields": "2019-08-19 10:31:31 +0000",
+      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
+      "minecraft:forest": "2019-05-18 22:34:34 +0000",
+      "minecraft:mountains": "2019-07-18 19:18:36 +0000",
       "minecraft:taiga": "2019-08-16 17:48:17 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 17:59:32 +0000",
