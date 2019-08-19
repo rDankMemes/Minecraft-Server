@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-08-19 17:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-06-16 18:21:54 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-08-19 17:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 17:49:19 +0000"
@@ -863,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-08-19 17:55:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2019-06-20 11:16:27 +0000"
@@ -884,6 +902,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2019-06-16 17:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-08-19 17:58:16 +0000"
     },
     "done": true
   },
@@ -964,6 +988,12 @@
       "has_diamond": "2019-06-18 07:51:34 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:enderman": "2019-08-19 18:05:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
@@ -1145,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2019-08-19 17:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-05-21 07:13:29 +0000"
@@ -1166,6 +1202,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-22 16:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-19 17:58:50 +0000"
     },
     "done": true
   },
@@ -1541,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-08-19 17:58:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-16 15:01:54 +0000"
@@ -1673,6 +1721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-08-19 17:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2019-08-19 17:46:02 +0000"
@@ -1694,6 +1748,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2019-06-16 17:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2019-08-19 18:05:11 +0000"
     },
     "done": true
   },
@@ -1745,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-08-19 17:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2019-05-21 06:47:27 +0000"
@@ -1755,13 +1821,17 @@
     "criteria": {
       "minecraft:jungle_edge": "2019-05-22 09:27:19 +0000",
       "minecraft:forest": "2019-06-14 04:21:07 +0000",
+      "minecraft:mountains": "2019-08-19 19:15:22 +0000",
       "minecraft:desert_hills": "2019-05-22 09:23:04 +0000",
       "minecraft:desert": "2019-05-22 09:22:57 +0000",
       "minecraft:jungle": "2019-05-22 09:23:27 +0000",
       "minecraft:jungle_hills": "2019-05-22 09:27:34 +0000",
+      "minecraft:badlands": "2019-08-19 19:11:50 +0000",
       "minecraft:savanna_plateau": "2019-05-22 09:22:49 +0000",
       "minecraft:beach": "2019-05-22 09:22:46 +0000",
       "minecraft:river": "2019-05-22 09:22:11 +0000",
+      "minecraft:snowy_taiga": "2019-08-19 19:06:53 +0000",
+      "minecraft:wooded_mountains": "2019-08-19 19:14:48 +0000",
       "minecraft:savanna": "2019-05-22 09:22:33 +0000",
       "minecraft:plains": "2019-05-21 06:13:41 +0000"
     },
@@ -1851,6 +1921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-08-19 17:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-21 07:17:04 +0000"
@@ -1878,6 +1954,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-22 16:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-08-19 17:55:04 +0000"
     },
     "done": true
   },
@@ -2013,6 +2095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2019-08-19 18:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-06-18 07:51:34 +0000"
@@ -2028,6 +2116,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2019-06-04 15:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-19 17:56:44 +0000"
     },
     "done": true
   },
@@ -2070,6 +2164,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2019-05-22 02:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-08-19 17:55:50 +0000"
     },
     "done": true
   },

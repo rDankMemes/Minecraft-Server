@@ -296,6 +296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-22 23:27:09 +0000"
@@ -341,6 +347,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-05-19 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
     },
     "done": true
   },
@@ -732,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-05-20 02:27:34 +0000"
@@ -783,6 +801,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2019-05-29 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
     },
     "done": true
   },
@@ -1002,6 +1026,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-05-23 03:06:56 +0000"
@@ -1036,6 +1072,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2019-05-29 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
     },
     "done": true
   },
@@ -1161,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-05-18 23:40:46 +0000"
@@ -1176,6 +1224,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-28 23:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
     },
     "done": true
   },
@@ -1335,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_red_dye": "2019-06-15 14:52:53 +0000"
@@ -1380,6 +1440,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-05-19 03:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2019-08-19 18:50:32 +0000"
     },
     "done": true
   },
@@ -1881,6 +1947,7 @@
       "minecraft:snowy_tundra": "2019-08-16 14:27:41 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:47:56 +0000",
       "minecraft:desert": "2019-05-19 01:53:40 +0000",
+      "minecraft:frozen_river": "2019-08-19 18:32:56 +0000",
       "minecraft:deep_frozen_ocean": "2019-05-31 00:47:33 +0000",
       "minecraft:jungle": "2019-05-19 01:08:46 +0000",
       "minecraft:jungle_hills": "2019-05-22 23:29:09 +0000",
@@ -2150,6 +2217,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2019-05-29 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-08-19 20:55:27 +0000"
     },
     "done": true
   },

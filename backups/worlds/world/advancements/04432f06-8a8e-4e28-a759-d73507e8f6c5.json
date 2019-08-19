@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-30 22:55:55 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-05-19 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
     },
     "done": true
   },
@@ -416,6 +428,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-30 18:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-08-19 18:42:25 +0000"
     },
     "done": true
   },
@@ -563,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-05-30 19:43:15 +0000"
@@ -590,6 +614,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-30 22:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
     },
     "done": true
   },
@@ -749,6 +779,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-05-30 19:47:01 +0000"
@@ -770,6 +812,12 @@
       "minecraft:drowned": "2019-08-16 11:42:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -849,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-05-19 05:41:42 +0000"
@@ -864,6 +918,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-30 18:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
     },
     "done": true
   },
@@ -996,6 +1056,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-05-30 19:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
     },
     "done": true
   },
@@ -1164,6 +1230,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-30 18:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-19 19:13:36 +0000"
     },
     "done": true
   },
@@ -1359,6 +1431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2019-08-19 18:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-30 19:43:15 +0000"
@@ -1383,12 +1461,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-08-19 19:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 17:05:55 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 17:20:34 +0000",
-      "minecraft:forest": "2019-08-16 11:20:29 +0000",
       "minecraft:mountains": "2019-08-16 11:44:37 +0000",
+      "minecraft:forest": "2019-08-16 11:20:29 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 17:20:34 +0000",
       "minecraft:taiga": "2019-08-16 11:31:26 +0000",
       "minecraft:desert_hills": "2019-08-16 12:10:52 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 07:26:03 +0000",
@@ -1402,8 +1486,8 @@
       "minecraft:badlands": "2019-08-18 07:26:42 +0000",
       "minecraft:beach": "2019-05-19 11:27:42 +0000",
       "minecraft:dark_forest": "2019-08-17 00:15:56 +0000",
-      "minecraft:river": "2019-05-30 18:21:18 +0000",
       "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
+      "minecraft:river": "2019-05-30 18:21:18 +0000",
       "minecraft:snowy_taiga": "2019-08-17 00:11:17 +0000",
       "minecraft:wooded_mountains": "2019-08-16 12:06:51 +0000",
       "minecraft:wooded_hills": "2019-08-17 00:13:44 +0000",
@@ -1624,9 +1708,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-19 19:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2019-05-30 19:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-19 19:14:18 +0000"
     },
     "done": true
   },

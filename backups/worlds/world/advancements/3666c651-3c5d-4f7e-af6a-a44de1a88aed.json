@@ -79,6 +79,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2019-08-19 18:01:46 +0000",
       "cod": "2019-08-19 17:55:29 +0000"
     },
     "done": false
