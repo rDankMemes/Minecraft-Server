@@ -630,15 +630,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2019-08-16 22:25:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2019-08-16 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-16 22:25:35 +0000"
     },
     "done": true
   },
@@ -1239,10 +1239,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
       "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
-      "minecraft:forest": "2019-08-16 21:14:19 +0000",
+      "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
       "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:forest": "2019-08-16 21:14:19 +0000",
       "minecraft:deep_cold_ocean": "2019-08-18 03:54:03 +0000",
       "minecraft:desert": "2019-08-17 06:28:47 +0000",
       "minecraft:jungle": "2019-08-16 22:16:43 +0000",
