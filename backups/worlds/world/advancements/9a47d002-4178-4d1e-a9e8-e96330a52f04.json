@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-18 22:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-06-02 03:46:22 +0000"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2019-08-18 21:38:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-02 03:39:46 +0000"
@@ -440,6 +452,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2019-08-18 03:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-18 22:37:51 +0000"
     },
     "done": true
   },
@@ -623,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-08-18 21:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-05-20 01:58:23 +0000"
@@ -731,13 +755,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-06-02 03:29:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-06-02 03:29:54 +0000"
     },
@@ -926,6 +950,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-07-12 22:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-18 22:37:51 +0000"
     },
     "done": true
   },
@@ -1277,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-08-18 21:01:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-05-19 19:06:35 +0000"
@@ -1331,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-08-18 21:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2019-08-18 03:01:27 +0000"
@@ -1339,11 +1381,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-18 03:47:59 +0000",
       "minecraft:mountains": "2019-08-17 03:37:32 +0000",
+      "minecraft:forest": "2019-08-18 03:47:59 +0000",
       "minecraft:desert_hills": "2019-05-21 01:26:17 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-18 22:33:35 +0000",
+      "minecraft:desert": "2019-08-18 22:41:43 +0000",
       "minecraft:jungle": "2019-05-21 01:25:37 +0000",
+      "minecraft:dark_forest": "2019-08-18 22:38:29 +0000",
       "minecraft:river": "2019-05-21 01:26:09 +0000",
+      "minecraft:snowy_taiga": "2019-08-18 21:24:38 +0000",
       "minecraft:wooded_mountains": "2019-08-17 03:48:25 +0000",
       "minecraft:plains": "2019-05-19 18:48:25 +0000"
     },

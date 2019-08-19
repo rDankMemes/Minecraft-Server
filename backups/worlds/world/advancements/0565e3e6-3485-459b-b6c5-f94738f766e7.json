@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-08-18 21:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-05-20 02:27:34 +0000"
@@ -1774,18 +1780,18 @@
       "minecraft:shulker": "2019-05-23 02:05:17 +0000",
       "minecraft:cave_spider": "2019-05-23 02:05:17 +0000",
       "minecraft:guardian": "2019-05-23 02:05:17 +0000",
-      "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
-      "minecraft:stray": "2019-05-23 02:05:17 +0000",
-      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
       "minecraft:enderman": "2019-05-23 02:05:17 +0000",
+      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
+      "minecraft:stray": "2019-05-23 02:05:17 +0000",
+      "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
       "minecraft:magma_cube": "2019-05-23 02:05:17 +0000",
       "minecraft:spider": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie": "2019-05-23 02:05:17 +0000",
-      "minecraft:drowned": "2019-05-23 02:05:17 +0000",
       "minecraft:creeper": "2019-05-23 02:05:17 +0000",
+      "minecraft:drowned": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie_villager": "2019-05-23 02:05:17 +0000",
-      "minecraft:slime": "2019-05-23 02:05:17 +0000",
-      "minecraft:evoker": "2019-05-23 02:05:17 +0000"
+      "minecraft:evoker": "2019-05-23 02:05:17 +0000",
+      "minecraft:slime": "2019-05-23 02:05:17 +0000"
     },
     "done": true
   },
@@ -1837,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-08-18 21:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2019-06-15 14:55:22 +0000"
@@ -1845,13 +1857,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
       "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
-      "minecraft:forest": "2019-05-21 01:49:22 +0000",
-      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
       "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
+      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:forest": "2019-05-21 01:49:22 +0000",
       "minecraft:taiga": "2019-08-16 12:25:05 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-18 23:40:26 +0000",
       "minecraft:snowy_tundra": "2019-08-16 14:27:41 +0000",
       "minecraft:taiga_hills": "2019-08-16 11:47:56 +0000",
       "minecraft:desert": "2019-05-19 01:53:40 +0000",
@@ -1863,8 +1876,8 @@
       "minecraft:savanna_plateau": "2019-08-16 14:28:16 +0000",
       "minecraft:beach": "2019-05-18 23:41:14 +0000",
       "minecraft:dark_forest": "2019-05-23 02:04:10 +0000",
-      "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
       "minecraft:river": "2019-05-18 23:41:31 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:24 +0000",
       "minecraft:wooded_hills": "2019-08-16 12:26:47 +0000",
       "minecraft:swamp": "2019-08-18 13:33:26 +0000",

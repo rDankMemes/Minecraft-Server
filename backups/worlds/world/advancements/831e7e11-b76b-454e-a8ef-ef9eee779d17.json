@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-08-18 21:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-08-16 18:49:36 +0000"
@@ -350,6 +356,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-08-18 21:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-16 19:05:38 +0000"
@@ -452,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-18 21:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2019-08-17 01:12:55 +0000"
@@ -491,6 +509,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-08-17 03:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-18 21:04:12 +0000"
     },
     "done": true
   },
@@ -545,6 +569,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2019-08-18 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-08-18 21:04:14 +0000"
     },
     "done": true
   },
@@ -784,6 +814,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-18 23:52:36 +0000",
       "minecraft:polar_bear": "2019-08-18 20:23:53 +0000",
       "minecraft:skeleton": "2019-08-17 00:33:36 +0000",
       "minecraft:wither_skeleton": "2019-08-17 01:29:11 +0000",
@@ -850,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-18 21:03:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/uneasy_alliance": {
     "criteria": {
       "killed_ghast": "2019-08-17 03:56:52 +0000"
@@ -904,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-08-18 20:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-16 20:55:56 +0000"
@@ -931,6 +974,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-08-17 03:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-18 21:28:19 +0000"
     },
     "done": true
   },
@@ -1132,9 +1181,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-08-18 21:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2019-08-17 17:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-08-18 23:51:02 +0000"
     },
     "done": true
   },
@@ -1252,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-08-18 21:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2019-08-17 23:03:50 +0000"
@@ -1324,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-08-18 21:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-16 22:42:41 +0000"
@@ -1345,6 +1418,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-16 22:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-08-18 20:56:44 +0000"
     },
     "done": true
   },
@@ -1416,9 +1495,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-16 21:14:37 +0000",
-      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
       "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
+      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
+      "minecraft:forest": "2019-08-16 21:14:37 +0000",
       "minecraft:desert": "2019-08-17 21:19:03 +0000",
       "minecraft:jungle": "2019-08-18 03:48:03 +0000",
       "minecraft:dark_forest": "2019-08-18 19:27:45 +0000",
@@ -1426,6 +1505,12 @@
       "minecraft:plains": "2019-08-17 00:32:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-18 22:21:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -1448,6 +1533,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-08-18 20:58:29 +0000"
     },
     "done": true
   },
@@ -1532,6 +1623,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-08-18 07:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-18 21:03:58 +0000"
     },
     "done": true
   },
