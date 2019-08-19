@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2019-08-19 05:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-17 01:02:18 +0000"
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-08-16 18:53:28 +0000"
@@ -338,6 +356,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-08-19 05:51:21 +0000"
     },
     "done": true
   },
@@ -446,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2019-08-19 05:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-17 01:02:18 +0000"
@@ -530,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-08-19 05:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2019-08-18 21:04:12 +0000"
@@ -553,6 +589,12 @@
       "has_gravel": "2019-08-16 22:45:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2019-08-19 05:33:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -593,6 +635,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2019-08-18 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
     },
     "done": true
   },
@@ -641,6 +689,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2019-08-17 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
     },
     "done": true
   },
@@ -818,6 +872,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:37:40 +0000"
@@ -851,15 +917,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2019-08-17 21:17:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-19 05:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-19 05:46:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-16 20:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-19 05:37:58 +0000"
     },
     "done": true
   },
@@ -959,9 +1049,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-08-16 18:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
     },
     "done": true
   },
@@ -1097,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2019-08-19 05:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
@@ -1106,6 +1214,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-08-17 21:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
     },
     "done": true
   },
@@ -1235,6 +1349,18 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-08-19 05:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-08-19 05:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 18:34:04 +0000"
@@ -1346,6 +1472,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2019-08-18 21:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2019-08-19 05:42:38 +0000"
     },
     "done": true
   },
@@ -1511,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-19 05:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2019-08-16 18:41:12 +0000"
@@ -1537,9 +1675,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
-      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
       "minecraft:forest": "2019-08-16 21:14:37 +0000",
+      "minecraft:mountains": "2019-08-16 21:58:51 +0000",
+      "minecraft:mushroom_fields": "2019-08-17 02:54:14 +0000",
       "minecraft:desert": "2019-08-17 21:19:03 +0000",
       "minecraft:jungle": "2019-08-18 03:48:03 +0000",
       "minecraft:dark_forest": "2019-08-18 19:27:45 +0000",
@@ -1551,6 +1689,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-18 22:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-08-19 05:42:14 +0000"
     },
     "done": true
   },
@@ -1611,6 +1755,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-17 01:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-08-19 05:32:30 +0000"
     },
     "done": true
   },
@@ -1686,6 +1836,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2019-08-19 05:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2019-08-16 22:07:49 +0000"
@@ -1695,6 +1851,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-17 23:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-19 05:33:02 +0000"
     },
     "done": true
   },
@@ -1752,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-08-19 05:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2019-08-18 07:19:40 +0000"
@@ -1779,6 +1947,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-08-17 00:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-19 05:41:49 +0000"
     },
     "done": true
   },

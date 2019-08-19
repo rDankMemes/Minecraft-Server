@@ -621,8 +621,8 @@
       "minecraft:enderman": "2019-07-10 03:28:10 +0000",
       "minecraft:magma_cube": "2019-06-24 04:40:05 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
-      "minecraft:drowned": "2019-08-17 00:50:40 +0000",
       "minecraft:creeper": "2019-05-19 06:05:16 +0000",
+      "minecraft:drowned": "2019-08-17 00:50:40 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:22 +0000",
       "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
@@ -1105,9 +1105,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
-      "minecraft:forest": "2019-05-19 00:36:36 +0000",
       "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:forest": "2019-05-19 00:36:36 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
+      "minecraft:snowy_tundra": "2019-08-19 04:25:50 +0000",
       "minecraft:taiga_hills": "2019-08-17 00:12:33 +0000",
       "minecraft:desert": "2019-05-19 05:07:19 +0000",
       "minecraft:jungle": "2019-05-21 07:43:29 +0000",
@@ -1115,6 +1116,7 @@
       "minecraft:warm_ocean": "2019-08-16 23:14:42 +0000",
       "minecraft:badlands": "2019-08-16 23:13:38 +0000",
       "minecraft:beach": "2019-05-18 23:09:37 +0000",
+      "minecraft:dark_forest": "2019-08-19 04:24:48 +0000",
       "minecraft:river": "2019-05-18 23:08:24 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:20:04 +0000",
       "minecraft:plains": "2019-05-18 23:07:07 +0000"
