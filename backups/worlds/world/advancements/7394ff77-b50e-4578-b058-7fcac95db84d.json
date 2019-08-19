@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2019-08-19 12:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 05:45:52 +0000"
@@ -346,6 +352,13 @@
       "has_terracotta": "2019-05-28 07:16:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2019-08-19 14:35:51 +0000",
+      "golden_carrot": "2019-08-19 12:42:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {

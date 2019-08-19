@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2019-08-19 14:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-08-16 15:06:58 +0000"
@@ -389,13 +395,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-17 20:19:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-17 20:19:37 +0000"
     },
@@ -416,6 +422,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2019-08-16 13:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-19 14:09:19 +0000"
     },
     "done": true
   },
@@ -644,6 +656,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-17 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-08-19 14:28:31 +0000"
     },
     "done": true
   },
@@ -944,6 +962,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2019-08-16 13:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-19 14:09:19 +0000"
     },
     "done": true
   },
@@ -1253,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-08-19 14:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-08-16 14:47:16 +0000"
@@ -1339,8 +1369,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-16 14:24:08 +0000",
       "minecraft:mountains": "2019-08-16 15:14:03 +0000",
+      "minecraft:forest": "2019-08-16 14:24:08 +0000",
       "minecraft:taiga": "2019-08-16 13:29:22 +0000",
       "minecraft:giant_tree_taiga": "2019-08-17 20:42:13 +0000",
       "minecraft:taiga_hills": "2019-08-16 13:29:05 +0000",
