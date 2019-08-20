@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-08-20 00:28:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-02 03:39:46 +0000"
@@ -862,7 +868,8 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-19 23:09:19 +0000",
       "minecraft:spider": "2019-08-19 23:31:13 +0000",
-      "minecraft:zombie": "2019-08-19 23:21:58 +0000"
+      "minecraft:zombie": "2019-08-19 23:21:58 +0000",
+      "minecraft:creeper": "2019-08-20 00:33:31 +0000"
     },
     "done": false
   },
@@ -1541,19 +1548,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 21:07:05 +0000",
-      "minecraft:mountains": "2019-08-17 03:37:32 +0000",
-      "minecraft:forest": "2019-08-18 03:47:59 +0000",
       "minecraft:mushroom_fields": "2019-08-19 23:21:23 +0000",
+      "minecraft:forest": "2019-08-18 03:47:59 +0000",
+      "minecraft:mountains": "2019-08-17 03:37:32 +0000",
       "minecraft:desert_hills": "2019-05-21 01:26:17 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 22:33:35 +0000",
       "minecraft:snowy_tundra": "2019-08-19 21:49:08 +0000",
       "minecraft:desert": "2019-08-18 22:41:43 +0000",
       "minecraft:frozen_river": "2019-08-19 23:02:54 +0000",
       "minecraft:jungle": "2019-05-21 01:25:37 +0000",
+      "minecraft:beach": "2019-08-20 00:42:05 +0000",
       "minecraft:dark_forest": "2019-08-18 22:38:29 +0000",
       "minecraft:river": "2019-05-21 01:26:09 +0000",
       "minecraft:snowy_taiga": "2019-08-18 21:24:38 +0000",
       "minecraft:wooded_mountains": "2019-08-17 03:48:25 +0000",
+      "minecraft:savanna": "2019-08-20 02:37:45 +0000",
       "minecraft:plains": "2019-05-19 18:48:25 +0000"
     },
     "done": false
@@ -1645,6 +1654,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-20 01:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-08-20 00:29:04 +0000"
     },
     "done": true
   },

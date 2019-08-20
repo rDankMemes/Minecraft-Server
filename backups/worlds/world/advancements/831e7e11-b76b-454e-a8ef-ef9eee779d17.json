@@ -1272,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-08-20 02:43:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2019-08-19 05:31:11 +0000"
@@ -1767,6 +1773,7 @@
       "minecraft:jungle": "2019-08-18 03:48:03 +0000",
       "minecraft:dark_forest": "2019-08-18 19:27:45 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:24:26 +0000",
+      "minecraft:savanna": "2019-08-20 01:41:53 +0000",
       "minecraft:plains": "2019-08-17 00:32:27 +0000"
     },
     "done": false

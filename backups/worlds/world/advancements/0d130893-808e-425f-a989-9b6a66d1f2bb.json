@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-08-20 02:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-06-14 14:58:09 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-08-20 02:38:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-06-21 16:48:42 +0000"
@@ -455,9 +467,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-08-20 02:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2019-06-17 02:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-08-20 02:49:52 +0000"
     },
     "done": true
   },
@@ -613,13 +637,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-20 02:56:41 +0000",
       "minecraft:polar_bear": "2019-08-18 20:23:53 +0000",
       "minecraft:skeleton": "2019-06-27 00:13:45 +0000",
       "minecraft:wither_skeleton": "2019-06-24 04:08:02 +0000",
+      "minecraft:zombie_pigman": "2019-08-20 02:39:42 +0000",
+      "minecraft:ghast": "2019-08-20 02:49:52 +0000",
       "minecraft:shulker": "2019-06-24 04:22:17 +0000",
       "minecraft:enderman": "2019-06-25 21:54:10 +0000",
       "minecraft:silverfish": "2019-07-13 00:56:18 +0000",
       "minecraft:magma_cube": "2019-06-26 01:09:29 +0000",
+      "minecraft:spider": "2019-08-20 00:00:33 +0000",
       "minecraft:zombie": "2019-08-19 19:59:41 +0000",
       "minecraft:creeper": "2019-06-22 22:37:07 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:20 +0000"
@@ -950,6 +978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-08-20 00:46:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-06-25 20:13:50 +0000"
@@ -1145,6 +1179,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2019-06-24 23:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2019-08-20 01:06:02 +0000"
     },
     "done": true
   },
@@ -1499,6 +1539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2019-08-20 01:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-08-20 00:46:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2019-06-24 23:13:29 +0000"
@@ -1670,6 +1722,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-06-15 02:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-08-20 02:46:50 +0000"
     },
     "done": true
   },
@@ -1903,6 +1961,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-08-20 02:46:50 +0000"
     },
     "done": true
   },
@@ -2234,6 +2298,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2019-06-21 16:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2019-08-20 01:06:02 +0000"
     },
     "done": true
   },
@@ -2675,6 +2745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-08-20 02:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-06-15 02:27:51 +0000"
@@ -2792,6 +2868,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2019-06-21 16:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-08-20 02:46:50 +0000"
     },
     "done": true
   },
