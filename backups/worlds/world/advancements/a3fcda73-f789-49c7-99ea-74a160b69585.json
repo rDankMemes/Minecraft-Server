@@ -248,7 +248,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2019-08-19 23:53:38 +0000",
-      "beef": "2019-08-19 17:30:15 +0000"
+      "beef": "2019-08-19 17:30:15 +0000",
+      "carrot": "2019-08-20 12:00:22 +0000"
     },
     "done": false
   },
@@ -414,6 +415,15 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-08-20 12:06:57 +0000",
+      "iron_chestplate": "2019-08-20 12:06:57 +0000",
+      "iron_leggings": "2019-08-20 12:06:57 +0000",
+      "iron_helmet": "2019-08-20 12:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-19 23:44:36 +0000"
@@ -471,6 +481,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-20 11:57:18 +0000"
     },
     "done": true
   },
@@ -602,6 +618,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2019-08-20 13:39:08 +0000",
+      "minecraft:phantom": "2019-08-20 13:21:26 +0000",
+      "minecraft:zombie": "2019-08-20 14:02:43 +0000",
       "minecraft:drowned": "2019-08-19 23:55:50 +0000"
     },
     "done": false
@@ -816,9 +835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2019-08-20 13:26:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-08-20 13:39:07 +0000"
     },
     "done": true
   },
@@ -909,6 +940,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-08-20 13:39:09 +0000"
     },
     "done": true
   },
@@ -1035,10 +1072,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 23:44:02 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 17:19:49 +0000",
+      "minecraft:forest": "2019-08-20 12:09:48 +0000",
       "minecraft:mountains": "2019-08-19 17:43:27 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 17:19:49 +0000",
       "minecraft:snowy_tundra": "2019-08-19 23:53:22 +0000",
-      "minecraft:desert": "2019-08-19 23:25:37 +0000"
+      "minecraft:desert": "2019-08-19 23:25:37 +0000",
+      "minecraft:warm_ocean": "2019-08-20 13:24:59 +0000",
+      "minecraft:badlands": "2019-08-20 13:24:23 +0000",
+      "minecraft:snowy_taiga": "2019-08-20 13:58:26 +0000",
+      "minecraft:swamp": "2019-08-20 12:09:35 +0000"
     },
     "done": false
   },

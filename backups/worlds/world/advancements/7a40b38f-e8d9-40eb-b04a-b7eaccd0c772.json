@@ -315,6 +315,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-19 20:32:56 +0000",
+      "porkchop": "2019-08-20 12:18:26 +0000",
       "bread": "2019-08-19 18:19:35 +0000",
       "rotten_flesh": "2019-08-19 19:01:06 +0000",
       "cooked_chicken": "2019-08-19 19:48:11 +0000",
@@ -374,6 +375,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-08-20 13:30:27 +0000"
     },
     "done": true
   },
@@ -781,6 +788,7 @@
       "minecraft:phantom": "2019-08-18 20:01:30 +0000",
       "minecraft:witch": "2019-08-20 09:20:49 +0000",
       "minecraft:wither_skeleton": "2019-08-18 20:01:58 +0000",
+      "minecraft:zombie_pigman": "2019-08-20 14:09:47 +0000",
       "minecraft:silverfish": "2019-08-18 20:24:20 +0000",
       "minecraft:enderman": "2019-08-18 20:14:10 +0000",
       "minecraft:spider": "2019-08-19 19:00:44 +0000",

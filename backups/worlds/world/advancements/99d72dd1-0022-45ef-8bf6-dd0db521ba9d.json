@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-08-20 13:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-08-19 18:01:27 +0000"
@@ -290,6 +296,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-08-19 17:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-08-20 14:17:11 +0000"
     },
     "done": true
   },
@@ -703,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-08-20 13:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-08-19 17:37:08 +0000"
@@ -928,6 +946,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-08-19 23:25:05 +0000",
+      "minecraft:phantom": "2019-08-20 13:37:53 +0000",
       "minecraft:cave_spider": "2019-08-19 23:45:00 +0000",
       "minecraft:silverfish": "2019-08-20 00:55:30 +0000",
       "minecraft:spider": "2019-08-19 23:27:59 +0000",
@@ -1003,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-20 14:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 00:39:58 +0000"
@@ -1042,6 +1067,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-08-19 21:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-08-20 14:27:01 +0000"
     },
     "done": true
   },
@@ -1273,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-08-20 13:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-19 18:14:55 +0000"
@@ -1495,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-08-20 13:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:26:51 +0000"
@@ -1636,8 +1679,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:43:43 +0000",
-      "minecraft:mountains": "2019-08-19 18:46:53 +0000",
       "minecraft:forest": "2019-08-19 18:48:23 +0000",
+      "minecraft:mountains": "2019-08-19 18:46:53 +0000",
       "minecraft:taiga": "2019-08-19 18:55:28 +0000",
       "minecraft:desert_hills": "2019-08-19 20:10:02 +0000",
       "minecraft:deep_cold_ocean": "2019-08-19 19:52:32 +0000",
@@ -1649,8 +1692,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-08-19 19:55:10 +0000",
       "minecraft:savanna_plateau": "2019-08-19 20:39:30 +0000",
       "minecraft:beach": "2019-08-19 19:40:46 +0000",
-      "minecraft:lukewarm_ocean": "2019-08-19 18:44:45 +0000",
       "minecraft:river": "2019-08-19 18:45:33 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-19 18:44:45 +0000",
       "minecraft:birch_forest_hills": "2019-08-19 19:03:56 +0000",
       "minecraft:wooded_hills": "2019-08-19 18:50:52 +0000",
       "minecraft:stone_shore": "2019-08-19 18:46:31 +0000",
@@ -1684,6 +1727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-08-20 14:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2019-08-19 23:56:29 +0000"
@@ -1711,6 +1760,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-08-20 13:32:54 +0000"
     },
     "done": true
   },
