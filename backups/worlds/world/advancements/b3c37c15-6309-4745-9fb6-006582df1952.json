@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:17:10 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-08-19 18:07:16 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-19 23:38:59 +0000"
     },
     "done": true
   },
@@ -125,15 +143,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-19 18:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:34:29 +0000"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "elytra": "2019-08-19 18:52:49 +0000"
+      "has_planks": "2019-08-19 23:26:30 +0000"
     },
     "done": true
   },
@@ -188,6 +212,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-08-19 18:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-08-19 23:37:56 +0000"
     },
     "done": true
   },
@@ -257,6 +287,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-08-19 23:55:30 +0000"
     },
     "done": true
   },
@@ -381,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-08-19 23:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2019-08-19 18:10:50 +0000"
@@ -426,6 +468,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-19 23:27:15 +0000"
     },
     "done": true
   },
@@ -525,13 +573,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-19 18:12:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-19 18:12:47 +0000"
     },
@@ -547,6 +601,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-19 17:39:16 +0000",
       "minecraft:cave_spider": "2019-08-19 18:16:37 +0000",
+      "minecraft:spider": "2019-08-19 23:42:32 +0000",
       "minecraft:zombie": "2019-08-19 17:27:47 +0000",
       "minecraft:creeper": "2019-08-19 17:40:27 +0000"
     },
@@ -558,9 +613,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-19 23:38:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
     },
     "done": true
   },
@@ -757,6 +824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-08-19 23:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 18:10:46 +0000"
@@ -796,6 +869,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
     },
     "done": true
   },
@@ -901,6 +980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-19 17:28:55 +0000"
@@ -982,9 +1067,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:08:16 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 17:20:35 +0000",
-      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
       "minecraft:forest": "2019-08-16 14:57:51 +0000",
+      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 17:20:35 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:21:02 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:07:35 +0000",
       "minecraft:desert": "2019-08-19 17:47:12 +0000",
@@ -1121,6 +1206,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-08-19 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-19 23:26:30 +0000"
     },
     "done": true
   },

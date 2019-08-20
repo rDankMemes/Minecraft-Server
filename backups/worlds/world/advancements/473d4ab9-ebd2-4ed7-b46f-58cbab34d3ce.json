@@ -401,13 +401,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-20 04:28:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-20 04:28:59 +0000"
     },
@@ -755,13 +755,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-05-21 04:42:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-05-21 04:42:22 +0000"
     },
@@ -1307,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-08-19 22:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-05-21 01:42:02 +0000"
@@ -1370,13 +1376,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
-      "minecraft:mountains": "2019-08-17 06:00:48 +0000",
+      "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
       "minecraft:forest": "2019-05-19 05:31:45 +0000",
+      "minecraft:mountains": "2019-08-17 06:00:48 +0000",
       "minecraft:desert_hills": "2019-05-21 01:31:07 +0000",
       "minecraft:desert": "2019-05-21 01:30:41 +0000",
       "minecraft:jungle": "2019-05-21 01:27:08 +0000",
       "minecraft:jungle_hills": "2019-06-25 04:58:20 +0000",
       "minecraft:beach": "2019-05-19 05:30:19 +0000",
+      "minecraft:dark_forest": "2019-08-19 22:26:41 +0000",
       "minecraft:river": "2019-05-19 05:30:30 +0000",
       "minecraft:wooded_mountains": "2019-08-17 07:20:41 +0000",
       "minecraft:savanna": "2019-05-21 01:22:53 +0000",

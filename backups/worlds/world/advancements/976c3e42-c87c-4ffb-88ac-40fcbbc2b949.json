@@ -336,8 +336,10 @@
       "cooked_beef": "2019-08-19 18:05:46 +0000",
       "beef": "2019-08-19 18:17:32 +0000",
       "porkchop": "2019-08-19 17:51:51 +0000",
+      "potato": "2019-08-19 21:00:23 +0000",
       "cooked_cod": "2019-08-19 20:49:31 +0000",
       "mutton": "2019-08-19 17:42:12 +0000",
+      "salmon": "2019-08-19 21:17:29 +0000",
       "cooked_chicken": "2019-08-19 19:11:15 +0000"
     },
     "done": false
@@ -357,6 +359,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-08-19 21:54:23 +0000"
     },
     "done": true
   },
@@ -405,6 +413,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2019-08-19 21:53:55 +0000"
     },
     "done": true
   },
@@ -802,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-08-19 21:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-08-19 17:47:00 +0000"
@@ -844,6 +864,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-08-19 21:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-08-19 21:00:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:42:07 +0000"
@@ -853,6 +885,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-08-19 18:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-08-19 21:54:23 +0000"
     },
     "done": true
   },

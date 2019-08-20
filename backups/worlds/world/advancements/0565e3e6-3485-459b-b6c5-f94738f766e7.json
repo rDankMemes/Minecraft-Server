@@ -1026,13 +1026,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-19 20:55:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-19 20:55:27 +0000"
     },
@@ -1059,6 +1059,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:polar_bear": "2019-08-18 20:48:21 +0000",
+      "minecraft:skeleton": "2019-08-19 21:47:55 +0000",
       "minecraft:phantom": "2019-08-16 13:03:12 +0000",
       "minecraft:ghast": "2019-08-16 13:19:36 +0000",
       "minecraft:shulker": "2019-05-26 22:18:27 +0000",
@@ -1629,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-19 21:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2019-05-22 03:54:38 +0000"
@@ -1859,18 +1866,18 @@
       "minecraft:shulker": "2019-05-23 02:05:17 +0000",
       "minecraft:cave_spider": "2019-05-23 02:05:17 +0000",
       "minecraft:guardian": "2019-05-23 02:05:17 +0000",
-      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
-      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
-      "minecraft:stray": "2019-05-23 02:05:17 +0000",
       "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
+      "minecraft:stray": "2019-05-23 02:05:17 +0000",
+      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
+      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
       "minecraft:magma_cube": "2019-05-23 02:05:17 +0000",
       "minecraft:spider": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie": "2019-05-23 02:05:17 +0000",
-      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:drowned": "2019-05-23 02:05:17 +0000",
+      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie_villager": "2019-05-23 02:05:17 +0000",
-      "minecraft:evoker": "2019-05-23 02:05:17 +0000",
-      "minecraft:slime": "2019-05-23 02:05:17 +0000"
+      "minecraft:slime": "2019-05-23 02:05:17 +0000",
+      "minecraft:evoker": "2019-05-23 02:05:17 +0000"
     },
     "done": true
   },
@@ -1936,11 +1943,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
-      "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
-      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:forest": "2019-05-21 01:49:22 +0000",
+      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
       "minecraft:taiga": "2019-08-16 12:25:05 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 23:40:26 +0000",
@@ -1954,11 +1961,12 @@
       "minecraft:snowy_beach": "2019-08-19 14:35:38 +0000",
       "minecraft:warm_ocean": "2019-08-16 11:48:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-16 12:21:01 +0000",
+      "minecraft:badlands": "2019-08-19 22:15:14 +0000",
       "minecraft:savanna_plateau": "2019-08-16 14:28:16 +0000",
       "minecraft:beach": "2019-05-18 23:41:14 +0000",
       "minecraft:dark_forest": "2019-05-23 02:04:10 +0000",
-      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
+      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:snowy_taiga": "2019-08-19 14:35:05 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:24 +0000",
       "minecraft:wooded_hills": "2019-08-16 12:26:47 +0000",
@@ -2223,6 +2231,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-08-19 20:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-19 21:32:31 +0000"
     },
     "done": true
   },
