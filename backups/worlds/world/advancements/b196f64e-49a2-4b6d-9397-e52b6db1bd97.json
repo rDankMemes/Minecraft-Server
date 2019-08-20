@@ -285,6 +285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:14:21 +0000"
@@ -300,6 +306,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
     },
     "done": true
   },
@@ -621,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 20:08:57 +0000"
@@ -665,8 +683,8 @@
       "minecraft:enderman": "2019-08-20 15:40:26 +0000",
       "minecraft:spider": "2019-08-19 20:45:02 +0000",
       "minecraft:zombie": "2019-08-19 20:17:18 +0000",
-      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
-      "minecraft:creeper": "2019-08-19 20:32:50 +0000"
+      "minecraft:creeper": "2019-08-19 20:32:50 +0000",
+      "minecraft:drowned": "2019-08-20 10:43:27 +0000"
     },
     "done": false
   },
@@ -832,6 +850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-19 20:49:37 +0000"
@@ -901,6 +925,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-08-20 20:54:14 +0000"
     },
     "done": true
   },
@@ -1018,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-08-20 20:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-19 20:45:03 +0000"
@@ -1126,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2019-08-19 20:05:57 +0000"
@@ -1206,12 +1248,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:forest": "2019-08-20 10:06:58 +0000",
+      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:taiga": "2019-08-20 16:20:27 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-20 20:52:10 +0000",
       "minecraft:snowy_tundra": "2019-08-20 15:41:24 +0000",
       "minecraft:taiga_hills": "2019-08-20 16:23:36 +0000",
       "minecraft:desert": "2019-08-19 20:52:15 +0000",
+      "minecraft:jungle": "2019-08-20 20:51:16 +0000",
       "minecraft:badlands": "2019-08-19 20:59:34 +0000",
       "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
@@ -1286,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:14:21 +0000"
@@ -1310,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-19 20:24:48 +0000"
@@ -1325,6 +1381,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-08-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-20 20:54:17 +0000"
     },
     "done": true
   },

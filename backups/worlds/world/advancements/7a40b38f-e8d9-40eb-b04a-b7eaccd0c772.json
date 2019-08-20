@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-08-20 20:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-16 18:22:29 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-20 20:02:48 +0000"
     },
     "done": true
   },
@@ -210,6 +222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-20 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:13:19 +0000"
@@ -249,6 +267,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-06-05 16:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-08-20 20:07:14 +0000"
     },
     "done": true
   },
@@ -327,11 +351,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-19 20:32:56 +0000",
+      "chorus_fruit": "2019-08-20 20:34:43 +0000",
       "porkchop": "2019-08-20 12:18:26 +0000",
       "bread": "2019-08-19 18:19:35 +0000",
       "rotten_flesh": "2019-08-19 19:01:06 +0000",
       "cooked_chicken": "2019-08-19 19:48:11 +0000",
       "enchanted_golden_apple": "2019-08-16 18:16:04 +0000",
+      "cooked_salmon": "2019-08-20 20:22:28 +0000",
       "carrot": "2019-08-20 09:38:12 +0000"
     },
     "done": false
@@ -345,6 +371,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-08-19 18:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-08-20 20:04:05 +0000"
     },
     "done": true
   },
@@ -510,6 +542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-08-20 20:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 21:16:59 +0000"
@@ -565,6 +603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-08-20 20:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-06-07 18:25:41 +0000"
@@ -616,6 +660,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-08-19 21:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-08-20 20:04:05 +0000"
     },
     "done": true
   },
@@ -807,14 +857,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-20 20:09:27 +0000",
       "minecraft:polar_bear": "2019-08-18 19:58:46 +0000",
       "minecraft:skeleton": "2019-08-19 23:04:33 +0000",
       "minecraft:phantom": "2019-08-18 20:01:30 +0000",
       "minecraft:witch": "2019-08-20 09:20:49 +0000",
       "minecraft:wither_skeleton": "2019-08-18 20:01:58 +0000",
       "minecraft:zombie_pigman": "2019-08-20 14:09:47 +0000",
-      "minecraft:enderman": "2019-08-18 20:14:10 +0000",
       "minecraft:silverfish": "2019-08-18 20:24:20 +0000",
+      "minecraft:enderman": "2019-08-18 20:14:10 +0000",
       "minecraft:spider": "2019-08-19 19:00:44 +0000",
       "minecraft:zombie": "2019-08-18 20:32:30 +0000",
       "minecraft:creeper": "2019-08-19 19:35:35 +0000"
@@ -830,6 +881,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2019-08-18 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-20 20:02:48 +0000"
     },
     "done": true
   },
@@ -1065,6 +1122,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2019-08-20 10:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-20 20:03:21 +0000"
     },
     "done": true
   },
@@ -1458,6 +1521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-08-20 20:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2019-08-19 20:10:48 +0000"
@@ -1473,9 +1542,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:15:11 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 20:10:07 +0000",
-      "minecraft:mountains": "2019-08-16 17:27:22 +0000",
       "minecraft:forest": "2019-08-16 13:02:28 +0000",
+      "minecraft:mountains": "2019-08-16 17:27:22 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 20:10:07 +0000",
       "minecraft:taiga": "2019-08-16 13:07:57 +0000",
       "minecraft:desert_hills": "2019-06-07 11:35:20 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:15:45 +0000",
@@ -1489,6 +1558,7 @@
       "minecraft:snowy_taiga": "2019-08-19 19:05:14 +0000",
       "minecraft:birch_forest_hills": "2019-08-19 19:05:09 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:23 +0000",
+      "minecraft:wooded_hills": "2019-08-20 18:12:14 +0000",
       "minecraft:plains": "2019-06-03 17:15:44 +0000"
     },
     "done": false
@@ -1595,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-08-20 20:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-19 18:13:19 +0000"
@@ -1628,6 +1704,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-08-19 18:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-08-20 20:07:14 +0000"
     },
     "done": true
   },
@@ -1700,6 +1782,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2019-08-20 09:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-08-20 20:10:02 +0000"
     },
     "done": true
   },

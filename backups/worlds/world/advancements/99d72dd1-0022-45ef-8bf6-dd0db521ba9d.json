@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-20 20:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:26:51 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 20:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_the_recipe": "2019-08-20 20:48:43 +0000"
     },
     "done": true
   },
@@ -389,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-08-20 20:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 20:17:07 +0000"
@@ -423,6 +441,7 @@
       "potato": "2019-08-19 18:35:05 +0000",
       "mutton": "2019-08-19 18:47:35 +0000",
       "bread": "2019-08-19 19:04:12 +0000",
+      "cooked_chicken": "2019-08-20 18:23:24 +0000",
       "carrot": "2019-08-19 18:02:43 +0000"
     },
     "done": false
@@ -649,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-08-20 18:24:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cactus_green": {
     "criteria": {
       "has_cactus": "2019-08-19 20:10:38 +0000"
@@ -718,6 +743,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-19 20:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-20 20:50:49 +0000"
     },
     "done": true
   },
@@ -940,6 +971,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-08-20 11:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-08-20 20:46:39 +0000"
     },
     "done": true
   },
@@ -1217,6 +1254,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-08-20 18:24:10 +0000"
     },
     "done": true
   },
@@ -1727,8 +1770,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:43:43 +0000",
-      "minecraft:mountains": "2019-08-19 18:46:53 +0000",
       "minecraft:forest": "2019-08-19 18:48:23 +0000",
+      "minecraft:mountains": "2019-08-19 18:46:53 +0000",
       "minecraft:taiga": "2019-08-19 18:55:28 +0000",
       "minecraft:desert_hills": "2019-08-19 20:10:02 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 16:58:34 +0000",
@@ -1741,8 +1784,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-08-19 19:55:10 +0000",
       "minecraft:savanna_plateau": "2019-08-19 20:39:30 +0000",
       "minecraft:beach": "2019-08-19 19:40:46 +0000",
-      "minecraft:lukewarm_ocean": "2019-08-19 18:44:45 +0000",
       "minecraft:river": "2019-08-19 18:45:33 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-19 18:44:45 +0000",
       "minecraft:birch_forest_hills": "2019-08-19 19:03:56 +0000",
       "minecraft:wooded_hills": "2019-08-19 18:50:52 +0000",
       "minecraft:stone_shore": "2019-08-19 18:46:31 +0000",
@@ -1779,6 +1822,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2019-08-20 14:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_the_recipe": "2019-08-20 20:46:19 +0000"
     },
     "done": true
   },
@@ -1932,6 +1981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-20 20:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 20:17:07 +0000"
@@ -1947,6 +2002,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 20:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2019-08-20 20:46:36 +0000"
     },
     "done": true
   },
