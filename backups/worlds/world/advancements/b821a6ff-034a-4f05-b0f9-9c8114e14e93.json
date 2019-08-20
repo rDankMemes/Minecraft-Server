@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-20 17:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-05-22 14:07:52 +0000"
@@ -544,6 +550,7 @@
       "minecraft:skeleton": "2019-08-18 10:59:26 +0000",
       "minecraft:phantom": "2019-07-13 19:55:36 +0000",
       "minecraft:shulker": "2019-08-16 21:58:01 +0000",
+      "minecraft:stray": "2019-08-20 16:58:37 +0000",
       "minecraft:enderman": "2019-08-18 11:03:03 +0000",
       "minecraft:zombie": "2019-08-18 10:59:21 +0000",
       "minecraft:creeper": "2019-06-22 12:23:54 +0000"
@@ -1912,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-20 17:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_rose_red": "2019-06-17 18:48:29 +0000"
@@ -2137,6 +2150,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-06-25 08:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-08-20 17:02:32 +0000"
     },
     "done": true
   },

@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-08-20 16:10:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-19 19:00:32 +0000"
@@ -306,6 +312,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 19:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-08-20 16:11:28 +0000"
     },
     "done": true
   },
@@ -648,10 +660,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-08-20 12:16:08 +0000",
+      "minecraft:phantom": "2019-08-20 16:22:07 +0000",
       "minecraft:spider": "2019-08-20 11:58:50 +0000",
       "minecraft:zombie": "2019-08-20 12:06:46 +0000",
-      "minecraft:drowned": "2019-08-19 18:57:19 +0000",
-      "minecraft:creeper": "2019-08-20 11:57:36 +0000"
+      "minecraft:creeper": "2019-08-20 11:57:36 +0000",
+      "minecraft:drowned": "2019-08-19 18:57:19 +0000"
     },
     "done": false
   },
@@ -688,6 +701,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2019-08-19 19:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-08-20 16:03:11 +0000"
     },
     "done": true
   },
@@ -865,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-20 16:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-20 12:00:31 +0000"
@@ -919,6 +944,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-08-20 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-08-20 16:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 18:49:30 +0000"
@@ -931,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-20 16:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2019-08-19 19:10:06 +0000"
@@ -940,6 +983,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-08-19 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-08-20 16:10:11 +0000"
     },
     "done": true
   },
@@ -958,6 +1007,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 19:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-08-20 16:11:28 +0000"
     },
     "done": true
   },
@@ -994,6 +1049,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-08-20 12:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-20 16:20:15 +0000"
     },
     "done": true
   },
@@ -1126,10 +1187,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:49:43 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 19:15:17 +0000",
       "minecraft:mountains": "2019-08-19 18:49:05 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 19:15:17 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:48:50 +0000",
-      "minecraft:wooded_mountains": "2019-08-19 18:53:46 +0000"
+      "minecraft:wooded_mountains": "2019-08-19 18:53:46 +0000",
+      "minecraft:plains": "2019-08-20 16:08:15 +0000"
     },
     "done": false
   },
@@ -1148,6 +1210,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-08-19 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-20 16:04:07 +0000"
     },
     "done": true
   },

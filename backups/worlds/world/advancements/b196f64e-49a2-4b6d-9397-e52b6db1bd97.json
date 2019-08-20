@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2019-08-19 21:23:53 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-19 20:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -86,6 +98,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 20:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -167,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:14:21 +0000"
@@ -218,6 +242,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2019-08-19 20:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -297,6 +327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 20:10:54 +0000"
@@ -312,6 +348,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2019-08-20 10:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 15:42:18 +0000"
     },
     "done": true
   },
@@ -363,6 +405,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2019-08-20 16:22:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:14:21 +0000"
@@ -378,6 +426,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-19 20:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -444,6 +498,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-08-19 20:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -602,10 +662,11 @@
       "minecraft:skeleton": "2019-08-19 20:21:43 +0000",
       "minecraft:phantom": "2019-08-20 10:04:10 +0000",
       "minecraft:witch": "2019-08-20 10:37:49 +0000",
+      "minecraft:enderman": "2019-08-20 15:40:26 +0000",
       "minecraft:spider": "2019-08-19 20:45:02 +0000",
       "minecraft:zombie": "2019-08-19 20:17:18 +0000",
-      "minecraft:creeper": "2019-08-19 20:32:50 +0000",
-      "minecraft:drowned": "2019-08-20 10:43:27 +0000"
+      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
+      "minecraft:creeper": "2019-08-19 20:32:50 +0000"
     },
     "done": false
   },
@@ -642,6 +703,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2019-08-20 10:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -735,15 +802,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-20 16:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-08-19 20:11:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2019-08-19 20:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 15:42:18 +0000"
     },
     "done": true
   },
@@ -759,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 20:20:40 +0000"
@@ -768,6 +859,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2019-08-19 20:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -783,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2019-08-19 21:23:11 +0000"
@@ -792,6 +895,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-19 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -831,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-08-19 20:08:57 +0000"
@@ -840,6 +955,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2019-08-19 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-08-20 16:32:43 +0000"
     },
     "done": true
   },
@@ -933,6 +1054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-20 16:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-08-19 20:11:26 +0000"
@@ -954,6 +1081,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-19 20:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   },
@@ -1073,12 +1206,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-20 10:06:58 +0000",
       "minecraft:mountains": "2019-08-19 21:37:52 +0000",
+      "minecraft:forest": "2019-08-20 10:06:58 +0000",
+      "minecraft:taiga": "2019-08-20 16:20:27 +0000",
+      "minecraft:snowy_tundra": "2019-08-20 15:41:24 +0000",
+      "minecraft:taiga_hills": "2019-08-20 16:23:36 +0000",
       "minecraft:desert": "2019-08-19 20:52:15 +0000",
       "minecraft:badlands": "2019-08-19 20:59:34 +0000",
+      "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
-      "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000"
+      "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000",
+      "minecraft:plains": "2019-08-20 16:19:38 +0000"
     },
     "done": false
   },
@@ -1097,6 +1235,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-08-19 20:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-08-20 16:27:14 +0000"
     },
     "done": true
   },
@@ -1160,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-19 20:24:48 +0000"
@@ -1169,6 +1319,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-19 20:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-20 16:22:58 +0000"
     },
     "done": true
   },
@@ -1214,6 +1370,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-08-19 20:14:21 +0000"
@@ -1223,6 +1391,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 20:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-08-20 16:25:56 +0000"
     },
     "done": true
   }

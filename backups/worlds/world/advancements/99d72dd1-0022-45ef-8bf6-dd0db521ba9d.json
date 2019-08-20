@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-20 16:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-08-19 17:17:19 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2019-08-19 17:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-08-20 17:12:56 +0000"
     },
     "done": true
   },
@@ -697,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-08-20 17:12:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-19 20:51:31 +0000"
@@ -967,9 +985,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-08-20 16:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-20 17:00:33 +0000"
     },
     "done": true
   },
@@ -1244,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-08-20 15:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-08-20 00:40:10 +0000"
@@ -1343,6 +1379,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-08-20 14:56:48 +0000"
     },
     "done": true
   },
@@ -1493,6 +1535,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-08-19 23:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-08-20 16:28:16 +0000"
     },
     "done": true
   },
@@ -1679,10 +1727,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:43:43 +0000",
-      "minecraft:forest": "2019-08-19 18:48:23 +0000",
       "minecraft:mountains": "2019-08-19 18:46:53 +0000",
+      "minecraft:forest": "2019-08-19 18:48:23 +0000",
       "minecraft:taiga": "2019-08-19 18:55:28 +0000",
       "minecraft:desert_hills": "2019-08-19 20:10:02 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-20 16:58:34 +0000",
       "minecraft:deep_cold_ocean": "2019-08-19 19:52:32 +0000",
       "minecraft:snowy_tundra": "2019-08-19 21:09:11 +0000",
       "minecraft:desert": "2019-08-19 20:07:52 +0000",
@@ -1692,8 +1741,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-08-19 19:55:10 +0000",
       "minecraft:savanna_plateau": "2019-08-19 20:39:30 +0000",
       "minecraft:beach": "2019-08-19 19:40:46 +0000",
-      "minecraft:river": "2019-08-19 18:45:33 +0000",
       "minecraft:lukewarm_ocean": "2019-08-19 18:44:45 +0000",
+      "minecraft:river": "2019-08-19 18:45:33 +0000",
       "minecraft:birch_forest_hills": "2019-08-19 19:03:56 +0000",
       "minecraft:wooded_hills": "2019-08-19 18:50:52 +0000",
       "minecraft:stone_shore": "2019-08-19 18:46:31 +0000",
@@ -1853,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-08-20 15:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-19 18:31:35 +0000"
@@ -1988,6 +2043,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-20 16:41:37 +0000"
     },
     "done": true
   }

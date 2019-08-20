@@ -482,6 +482,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-08-20 16:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-05-19 00:06:02 +0000"
@@ -506,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-08-20 16:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-19 20:55:27 +0000"
@@ -527,6 +539,7 @@
       "minecraft:shulker": "2019-05-26 22:18:27 +0000",
       "minecraft:stray": "2019-08-18 20:06:56 +0000",
       "minecraft:zombie": "2019-08-17 01:03:33 +0000",
+      "minecraft:drowned": "2019-08-20 16:05:41 +0000",
       "minecraft:creeper": "2019-08-16 13:48:53 +0000",
       "minecraft:zombie_villager": "2019-08-16 12:03:13 +0000"
     },
@@ -962,18 +975,18 @@
       "minecraft:shulker": "2019-05-23 02:05:17 +0000",
       "minecraft:cave_spider": "2019-05-23 02:05:17 +0000",
       "minecraft:guardian": "2019-05-23 02:05:17 +0000",
-      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
-      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
-      "minecraft:stray": "2019-05-23 02:05:17 +0000",
       "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
+      "minecraft:stray": "2019-05-23 02:05:17 +0000",
+      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
+      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
       "minecraft:magma_cube": "2019-05-23 02:05:17 +0000",
       "minecraft:spider": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie": "2019-05-23 02:05:17 +0000",
-      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:drowned": "2019-05-23 02:05:17 +0000",
+      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie_villager": "2019-05-23 02:05:17 +0000",
-      "minecraft:evoker": "2019-05-23 02:05:17 +0000",
-      "minecraft:slime": "2019-05-23 02:05:17 +0000"
+      "minecraft:slime": "2019-05-23 02:05:17 +0000",
+      "minecraft:evoker": "2019-05-23 02:05:17 +0000"
     },
     "done": true
   },
@@ -1009,11 +1022,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
-      "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
-      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:forest": "2019-05-21 01:49:22 +0000",
+      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
       "minecraft:taiga": "2019-08-16 12:25:05 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 23:40:26 +0000",
@@ -1031,8 +1044,8 @@
       "minecraft:savanna_plateau": "2019-08-16 14:28:16 +0000",
       "minecraft:beach": "2019-05-18 23:41:14 +0000",
       "minecraft:dark_forest": "2019-05-23 02:04:10 +0000",
-      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
+      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:snowy_taiga": "2019-08-19 14:35:05 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:24 +0000",
       "minecraft:wooded_hills": "2019-08-16 12:26:47 +0000",
@@ -1123,6 +1136,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-22 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-08-20 16:27:38 +0000"
     },
     "done": true
   },
@@ -1351,6 +1370,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-08-20 16:24:42 +0000"
     },
     "done": true
   },
@@ -2024,6 +2049,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-20 16:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-05-19 00:06:02 +0000"
@@ -2189,6 +2220,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-05-23 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-20 16:22:39 +0000"
     },
     "done": true
   },
