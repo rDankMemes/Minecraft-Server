@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-20 11:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:34:29 +0000"
@@ -613,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-20 11:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 23:38:59 +0000"
@@ -1067,9 +1079,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:08:16 +0000",
-      "minecraft:forest": "2019-08-16 14:57:51 +0000",
-      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
       "minecraft:mushroom_fields": "2019-08-19 17:20:35 +0000",
+      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
+      "minecraft:forest": "2019-08-16 14:57:51 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:21:02 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:07:35 +0000",
       "minecraft:desert": "2019-08-19 17:47:12 +0000",

@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-20 10:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:45:39 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2019-08-20 09:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-19 18:23:52 +0000"
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-20 09:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-08-20 05:27:45 +0000"
@@ -274,6 +292,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-19 18:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-08-20 10:14:45 +0000"
     },
     "done": true
   },
@@ -355,6 +379,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 09:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-20 10:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2019-08-19 17:47:30 +0000"
@@ -424,6 +460,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2019-08-19 18:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-08-20 10:03:40 +0000"
     },
     "done": true
   },
@@ -660,8 +702,10 @@
       "minecraft:skeleton": "2019-08-20 06:13:59 +0000",
       "minecraft:cave_spider": "2019-08-19 19:55:27 +0000",
       "minecraft:silverfish": "2019-08-20 05:39:17 +0000",
+      "minecraft:spider": "2019-08-20 09:19:28 +0000",
       "minecraft:zombie": "2019-08-19 19:56:52 +0000",
-      "minecraft:creeper": "2019-08-19 19:54:03 +0000"
+      "minecraft:creeper": "2019-08-19 19:54:03 +0000",
+      "minecraft:drowned": "2019-08-20 10:01:30 +0000"
     },
     "done": false
   },
@@ -824,6 +868,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2019-08-20 05:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 09:29:09 +0000"
     },
     "done": true
   },
@@ -1210,8 +1260,16 @@
       "minecraft:cold_ocean": "2019-08-19 18:23:37 +0000",
       "minecraft:forest": "2019-08-19 19:34:42 +0000",
       "minecraft:mountains": "2019-08-19 17:40:05 +0000",
+      "minecraft:mushroom_fields": "2019-08-20 09:56:06 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-20 09:37:38 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:27:47 +0000",
-      "minecraft:wooded_mountains": "2019-08-19 18:06:07 +0000"
+      "minecraft:desert": "2019-08-20 09:40:24 +0000",
+      "minecraft:jungle": "2019-08-20 09:35:32 +0000",
+      "minecraft:warm_ocean": "2019-08-20 09:39:57 +0000",
+      "minecraft:badlands": "2019-08-20 09:38:59 +0000",
+      "minecraft:snowy_taiga": "2019-08-20 10:01:09 +0000",
+      "minecraft:wooded_mountains": "2019-08-19 18:06:07 +0000",
+      "minecraft:plains": "2019-08-20 09:34:25 +0000"
     },
     "done": false
   },

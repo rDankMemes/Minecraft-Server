@@ -489,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-08-20 09:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2019-08-19 22:59:54 +0000"
@@ -1291,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-08-20 09:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-08-19 23:15:20 +0000"
@@ -1561,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_the_recipe": "2019-08-20 09:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2019-08-19 23:22:19 +0000"
@@ -1621,7 +1639,9 @@
       "minecraft:mountains": "2019-08-19 22:46:01 +0000",
       "minecraft:snowy_tundra": "2019-08-19 22:57:11 +0000",
       "minecraft:badlands": "2019-08-20 04:42:28 +0000",
-      "minecraft:savanna": "2019-08-20 05:18:25 +0000"
+      "minecraft:wooded_mountains": "2019-08-20 10:15:35 +0000",
+      "minecraft:savanna": "2019-08-20 05:18:25 +0000",
+      "minecraft:plains": "2019-08-20 10:15:41 +0000"
     },
     "done": false
   },
@@ -1697,15 +1717,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-08-20 08:23:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-08-20 08:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-08-20 08:23:17 +0000"
     },
     "done": true
   },

@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-08-20 09:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2019-06-03 00:21:34 +0000"
@@ -866,6 +872,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-07-17 01:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-20 10:00:56 +0000"
     },
     "done": true
   },
@@ -1405,10 +1417,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
       "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
-      "minecraft:mountains": "2019-08-17 06:00:48 +0000",
+      "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
       "minecraft:forest": "2019-05-19 05:31:45 +0000",
+      "minecraft:mountains": "2019-08-17 06:00:48 +0000",
       "minecraft:desert_hills": "2019-05-21 01:31:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 00:04:16 +0000",
       "minecraft:desert": "2019-05-21 01:30:41 +0000",
@@ -1528,6 +1540,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-05-19 05:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-20 10:00:56 +0000"
     },
     "done": true
   },
