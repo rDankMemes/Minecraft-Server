@@ -621,8 +621,8 @@
       "minecraft:enderman": "2019-07-10 03:28:10 +0000",
       "minecraft:magma_cube": "2019-06-24 04:40:05 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
-      "minecraft:creeper": "2019-05-19 06:05:16 +0000",
       "minecraft:drowned": "2019-08-17 00:50:40 +0000",
+      "minecraft:creeper": "2019-05-19 06:05:16 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:22 +0000",
       "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
@@ -1012,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2019-08-20 05:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-05-18 23:51:03 +0000"
@@ -1105,8 +1111,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
-      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
       "minecraft:forest": "2019-05-19 00:36:36 +0000",
+      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:snowy_tundra": "2019-08-19 04:25:50 +0000",
       "minecraft:taiga_hills": "2019-08-17 00:12:33 +0000",
@@ -1119,6 +1125,7 @@
       "minecraft:dark_forest": "2019-08-19 04:24:48 +0000",
       "minecraft:river": "2019-05-18 23:08:24 +0000",
       "minecraft:wooded_mountains": "2019-08-16 22:20:04 +0000",
+      "minecraft:savanna": "2019-08-20 05:12:18 +0000",
       "minecraft:plains": "2019-05-18 23:07:07 +0000"
     },
     "done": false
@@ -1276,6 +1283,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2019-05-19 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-20 05:17:52 +0000"
     },
     "done": true
   },
@@ -1529,6 +1542,7 @@
     "criteria": {
       "cooked_beef": "2019-06-25 00:49:03 +0000",
       "golden_apple": "2019-08-18 04:35:53 +0000",
+      "bread": "2019-08-20 05:44:27 +0000",
       "enchanted_golden_apple": "2019-05-19 07:40:29 +0000"
     },
     "done": false
@@ -2145,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-08-20 05:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-05-19 00:43:21 +0000"
@@ -2199,6 +2219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-20 05:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-25 23:54:12 +0000"
@@ -2232,6 +2258,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2019-07-10 03:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-20 05:09:29 +0000"
     },
     "done": true
   },
@@ -2322,6 +2354,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2019-05-19 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2019-08-20 05:19:17 +0000"
     },
     "done": true
   },
@@ -2490,6 +2528,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-08-16 21:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-08-20 05:19:24 +0000"
     },
     "done": true
   },
