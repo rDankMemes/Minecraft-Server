@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-08-21 17:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2019-05-30 18:34:14 +0000"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-21 16:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-05-30 18:30:55 +0000"
@@ -809,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2019-08-21 17:14:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-05-19 05:47:21 +0000"
@@ -989,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-08-21 16:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-30 22:55:55 +0000"
@@ -1127,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2019-08-21 16:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-19 17:42:25 +0000"
@@ -1136,6 +1166,18 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2019-05-30 19:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-21 16:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2019-08-21 16:51:59 +0000"
     },
     "done": true
   },
@@ -1157,9 +1199,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2019-08-21 16:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2019-08-19 19:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2019-08-21 16:51:59 +0000"
     },
     "done": true
   },
@@ -1439,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-08-21 16:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-05-19 11:35:29 +0000"
@@ -1607,12 +1667,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2019-08-21 17:14:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 17:05:55 +0000",
-      "minecraft:mountains": "2019-08-16 11:44:37 +0000",
-      "minecraft:forest": "2019-08-16 11:20:29 +0000",
       "minecraft:mushroom_fields": "2019-08-19 17:20:34 +0000",
+      "minecraft:forest": "2019-08-16 11:20:29 +0000",
+      "minecraft:mountains": "2019-08-16 11:44:37 +0000",
       "minecraft:taiga": "2019-08-16 11:31:26 +0000",
       "minecraft:desert_hills": "2019-08-16 12:10:52 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 07:26:03 +0000",
@@ -1627,8 +1693,8 @@
       "minecraft:badlands": "2019-08-18 07:26:42 +0000",
       "minecraft:beach": "2019-05-19 11:27:42 +0000",
       "minecraft:dark_forest": "2019-08-17 00:15:56 +0000",
-      "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
       "minecraft:river": "2019-05-30 18:21:18 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-16 12:04:30 +0000",
       "minecraft:snowy_taiga": "2019-08-17 00:11:17 +0000",
       "minecraft:wooded_mountains": "2019-08-16 12:06:51 +0000",
       "minecraft:wooded_hills": "2019-08-17 00:13:44 +0000",
@@ -1735,6 +1801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2019-08-21 16:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-19 05:47:21 +0000"
@@ -1816,6 +1888,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2019-08-19 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-08-21 16:51:59 +0000"
     },
     "done": true
   },

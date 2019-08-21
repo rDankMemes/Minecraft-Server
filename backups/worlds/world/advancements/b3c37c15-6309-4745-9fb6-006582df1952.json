@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-08-21 16:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-08-19 17:16:10 +0000"
@@ -814,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2019-08-21 16:57:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-08-19 17:16:36 +0000"
@@ -949,6 +961,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-08-20 11:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-08-21 16:48:44 +0000"
     },
     "done": true
   },
@@ -1252,6 +1270,7 @@
       "minecraft:frozen_river": "2019-08-19 17:20:24 +0000",
       "minecraft:jungle": "2019-08-19 17:21:43 +0000",
       "minecraft:badlands": "2019-08-19 17:46:29 +0000",
+      "minecraft:dark_forest": "2019-08-21 16:51:01 +0000",
       "minecraft:river": "2019-08-20 19:08:33 +0000",
       "minecraft:snowy_taiga": "2019-08-19 18:37:35 +0000",
       "minecraft:wooded_mountains": "2019-08-17 17:00:23 +0000",
