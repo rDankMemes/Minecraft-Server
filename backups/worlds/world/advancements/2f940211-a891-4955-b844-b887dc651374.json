@@ -29,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-08-21 08:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-20 11:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-21 08:18:18 +0000"
     },
     "done": true
   },
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-08-21 08:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-08-20 11:40:47 +0000"
@@ -140,6 +158,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-20 11:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-21 08:09:57 +0000"
     },
     "done": true
   },
@@ -203,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 11:33:13 +0000"
@@ -226,7 +256,9 @@
       "chicken": "2019-08-20 11:35:10 +0000",
       "cooked_mutton": "2019-08-20 11:47:29 +0000",
       "beef": "2019-08-20 11:32:09 +0000",
+      "cooked_cod": "2019-08-21 08:15:31 +0000",
       "mutton": "2019-08-20 11:36:07 +0000",
+      "salmon": "2019-08-21 08:17:17 +0000",
       "cooked_chicken": "2019-08-20 16:31:12 +0000"
     },
     "done": false
@@ -300,6 +332,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 11:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-21 08:18:18 +0000"
     },
     "done": true
   },
@@ -492,6 +536,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 11:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
     },
     "done": true
   },
@@ -715,6 +765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 11:33:13 +0000"
@@ -730,6 +786,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 11:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
     },
     "done": true
   },
@@ -751,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-20 16:49:04 +0000"
@@ -766,6 +834,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2019-08-20 11:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-08-21 08:13:27 +0000"
     },
     "done": true
   },
@@ -913,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-08-21 08:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 11:43:34 +0000"
@@ -1009,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-08-21 08:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 16:27:12 +0000",
@@ -1067,6 +1153,18 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-08-20 16:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-08-21 08:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-08-21 08:18:30 +0000"
     },
     "done": true
   },
@@ -1199,6 +1297,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 16:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-21 08:09:57 +0000"
     },
     "done": true
   }

@@ -143,15 +143,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2019-08-20 20:48:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2019-08-20 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-08-20 20:48:55 +0000"
     },
     "done": true
   },
@@ -1259,8 +1259,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-19 18:51:12 +0000",
       "minecraft:mountains": "2019-08-20 17:59:56 +0000",
+      "minecraft:forest": "2019-08-19 18:51:12 +0000",
       "minecraft:desert": "2019-08-19 19:17:55 +0000",
       "minecraft:warm_ocean": "2019-08-19 19:24:32 +0000",
       "minecraft:badlands": "2019-08-19 19:21:13 +0000",

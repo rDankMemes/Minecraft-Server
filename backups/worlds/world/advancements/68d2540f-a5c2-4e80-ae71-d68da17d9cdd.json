@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2019-08-21 07:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:24:20 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-08-19 17:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-21 06:29:55 +0000"
     },
     "done": true
   },
@@ -303,9 +315,13 @@
       "cooked_mutton": "2019-08-20 17:12:08 +0000",
       "cooked_beef": "2019-08-19 18:00:37 +0000",
       "chorus_fruit": "2019-08-20 20:36:27 +0000",
+      "beef": "2019-08-21 06:43:33 +0000",
+      "baked_potato": "2019-08-21 06:33:01 +0000",
       "porkchop": "2019-08-19 17:24:24 +0000",
       "apple": "2019-08-21 05:24:59 +0000",
+      "potato": "2019-08-21 06:48:24 +0000",
       "cooked_cod": "2019-08-20 20:31:15 +0000",
+      "mutton": "2019-08-21 07:16:44 +0000",
       "bread": "2019-08-20 04:40:49 +0000",
       "cooked_chicken": "2019-08-20 18:32:43 +0000",
       "cod": "2019-08-19 17:49:05 +0000",
@@ -322,6 +338,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-08-20 17:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
     },
     "done": true
   },
@@ -346,6 +368,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 17:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
     },
     "done": true
   },
@@ -397,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-08-21 07:17:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-19 17:27:26 +0000"
@@ -430,6 +464,18 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 17:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2019-08-21 06:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2019-08-21 07:55:22 +0000"
     },
     "done": true
   },
@@ -655,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-08-21 07:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 17:30:27 +0000"
@@ -667,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 17:24:55 +0000"
@@ -676,6 +734,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2019-08-19 18:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2019-08-21 07:55:22 +0000"
     },
     "done": true
   },
@@ -707,13 +771,16 @@
     "criteria": {
       "minecraft:blaze": "2019-08-20 17:23:01 +0000",
       "minecraft:skeleton": "2019-08-20 17:43:41 +0000",
+      "minecraft:phantom": "2019-08-21 06:10:16 +0000",
       "minecraft:wither_skeleton": "2019-08-20 17:11:18 +0000",
       "minecraft:ghast": "2019-08-20 04:56:32 +0000",
+      "minecraft:guardian": "2019-08-21 06:25:01 +0000",
       "minecraft:silverfish": "2019-08-20 04:09:09 +0000",
       "minecraft:enderman": "2019-08-20 17:20:07 +0000",
       "minecraft:spider": "2019-08-20 17:45:32 +0000",
       "minecraft:zombie": "2019-08-20 20:27:44 +0000",
-      "minecraft:drowned": "2019-08-20 20:29:09 +0000"
+      "minecraft:drowned": "2019-08-20 20:29:09 +0000",
+      "minecraft:creeper": "2019-08-21 07:57:04 +0000"
     },
     "done": false
   },
@@ -744,6 +811,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 18:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-08-21 06:46:25 +0000"
     },
     "done": true
   },
@@ -814,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-08-21 08:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-20 17:27:30 +0000"
@@ -877,6 +956,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-08-20 17:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
     },
     "done": true
   },
@@ -952,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-08-21 06:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2019-08-20 04:57:47 +0000"
@@ -964,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-08-21 07:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-08-19 17:23:37 +0000"
@@ -973,6 +1070,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-19 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-08-21 07:17:43 +0000"
     },
     "done": true
   },
@@ -1090,9 +1193,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-08-21 06:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-08-21 07:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2019-08-20 17:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2019-08-21 07:55:22 +0000"
     },
     "done": true
   },
@@ -1180,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-21 06:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-08-19 18:18:52 +0000"
@@ -1195,6 +1322,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 17:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
     },
     "done": true
   },
@@ -1278,6 +1411,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-08-21 07:18:29 +0000",
       "minecraft:forest": "2019-08-20 04:24:19 +0000",
       "minecraft:mountains": "2019-08-19 17:23:21 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:20:28 +0000",
@@ -1286,7 +1420,8 @@
       "minecraft:badlands": "2019-08-19 17:44:32 +0000",
       "minecraft:dark_forest": "2019-08-19 17:50:46 +0000",
       "minecraft:snowy_taiga": "2019-08-20 04:26:49 +0000",
-      "minecraft:wooded_mountains": "2019-08-20 03:57:51 +0000"
+      "minecraft:wooded_mountains": "2019-08-20 03:57:51 +0000",
+      "minecraft:plains": "2019-08-21 06:31:31 +0000"
     },
     "done": false
   },
@@ -1368,9 +1503,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-08-21 06:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-19 17:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
     },
     "done": true
   },
@@ -1410,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2019-08-19 17:48:56 +0000"
@@ -1440,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-21 06:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 17:37:02 +0000"
@@ -1455,6 +1614,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 17:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-21 06:29:55 +0000"
     },
     "done": true
   },

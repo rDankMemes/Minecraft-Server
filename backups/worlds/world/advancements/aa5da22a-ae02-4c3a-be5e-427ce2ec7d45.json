@@ -788,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-21 06:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2019-08-19 23:19:11 +0000"
@@ -1748,6 +1754,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 22:48:16 +0000",
       "minecraft:mountains": "2019-08-19 22:46:01 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-21 06:20:12 +0000",
       "minecraft:snowy_tundra": "2019-08-19 22:57:11 +0000",
       "minecraft:badlands": "2019-08-20 04:42:28 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:15:35 +0000",

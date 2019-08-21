@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-21 06:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 07:23:15 +0000"
@@ -384,6 +390,7 @@
       "cooked_mutton": "2019-08-19 19:50:09 +0000",
       "cooked_beef": "2019-08-19 18:05:46 +0000",
       "beef": "2019-08-19 18:17:32 +0000",
+      "baked_potato": "2019-08-21 06:26:04 +0000",
       "porkchop": "2019-08-19 17:51:51 +0000",
       "apple": "2019-08-20 12:39:57 +0000",
       "potato": "2019-08-19 21:00:23 +0000",
@@ -464,6 +471,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-08-20 09:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-08-21 06:58:20 +0000"
     },
     "done": true
   },
@@ -624,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2019-08-21 06:34:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:44 +0000"
@@ -744,6 +763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-08-21 06:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-08-19 17:59:36 +0000"
@@ -852,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-08-21 06:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2019-08-19 18:45:03 +0000"
@@ -884,6 +915,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-21 06:53:49 +0000",
       "minecraft:polar_bear": "2019-08-19 20:44:51 +0000",
       "minecraft:skeleton": "2019-08-20 06:30:17 +0000",
       "minecraft:phantom": "2019-08-20 12:07:28 +0000",
@@ -905,6 +937,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-08-20 17:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-21 06:58:20 +0000"
     },
     "done": true
   },
@@ -1088,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-21 06:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-20 08:42:50 +0000"
@@ -1151,6 +1195,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 14:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-21 06:39:10 +0000"
     },
     "done": true
   },
@@ -1460,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-08-21 06:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:42:07 +0000"
@@ -1484,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-21 06:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:47:34 +0000"
@@ -1499,6 +1561,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-08-19 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-08-21 06:58:20 +0000"
     },
     "done": true
   },
@@ -1523,6 +1591,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_the_recipe": "2019-08-19 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-21 06:53:50 +0000"
     },
     "done": true
   },
@@ -1753,6 +1827,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 07:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-08-21 06:58:20 +0000"
     },
     "done": true
   },
