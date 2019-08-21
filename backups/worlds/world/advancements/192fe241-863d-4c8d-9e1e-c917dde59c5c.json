@@ -249,6 +249,8 @@
     "criteria": {
       "cooked_mutton": "2019-08-20 02:04:59 +0000",
       "baked_potato": "2019-08-20 21:41:30 +0000",
+      "beef": "2019-08-21 20:09:05 +0000",
+      "apple": "2019-08-21 20:00:53 +0000",
       "cooked_cod": "2019-08-21 01:48:01 +0000",
       "bread": "2019-08-20 02:28:09 +0000",
       "cooked_salmon": "2019-08-21 02:14:25 +0000"
@@ -315,13 +317,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 02:26:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 02:26:00 +0000"
     },
