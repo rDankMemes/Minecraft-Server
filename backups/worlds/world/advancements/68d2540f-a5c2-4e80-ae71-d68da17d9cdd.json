@@ -242,6 +242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-21 05:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2019-08-19 18:18:52 +0000"
@@ -298,6 +304,7 @@
       "cooked_beef": "2019-08-19 18:00:37 +0000",
       "chorus_fruit": "2019-08-20 20:36:27 +0000",
       "porkchop": "2019-08-19 17:24:24 +0000",
+      "apple": "2019-08-21 05:24:59 +0000",
       "cooked_cod": "2019-08-20 20:31:15 +0000",
       "bread": "2019-08-20 04:40:49 +0000",
       "cooked_chicken": "2019-08-20 18:32:43 +0000",
@@ -702,8 +709,8 @@
       "minecraft:skeleton": "2019-08-20 17:43:41 +0000",
       "minecraft:wither_skeleton": "2019-08-20 17:11:18 +0000",
       "minecraft:ghast": "2019-08-20 04:56:32 +0000",
-      "minecraft:enderman": "2019-08-20 17:20:07 +0000",
       "minecraft:silverfish": "2019-08-20 04:09:09 +0000",
+      "minecraft:enderman": "2019-08-20 17:20:07 +0000",
       "minecraft:spider": "2019-08-20 17:45:32 +0000",
       "minecraft:zombie": "2019-08-20 20:27:44 +0000",
       "minecraft:drowned": "2019-08-20 20:29:09 +0000"
@@ -810,6 +817,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-20 17:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-21 05:24:44 +0000"
     },
     "done": true
   },
@@ -1265,8 +1278,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-08-19 17:23:21 +0000",
       "minecraft:forest": "2019-08-20 04:24:19 +0000",
+      "minecraft:mountains": "2019-08-19 17:23:21 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:20:28 +0000",
       "minecraft:snowy_tundra": "2019-08-19 17:25:44 +0000",
       "minecraft:desert": "2019-08-19 17:46:49 +0000",
