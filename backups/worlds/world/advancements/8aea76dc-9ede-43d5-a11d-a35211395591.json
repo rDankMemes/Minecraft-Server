@@ -299,13 +299,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 09:00:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 09:00:06 +0000"
     },
@@ -585,6 +585,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:polar_bear": "2019-08-21 11:14:46 +0000",
       "minecraft:skeleton": "2019-08-20 12:34:26 +0000",
       "minecraft:spider": "2019-08-20 14:42:30 +0000",
       "minecraft:zombie": "2019-08-20 12:42:51 +0000",
