@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2019-08-21 02:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 23:00:36 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 08:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-21 02:02:12 +0000"
     },
     "done": true
   },
@@ -959,8 +971,9 @@
     "criteria": {
       "minecraft:blaze": "2019-08-20 02:55:06 +0000",
       "minecraft:skeleton": "2019-08-20 00:41:57 +0000",
-      "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
+      "minecraft:shulker": "2019-08-21 02:03:04 +0000",
       "minecraft:enderman": "2019-08-20 04:18:16 +0000",
+      "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
       "minecraft:magma_cube": "2019-08-20 02:47:26 +0000",
       "minecraft:spider": "2019-08-19 23:47:41 +0000",
       "minecraft:zombie": "2019-08-19 23:22:19 +0000",
@@ -1025,6 +1038,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2019-08-20 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-21 00:26:09 +0000"
     },
     "done": true
   },
@@ -1256,6 +1275,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-08-21 02:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-19 23:37:04 +0000"
@@ -1325,6 +1350,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2019-08-20 09:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-08-21 00:17:25 +0000"
     },
     "done": true
   },
@@ -1466,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-21 00:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-19 23:02:07 +0000"
@@ -1502,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-21 02:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-20 07:36:02 +0000"
@@ -1517,6 +1560,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-08-20 08:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-21 00:26:09 +0000"
     },
     "done": true
   },
@@ -1559,6 +1608,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-08-19 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-21 02:01:58 +0000"
     },
     "done": true
   },
@@ -1634,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-21 00:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2019-08-20 02:55:07 +0000"
@@ -1691,6 +1752,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-21 02:02:12 +0000"
     },
     "done": true
   },
@@ -1835,6 +1902,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2019-08-20 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-21 02:02:12 +0000"
     },
     "done": true
   },

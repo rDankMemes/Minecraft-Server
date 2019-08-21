@@ -1499,9 +1499,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:27:03 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 19:19:48 +0000",
-      "minecraft:forest": "2019-08-16 14:24:08 +0000",
       "minecraft:mountains": "2019-08-16 15:14:03 +0000",
+      "minecraft:forest": "2019-08-16 14:24:08 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 19:19:48 +0000",
       "minecraft:taiga": "2019-08-16 13:29:22 +0000",
       "minecraft:giant_tree_taiga": "2019-08-17 20:42:13 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:26:08 +0000",

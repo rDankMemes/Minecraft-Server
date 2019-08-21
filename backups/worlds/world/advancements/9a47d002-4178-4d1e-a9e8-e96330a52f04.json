@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-21 02:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-06-02 03:50:30 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-21 02:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-05-19 23:37:00 +0000"
@@ -392,8 +404,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-19 22:07:41 +0000",
+      "cooked_beef": "2019-08-21 02:05:13 +0000",
       "beef": "2019-08-18 21:38:55 +0000",
-      "golden_carrot": "2019-08-20 23:04:26 +0000"
+      "golden_carrot": "2019-08-20 23:04:26 +0000",
+      "cooked_chicken": "2019-08-21 02:02:08 +0000"
     },
     "done": false
   },
@@ -889,6 +903,8 @@
       "minecraft:skeleton": "2019-08-19 23:09:19 +0000",
       "minecraft:phantom": "2019-08-20 23:01:37 +0000",
       "minecraft:wither_skeleton": "2019-08-20 23:05:35 +0000",
+      "minecraft:shulker": "2019-08-21 02:01:51 +0000",
+      "minecraft:enderman": "2019-08-21 02:16:44 +0000",
       "minecraft:spider": "2019-08-19 23:31:13 +0000",
       "minecraft:zombie": "2019-08-19 23:21:58 +0000",
       "minecraft:creeper": "2019-08-20 00:33:31 +0000"
@@ -901,15 +917,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-08-21 02:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-05-20 02:41:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-08-21 02:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-02 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-08-21 02:17:25 +0000"
     },
     "done": true
   },
@@ -1084,6 +1118,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-08-20 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-21 02:01:10 +0000"
     },
     "done": true
   },
@@ -1477,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-21 02:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-20 23:05:06 +0000"
@@ -1631,6 +1677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-21 02:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-05-20 02:26:06 +0000"
@@ -1751,9 +1803,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-21 02:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-08-21 02:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-02 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-21 02:01:10 +0000"
     },
     "done": true
   },

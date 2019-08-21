@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2019-08-21 01:38:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-20 18:41:22 +0000"
@@ -41,21 +47,22 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:desert": "2019-08-20 18:42:23 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-20 18:41:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_planks": "2019-08-20 18:41:22 +0000"
+      "minecraft:snowy_tundra": "2019-08-21 01:36:58 +0000",
+      "minecraft:desert": "2019-08-20 18:42:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-08-20 18:38:44 +0000"
     },
     "done": true
   },
@@ -65,15 +72,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_log": "2019-08-20 18:38:44 +0000"
+      "has_planks": "2019-08-20 18:41:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-08-20 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-08-21 01:38:29 +0000"
     },
     "done": true
   },
@@ -89,15 +102,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2019-08-20 18:41:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-08-20 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-08-20 18:41:22 +0000"
     },
     "done": true
   },
@@ -131,9 +144,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_planks": "2019-08-20 18:41:22 +0000"
+      "has_feather": "2019-08-20 18:39:01 +0000"
     },
     "done": true
   },
@@ -143,21 +156,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_feather": "2019-08-20 18:39:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2019-08-20 18:39:00 +0000"
+      "has_planks": "2019-08-20 18:41:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-08-20 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-08-20 18:39:00 +0000"
     },
     "done": true
   },

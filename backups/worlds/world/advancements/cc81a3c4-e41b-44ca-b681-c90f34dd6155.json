@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2019-08-21 00:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2019-08-18 03:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
     },
     "done": true
   },
@@ -356,6 +368,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-19 22:24:47 +0000",
+      "chicken": "2019-08-21 00:34:58 +0000",
       "cooked_beef": "2019-08-18 01:58:25 +0000",
       "chorus_fruit": "2019-08-20 04:41:55 +0000",
       "beef": "2019-08-16 21:24:23 +0000",
@@ -420,6 +433,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-17 07:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
     },
     "done": true
   },
@@ -510,6 +529,12 @@
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2019-08-17 03:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2019-08-21 00:28:49 +0000"
     },
     "done": true
   },
@@ -813,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2019-08-21 00:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2019-08-17 04:49:02 +0000"
@@ -846,6 +877,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-08-17 03:53:12 +0000",
+      "minecraft:polar_bear": "2019-08-21 00:33:40 +0000",
       "minecraft:vindicator": "2019-08-17 04:08:27 +0000",
       "minecraft:spider": "2019-08-19 22:47:57 +0000",
       "minecraft:zombie": "2019-08-19 22:14:45 +0000",
@@ -907,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
@@ -949,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-08-21 00:42:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-16 18:31:43 +0000"
@@ -976,6 +1020,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2019-08-17 19:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
     },
     "done": true
   },
@@ -1123,6 +1173,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-21 00:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-16 22:25:35 +0000"
@@ -1249,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-21 00:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
@@ -1282,6 +1350,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2019-08-16 22:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2019-08-21 00:28:49 +0000"
     },
     "done": true
   },
@@ -1324,6 +1398,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2019-08-19 22:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
     },
     "done": true
   },
@@ -1461,11 +1541,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
       "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 22:09:37 +0000",
-      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
       "minecraft:forest": "2019-08-16 21:14:19 +0000",
+      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 22:09:37 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 16:08:19 +0000",
       "minecraft:deep_cold_ocean": "2019-08-18 03:54:03 +0000",
       "minecraft:snowy_tundra": "2019-08-19 16:04:17 +0000",
@@ -1510,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-21 00:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
@@ -1525,6 +1611,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-18 00:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-08-21 00:42:50 +0000"
     },
     "done": true
   },
@@ -1588,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-16 20:45:31 +0000"
@@ -1645,6 +1743,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-18 05:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-21 01:36:06 +0000"
     },
     "done": true
   },

@@ -436,6 +436,7 @@
       "cooked_porkchop": "2019-08-19 19:26:44 +0000",
       "cooked_beef": "2019-08-19 17:45:06 +0000",
       "beef": "2019-08-19 17:57:34 +0000",
+      "baked_potato": "2019-08-21 01:13:42 +0000",
       "porkchop": "2019-08-19 18:49:59 +0000",
       "apple": "2019-08-19 20:17:10 +0000",
       "potato": "2019-08-19 18:35:05 +0000",
@@ -734,6 +735,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-08-21 00:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2019-08-20 17:12:56 +0000"
@@ -1002,8 +1009,10 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-19 23:25:05 +0000",
       "minecraft:phantom": "2019-08-20 13:37:53 +0000",
+      "minecraft:ghast": "2019-08-21 00:52:37 +0000",
       "minecraft:cave_spider": "2019-08-19 23:45:00 +0000",
       "minecraft:silverfish": "2019-08-20 00:55:30 +0000",
+      "minecraft:magma_cube": "2019-08-21 00:53:05 +0000",
       "minecraft:spider": "2019-08-19 23:27:59 +0000",
       "minecraft:zombie": "2019-08-20 00:47:15 +0000",
       "minecraft:creeper": "2019-08-20 00:51:41 +0000"

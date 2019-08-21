@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-21 01:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 03:42:12 +0000"
@@ -289,14 +295,18 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2019-08-21 01:26:44 +0000",
       "chorus_fruit": "2019-08-20 04:26:02 +0000",
       "beef": "2019-08-19 22:41:32 +0000",
+      "porkchop": "2019-08-21 02:36:34 +0000",
       "apple": "2019-08-19 21:52:32 +0000",
       "potato": "2019-08-19 22:57:23 +0000",
       "mutton": "2019-08-19 22:43:37 +0000",
       "bread": "2019-08-19 21:55:17 +0000",
       "rotten_flesh": "2019-08-19 22:56:36 +0000",
+      "salmon": "2019-08-21 02:35:13 +0000",
       "cooked_chicken": "2019-08-20 22:31:26 +0000",
+      "cod": "2019-08-21 02:33:31 +0000",
       "carrot": "2019-08-20 03:20:43 +0000"
     },
     "done": false
@@ -316,6 +326,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-08-19 22:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-08-21 02:27:35 +0000"
     },
     "done": true
   },
@@ -751,6 +767,7 @@
       "minecraft:wither_skeleton": "2019-08-20 02:55:07 +0000",
       "minecraft:zombie_pigman": "2019-08-20 02:38:04 +0000",
       "minecraft:ghast": "2019-08-20 02:42:19 +0000",
+      "minecraft:shulker": "2019-08-21 01:36:28 +0000",
       "minecraft:enderman": "2019-08-20 04:13:47 +0000",
       "minecraft:magma_cube": "2019-08-20 02:50:56 +0000",
       "minecraft:spider": "2019-08-19 21:53:01 +0000",
@@ -930,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-21 00:07:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-08-19 21:59:53 +0000"
@@ -1086,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-08-21 02:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 03:25:04 +0000"
@@ -1176,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-21 00:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-19 22:34:38 +0000"
@@ -1218,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-21 01:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-19 21:50:56 +0000"
@@ -1227,6 +1268,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-20 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-08-21 02:35:08 +0000"
     },
     "done": true
   },
@@ -1275,6 +1322,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-08-20 03:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-21 01:36:20 +0000"
     },
     "done": true
   },
@@ -1335,6 +1388,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-19 22:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-21 00:08:40 +0000"
     },
     "done": true
   },

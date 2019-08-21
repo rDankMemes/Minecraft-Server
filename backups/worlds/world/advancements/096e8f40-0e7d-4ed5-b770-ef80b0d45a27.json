@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-08-21 00:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 22:09:45 +0000"
@@ -851,6 +857,7 @@
       "minecraft:ghast": "2019-08-20 23:48:46 +0000",
       "minecraft:cave_spider": "2019-08-19 22:48:16 +0000",
       "minecraft:enderman": "2019-08-19 23:35:28 +0000",
+      "minecraft:silverfish": "2019-08-21 00:26:16 +0000",
       "minecraft:spider": "2019-08-20 00:06:20 +0000",
       "minecraft:zombie": "2019-08-19 22:08:58 +0000",
       "minecraft:creeper": "2019-08-19 22:11:27 +0000",
@@ -997,6 +1004,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-21 00:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 00:58:59 +0000"
@@ -1084,6 +1097,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-20 07:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-21 00:04:07 +0000"
     },
     "done": true
   },
@@ -1553,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-08-21 00:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-08-19 22:12:36 +0000"
@@ -1703,9 +1728,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-08-21 00:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 00:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-21 00:04:07 +0000"
     },
     "done": true
   },
