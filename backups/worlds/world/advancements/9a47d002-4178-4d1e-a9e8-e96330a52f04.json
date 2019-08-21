@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-08-20 22:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-05-19 18:52:26 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-02 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-20 23:03:30 +0000"
     },
     "done": true
   },
@@ -380,7 +392,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-19 22:07:41 +0000",
-      "beef": "2019-08-18 21:38:55 +0000"
+      "beef": "2019-08-18 21:38:55 +0000",
+      "golden_carrot": "2019-08-20 23:04:26 +0000"
     },
     "done": false
   },
@@ -543,6 +556,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-07-10 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-08-20 23:02:37 +0000"
     },
     "done": true
   },
@@ -866,12 +885,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-20 23:05:05 +0000",
       "minecraft:skeleton": "2019-08-19 23:09:19 +0000",
+      "minecraft:phantom": "2019-08-20 23:01:37 +0000",
+      "minecraft:wither_skeleton": "2019-08-20 23:05:35 +0000",
       "minecraft:spider": "2019-08-19 23:31:13 +0000",
       "minecraft:zombie": "2019-08-19 23:21:58 +0000",
       "minecraft:creeper": "2019-08-20 00:33:31 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-20 23:03:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1053,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-20 23:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-08-18 03:01:27 +0000"
@@ -1092,6 +1126,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-02 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-20 23:03:47 +0000"
     },
     "done": true
   },
@@ -1437,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-20 23:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-02 03:48:15 +0000"
@@ -1503,6 +1549,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-20 23:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-20 02:26:06 +0000"
@@ -1548,9 +1600,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 21:07:05 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 23:21:23 +0000",
-      "minecraft:forest": "2019-08-18 03:47:59 +0000",
       "minecraft:mountains": "2019-08-17 03:37:32 +0000",
+      "minecraft:forest": "2019-08-18 03:47:59 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 23:21:23 +0000",
       "minecraft:desert_hills": "2019-05-21 01:26:17 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 22:33:35 +0000",
       "minecraft:snowy_tundra": "2019-08-19 21:49:08 +0000",

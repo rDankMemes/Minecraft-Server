@@ -382,6 +382,7 @@
       "beef": "2019-08-20 03:14:25 +0000",
       "porkchop": "2019-08-20 03:14:21 +0000",
       "golden_apple": "2019-08-20 04:12:13 +0000",
+      "bread": "2019-08-20 22:38:19 +0000",
       "golden_carrot": "2019-08-20 02:40:49 +0000",
       "carrot": "2019-08-20 00:32:20 +0000"
     },
@@ -600,6 +601,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-20 23:10:52 +0000"
     },
     "done": true
   },
@@ -846,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-08-20 23:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2019-08-20 00:35:22 +0000"
@@ -946,8 +959,8 @@
     "criteria": {
       "minecraft:blaze": "2019-08-20 02:55:06 +0000",
       "minecraft:skeleton": "2019-08-20 00:41:57 +0000",
-      "minecraft:enderman": "2019-08-20 04:18:16 +0000",
       "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
+      "minecraft:enderman": "2019-08-20 04:18:16 +0000",
       "minecraft:magma_cube": "2019-08-20 02:47:26 +0000",
       "minecraft:spider": "2019-08-19 23:47:41 +0000",
       "minecraft:zombie": "2019-08-19 23:22:19 +0000",
@@ -1171,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-20 23:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2019-08-19 23:20:45 +0000"
@@ -1282,6 +1301,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-08-20 08:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-08-20 23:10:52 +0000"
     },
     "done": true
   },
@@ -1432,6 +1457,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 02:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-08-20 23:10:52 +0000"
     },
     "done": true
   },
@@ -1930,6 +1961,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-20 23:10:52 +0000"
     },
     "done": true
   },

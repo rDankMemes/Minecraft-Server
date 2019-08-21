@@ -310,6 +310,7 @@
       "cooked_porkchop": "2019-08-19 19:22:15 +0000",
       "cooked_beef": "2019-08-19 19:04:15 +0000",
       "chorus_fruit": "2019-08-20 20:32:57 +0000",
+      "beef": "2019-08-20 22:15:55 +0000",
       "bread": "2019-08-20 14:44:55 +0000",
       "golden_apple": "2019-08-20 20:48:19 +0000",
       "carrot": "2019-08-19 19:38:26 +0000"
@@ -532,6 +533,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 19:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-08-20 22:13:58 +0000"
     },
     "done": true
   },
