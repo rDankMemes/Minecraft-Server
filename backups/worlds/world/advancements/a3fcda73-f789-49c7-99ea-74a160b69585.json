@@ -324,6 +324,7 @@
     "criteria": {
       "cooked_beef": "2019-08-19 23:53:38 +0000",
       "beef": "2019-08-19 17:30:15 +0000",
+      "salmon": "2019-08-21 12:13:42 +0000",
       "carrot": "2019-08-20 12:00:22 +0000"
     },
     "done": false
@@ -1478,6 +1479,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-08-19 23:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-08-21 12:13:55 +0000"
     },
     "done": true
   },

@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-21 12:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-21 07:50:46 +0000"
@@ -245,15 +251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2019-08-21 11:35:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2019-08-21 11:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-08-21 11:35:41 +0000"
     },
     "done": true
   },
@@ -505,15 +511,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2019-08-21 11:07:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-21 11:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-21 11:07:26 +0000"
     },
     "done": true
   },
@@ -675,6 +681,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2019-08-21 12:15:10 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 07:53:22 +0000",
       "minecraft:river": "2019-08-21 11:38:41 +0000",
       "minecraft:wooded_mountains": "2019-08-21 08:06:01 +0000",
@@ -905,9 +912,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_carved_pumpkin": "2019-08-21 11:57:24 +0000"
+      "has_planks": "2019-08-21 11:01:38 +0000"
     },
     "done": true
   },
@@ -917,9 +924,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_planks": "2019-08-21 11:01:38 +0000"
+      "has_carved_pumpkin": "2019-08-21 11:57:24 +0000"
     },
     "done": true
   },
@@ -969,6 +976,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-21 12:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-21 11:38:52 +0000"
@@ -987,15 +1000,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_red_flower": "2019-08-21 11:22:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-08-21 11:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-08-21 11:22:07 +0000"
     },
     "done": true
   },
@@ -1073,15 +1086,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_red_flower": "2019-08-21 11:55:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2019-08-21 11:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-08-21 11:55:38 +0000"
     },
     "done": true
   },
