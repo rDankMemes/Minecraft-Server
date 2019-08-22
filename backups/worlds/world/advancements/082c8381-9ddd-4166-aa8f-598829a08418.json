@@ -812,6 +812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-08-22 02:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-08-19 22:09:31 +0000"
@@ -878,6 +884,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-08-19 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-08-22 00:08:14 +0000"
     },
     "done": true
   },
@@ -1436,8 +1448,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 22:01:12 +0000",
-      "minecraft:mountains": "2019-08-19 21:58:56 +0000",
       "minecraft:forest": "2019-08-19 21:50:27 +0000",
+      "minecraft:mountains": "2019-08-19 21:58:56 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 02:26:14 +0000",
       "minecraft:snowy_tundra": "2019-08-19 22:01:57 +0000",
       "minecraft:desert": "2019-08-20 23:10:43 +0000",
@@ -1492,6 +1504,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-08-19 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-08-22 00:08:14 +0000"
     },
     "done": true
   },

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-08-22 02:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-05-19 18:52:26 +0000"
@@ -980,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-08-22 01:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-05-20 02:41:45 +0000"
@@ -1037,6 +1049,12 @@
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2019-08-17 22:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-22 02:53:33 +0000"
     },
     "done": true
   },
@@ -1325,6 +1343,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-08-17 22:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2019-08-22 01:58:18 +0000"
     },
     "done": true
   },
@@ -1721,9 +1745,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 21:07:05 +0000",
-      "minecraft:mountains": "2019-08-17 03:37:32 +0000",
-      "minecraft:forest": "2019-08-18 03:47:59 +0000",
       "minecraft:mushroom_fields": "2019-08-19 23:21:23 +0000",
+      "minecraft:forest": "2019-08-18 03:47:59 +0000",
+      "minecraft:mountains": "2019-08-17 03:37:32 +0000",
       "minecraft:desert_hills": "2019-05-21 01:26:17 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 22:33:35 +0000",
       "minecraft:snowy_tundra": "2019-08-19 21:49:08 +0000",
@@ -1839,6 +1863,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-20 01:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-22 02:56:06 +0000"
     },
     "done": true
   },

@@ -490,13 +490,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 23:00:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 23:00:36 +0000"
     },
@@ -985,8 +985,8 @@
       "minecraft:blaze": "2019-08-20 02:55:06 +0000",
       "minecraft:skeleton": "2019-08-20 00:41:57 +0000",
       "minecraft:shulker": "2019-08-21 02:03:04 +0000",
-      "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
       "minecraft:enderman": "2019-08-20 04:18:16 +0000",
+      "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
       "minecraft:magma_cube": "2019-08-20 02:47:26 +0000",
       "minecraft:spider": "2019-08-19 23:47:41 +0000",
       "minecraft:zombie": "2019-08-19 23:22:19 +0000",
@@ -1069,6 +1069,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 08:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-08-22 02:03:59 +0000"
     },
     "done": true
   },

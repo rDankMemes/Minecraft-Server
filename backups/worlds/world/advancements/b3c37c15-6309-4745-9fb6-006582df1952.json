@@ -718,8 +718,8 @@
       "minecraft:cave_spider": "2019-08-19 18:16:37 +0000",
       "minecraft:spider": "2019-08-19 23:42:32 +0000",
       "minecraft:zombie": "2019-08-19 17:27:47 +0000",
-      "minecraft:drowned": "2019-08-20 12:05:48 +0000",
-      "minecraft:creeper": "2019-08-19 17:40:27 +0000"
+      "minecraft:creeper": "2019-08-19 17:40:27 +0000",
+      "minecraft:drowned": "2019-08-20 12:05:48 +0000"
     },
     "done": false
   },
@@ -1261,9 +1261,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:08:16 +0000",
-      "minecraft:forest": "2019-08-16 14:57:51 +0000",
-      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
       "minecraft:mushroom_fields": "2019-08-19 17:20:35 +0000",
+      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
+      "minecraft:forest": "2019-08-16 14:57:51 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:21:02 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:07:35 +0000",
       "minecraft:desert": "2019-08-19 17:47:12 +0000",
