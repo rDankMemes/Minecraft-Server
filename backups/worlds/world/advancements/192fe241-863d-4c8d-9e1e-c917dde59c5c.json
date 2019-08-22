@@ -273,12 +273,14 @@
     "criteria": {
       "cooked_porkchop": "2019-08-21 22:59:32 +0000",
       "cooked_mutton": "2019-08-20 02:04:59 +0000",
+      "cooked_beef": "2019-08-22 05:30:03 +0000",
       "baked_potato": "2019-08-20 21:41:30 +0000",
       "beef": "2019-08-21 20:09:05 +0000",
       "apple": "2019-08-21 20:00:53 +0000",
       "potato": "2019-08-21 21:31:50 +0000",
       "cooked_cod": "2019-08-21 01:48:01 +0000",
       "bread": "2019-08-20 02:28:09 +0000",
+      "cooked_chicken": "2019-08-22 05:13:12 +0000",
       "cooked_salmon": "2019-08-21 02:14:25 +0000"
     },
     "done": false
@@ -643,13 +645,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-21 23:03:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-21 23:03:31 +0000"
     },
@@ -763,6 +765,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-20 01:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2019-08-22 05:14:25 +0000"
     },
     "done": true
   },

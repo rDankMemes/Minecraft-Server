@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 04:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 22:09:45 +0000"
@@ -201,6 +207,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 23:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 04:10:52 +0000"
     },
     "done": true
   },
@@ -440,13 +452,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 22:07:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 22:07:24 +0000"
     },
@@ -536,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2019-08-22 04:02:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 22:09:45 +0000"
@@ -611,6 +629,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-20 00:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 04:10:52 +0000"
     },
     "done": true
   },
@@ -856,12 +880,12 @@
       "minecraft:zombie_pigman": "2019-08-20 23:30:23 +0000",
       "minecraft:ghast": "2019-08-20 23:48:46 +0000",
       "minecraft:cave_spider": "2019-08-19 22:48:16 +0000",
-      "minecraft:enderman": "2019-08-19 23:35:28 +0000",
       "minecraft:silverfish": "2019-08-21 00:26:16 +0000",
+      "minecraft:enderman": "2019-08-19 23:35:28 +0000",
       "minecraft:spider": "2019-08-20 00:06:20 +0000",
       "minecraft:zombie": "2019-08-19 22:08:58 +0000",
-      "minecraft:creeper": "2019-08-19 22:11:27 +0000",
       "minecraft:drowned": "2019-08-19 22:07:07 +0000",
+      "minecraft:creeper": "2019-08-19 22:11:27 +0000",
       "minecraft:zombie_villager": "2019-08-20 07:24:18 +0000"
     },
     "done": false
@@ -875,6 +899,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-08-20 07:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-22 04:09:09 +0000"
     },
     "done": true
   },
@@ -1250,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-08-22 04:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 23:46:47 +0000"
@@ -1538,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-22 04:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2019-08-19 22:20:00 +0000"
@@ -1575,6 +1617,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2019-08-21 00:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-08-22 04:12:25 +0000"
     },
     "done": true
   },
@@ -1752,6 +1800,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-22 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 04:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-08-19 23:04:32 +0000"
@@ -1767,6 +1827,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 22:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2019-08-22 04:10:34 +0000"
     },
     "done": true
   },
@@ -1839,6 +1905,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-08-19 22:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-22 04:09:09 +0000"
     },
     "done": true
   },

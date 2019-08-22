@@ -811,12 +811,12 @@
       "minecraft:wither_skeleton": "2019-08-20 17:11:18 +0000",
       "minecraft:ghast": "2019-08-20 04:56:32 +0000",
       "minecraft:guardian": "2019-08-21 06:25:01 +0000",
-      "minecraft:silverfish": "2019-08-20 04:09:09 +0000",
       "minecraft:enderman": "2019-08-20 17:20:07 +0000",
+      "minecraft:silverfish": "2019-08-20 04:09:09 +0000",
       "minecraft:spider": "2019-08-20 17:45:32 +0000",
       "minecraft:zombie": "2019-08-20 20:27:44 +0000",
-      "minecraft:drowned": "2019-08-20 20:29:09 +0000",
-      "minecraft:creeper": "2019-08-21 07:57:04 +0000"
+      "minecraft:creeper": "2019-08-21 07:57:04 +0000",
+      "minecraft:drowned": "2019-08-20 20:29:09 +0000"
     },
     "done": false
   },
@@ -1484,8 +1484,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-21 07:18:29 +0000",
-      "minecraft:forest": "2019-08-20 04:24:19 +0000",
       "minecraft:mountains": "2019-08-19 17:23:21 +0000",
+      "minecraft:forest": "2019-08-20 04:24:19 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:20:28 +0000",
       "minecraft:snowy_tundra": "2019-08-19 17:25:44 +0000",
       "minecraft:desert": "2019-08-19 17:46:49 +0000",

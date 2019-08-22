@@ -646,8 +646,8 @@
       "minecraft:magma_cube": "2019-06-24 04:40:05 +0000",
       "minecraft:spider": "2019-08-21 04:30:30 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
-      "minecraft:drowned": "2019-08-17 00:50:40 +0000",
       "minecraft:creeper": "2019-05-19 06:05:16 +0000",
+      "minecraft:drowned": "2019-08-17 00:50:40 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:22 +0000",
       "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
@@ -1159,11 +1159,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
       "minecraft:cold_ocean": "2019-08-20 06:24:47 +0000",
-      "minecraft:forest": "2019-05-19 00:36:36 +0000",
-      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
       "minecraft:mushroom_fields": "2019-08-20 06:26:28 +0000",
+      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:forest": "2019-05-19 00:36:36 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:08:06 +0000",
       "minecraft:snowy_tundra": "2019-08-19 04:25:50 +0000",
@@ -1482,6 +1482,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2019-07-10 03:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-22 05:28:18 +0000"
     },
     "done": true
   },
@@ -2023,6 +2029,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-22 05:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-05-22 05:22:08 +0000"
@@ -2242,6 +2254,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-05-19 00:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-22 05:29:19 +0000"
     },
     "done": true
   },
