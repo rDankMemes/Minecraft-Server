@@ -845,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-08-22 17:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 20:08:57 +0000"
@@ -881,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-08-22 16:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-08-21 17:16:49 +0000"
@@ -902,13 +914,13 @@
       "minecraft:wither_skeleton": "2019-08-22 13:47:07 +0000",
       "minecraft:ghast": "2019-08-21 17:17:25 +0000",
       "minecraft:shulker": "2019-08-21 16:40:31 +0000",
-      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
       "minecraft:enderman": "2019-08-20 15:40:26 +0000",
+      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
       "minecraft:magma_cube": "2019-08-21 17:19:31 +0000",
       "minecraft:spider": "2019-08-19 20:45:02 +0000",
       "minecraft:zombie": "2019-08-19 20:17:18 +0000",
-      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
-      "minecraft:creeper": "2019-08-19 20:32:50 +0000"
+      "minecraft:creeper": "2019-08-19 20:32:50 +0000",
+      "minecraft:drowned": "2019-08-20 10:43:27 +0000"
     },
     "done": false
   },
@@ -933,6 +945,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-08-21 15:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2019-08-22 16:25:52 +0000"
     },
     "done": true
   },
@@ -1659,8 +1677,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 21:03:33 +0000",
-      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:forest": "2019-08-20 10:06:58 +0000",
+      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:taiga": "2019-08-20 16:20:27 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 20:52:10 +0000",
       "minecraft:snowy_tundra": "2019-08-20 15:41:24 +0000",
@@ -1777,6 +1795,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-08-22 17:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2019-08-21 15:53:51 +0000"
@@ -1816,6 +1840,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 16:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-08-22 16:31:06 +0000"
     },
     "done": true
   },
@@ -1918,6 +1948,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2019-08-20 21:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-22 17:06:26 +0000"
     },
     "done": true
   },

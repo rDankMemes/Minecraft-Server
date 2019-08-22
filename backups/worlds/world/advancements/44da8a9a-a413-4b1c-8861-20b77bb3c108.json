@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 17:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 10:00:06 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-08-20 09:53:08 +0000"
@@ -116,6 +128,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-08-21 19:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 17:28:47 +0000"
     },
     "done": true
   },
@@ -146,6 +164,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2019-08-20 10:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
     },
     "done": true
   },
@@ -215,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2019-08-20 10:01:44 +0000"
@@ -224,6 +254,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-20 09:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-08-22 17:08:58 +0000"
     },
     "done": true
   },
@@ -278,6 +314,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 10:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-22 17:06:44 +0000"
     },
     "done": true
   },
@@ -386,6 +428,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-21 20:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 17:28:47 +0000"
     },
     "done": true
   },
@@ -533,13 +581,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 10:03:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-20 10:03:33 +0000"
     },
@@ -574,12 +622,18 @@
       "minecraft:skeleton": "2019-08-20 19:37:33 +0000",
       "minecraft:phantom": "2019-08-22 10:45:06 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:enderman": "2019-08-22 14:15:34 +0000",
+      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -602,6 +656,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-08-20 09:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
     },
     "done": true
   },
@@ -693,6 +753,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2019-08-22 13:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-22 17:06:44 +0000"
     },
     "done": true
   },
@@ -852,6 +918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-22 17:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-21 19:54:15 +0000"
@@ -930,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-22 13:24:07 +0000"
@@ -984,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-22 17:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-20 09:54:57 +0000"
@@ -1002,11 +1086,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:forest": "2019-08-22 11:45:50 +0000",
+      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
       "minecraft:wooded_mountains": "2019-08-22 13:56:13 +0000",
@@ -1140,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-22 17:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-08-20 10:03:41 +0000"
@@ -1158,9 +1254,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-08-22 17:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-08-22 14:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2019-08-22 17:09:19 +0000"
     },
     "done": true
   },

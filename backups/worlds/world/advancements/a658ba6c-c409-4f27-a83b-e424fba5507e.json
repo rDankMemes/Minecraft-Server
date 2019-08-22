@@ -231,6 +231,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-22 17:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-08-20 09:43:12 +0000"
@@ -273,9 +279,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-22 17:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 09:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-22 17:43:16 +0000"
     },
     "done": true
   },
@@ -909,12 +927,13 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-20 09:37:34 +0000",
       "minecraft:phantom": "2019-08-20 10:10:44 +0000",
-      "minecraft:enderman": "2019-08-20 10:14:40 +0000",
+      "minecraft:shulker": "2019-08-22 17:53:40 +0000",
       "minecraft:silverfish": "2019-08-20 17:51:33 +0000",
+      "minecraft:enderman": "2019-08-20 10:14:40 +0000",
       "minecraft:spider": "2019-08-20 10:11:09 +0000",
       "minecraft:zombie": "2019-08-20 09:45:43 +0000",
-      "minecraft:creeper": "2019-08-20 10:13:15 +0000",
-      "minecraft:drowned": "2019-08-20 18:25:09 +0000"
+      "minecraft:drowned": "2019-08-20 18:25:09 +0000",
+      "minecraft:creeper": "2019-08-20 10:13:15 +0000"
     },
     "done": false
   },
@@ -1056,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-22 17:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 10:41:18 +0000"
@@ -1137,6 +1162,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-20 09:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-22 17:12:19 +0000"
     },
     "done": true
   },
@@ -1440,6 +1471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-22 17:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-20 09:29:57 +0000"
@@ -1509,6 +1546,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-08-21 13:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-22 17:50:32 +0000"
     },
     "done": true
   },
@@ -1593,8 +1636,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:27:42 +0000",
-      "minecraft:mountains": "2019-08-20 09:27:34 +0000",
       "minecraft:forest": "2019-08-20 11:47:02 +0000",
+      "minecraft:mountains": "2019-08-20 09:27:34 +0000",
       "minecraft:snowy_tundra": "2019-08-20 18:21:17 +0000",
       "minecraft:desert": "2019-08-20 09:27:14 +0000",
       "minecraft:warm_ocean": "2019-08-20 09:20:18 +0000",
@@ -1613,6 +1656,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-20 09:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-22 17:57:20 +0000"
     },
     "done": true
   },
@@ -1724,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-22 17:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 09:44:47 +0000"
@@ -1760,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-22 17:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 09:50:31 +0000"
@@ -1793,6 +1854,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-20 17:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-22 17:12:19 +0000"
     },
     "done": true
   },
@@ -1877,6 +1944,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2019-08-20 09:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-22 17:18:32 +0000"
     },
     "done": true
   },

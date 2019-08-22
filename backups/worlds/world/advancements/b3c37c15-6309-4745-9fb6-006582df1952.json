@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-22 17:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:04:41 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-08-19 23:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-22 16:29:36 +0000"
     },
     "done": true
   },
@@ -458,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-22 16:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:34:29 +0000"
@@ -479,6 +497,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 17:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-22 17:10:25 +0000"
     },
     "done": true
   },
@@ -546,6 +570,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-08-19 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-08-22 17:29:51 +0000"
     },
     "done": true
   },
@@ -669,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-08-22 17:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 17:23:19 +0000"
@@ -713,13 +749,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:polar_bear": "2019-08-22 16:30:29 +0000",
       "minecraft:skeleton": "2019-08-19 17:39:16 +0000",
       "minecraft:phantom": "2019-08-20 12:34:01 +0000",
+      "minecraft:shulker": "2019-08-22 17:03:20 +0000",
       "minecraft:cave_spider": "2019-08-19 18:16:37 +0000",
+      "minecraft:enderman": "2019-08-22 17:04:50 +0000",
       "minecraft:spider": "2019-08-19 23:42:32 +0000",
       "minecraft:zombie": "2019-08-19 17:27:47 +0000",
-      "minecraft:drowned": "2019-08-20 12:05:48 +0000",
-      "minecraft:creeper": "2019-08-19 17:40:27 +0000"
+      "minecraft:creeper": "2019-08-19 17:40:27 +0000",
+      "minecraft:drowned": "2019-08-20 12:05:48 +0000"
     },
     "done": false
   },
@@ -744,6 +783,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 23:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-22 16:29:47 +0000"
     },
     "done": true
   },
@@ -1126,9 +1171,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-22 17:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-17 17:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-08-22 16:20:46 +0000"
     },
     "done": true
   },
@@ -1183,6 +1240,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-22 17:00:07 +0000"
     },
     "done": true
   },
@@ -1267,9 +1330,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:08:16 +0000",
-      "minecraft:forest": "2019-08-16 14:57:51 +0000",
-      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
       "minecraft:mushroom_fields": "2019-08-19 17:20:35 +0000",
+      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
+      "minecraft:forest": "2019-08-16 14:57:51 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:21:02 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:07:35 +0000",
       "minecraft:desert": "2019-08-19 17:47:12 +0000",
@@ -1370,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-08-22 17:17:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:04:41 +0000"
@@ -1460,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2019-08-22 16:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2019-08-20 12:08:11 +0000"
@@ -1487,6 +1562,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2019-08-19 17:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-22 17:18:32 +0000"
     },
     "done": true
   },
