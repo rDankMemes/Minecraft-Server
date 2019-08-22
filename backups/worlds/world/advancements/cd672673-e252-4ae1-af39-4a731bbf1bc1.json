@@ -134,7 +134,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-19 23:53:54 +0000",
-      "minecraft:mountains": "2019-08-19 23:54:05 +0000"
+      "minecraft:mountains": "2019-08-19 23:54:05 +0000",
+      "minecraft:plains": "2019-08-22 12:06:08 +0000"
     },
     "done": false
   },

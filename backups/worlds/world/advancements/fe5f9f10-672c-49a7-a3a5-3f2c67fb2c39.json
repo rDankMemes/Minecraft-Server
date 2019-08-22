@@ -284,6 +284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-22 13:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:53:18 +0000"
@@ -407,6 +413,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2019-08-19 18:31:49 +0000",
+      "chorus_fruit": "2019-08-22 14:07:17 +0000",
       "baked_potato": "2019-08-20 14:06:09 +0000",
       "cooked_cod": "2019-08-19 19:07:09 +0000",
       "bread": "2019-08-19 20:01:26 +0000",
@@ -879,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-08-22 13:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 18:19:25 +0000"
@@ -945,6 +958,7 @@
       "minecraft:skeleton": "2019-08-20 13:42:22 +0000",
       "minecraft:phantom": "2019-08-20 14:46:08 +0000",
       "minecraft:witch": "2019-08-20 17:06:33 +0000",
+      "minecraft:shulker": "2019-08-22 14:51:24 +0000",
       "minecraft:cave_spider": "2019-08-20 18:47:30 +0000",
       "minecraft:silverfish": "2019-08-20 13:54:46 +0000",
       "minecraft:stray": "2019-08-20 19:54:20 +0000",
@@ -1602,6 +1616,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 18:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-22 14:51:00 +0000"
     },
     "done": true
   },

@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-08-22 12:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-08-20 02:25:04 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-22 12:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 21:53:31 +0000"
@@ -459,6 +471,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-08-19 22:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-22 12:13:10 +0000"
     },
     "done": true
   },
@@ -819,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-22 12:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-08-19 22:09:31 +0000"
@@ -1110,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-08-22 12:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-19 22:24:40 +0000"
@@ -1302,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-08-22 12:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 21:59:09 +0000"
@@ -1456,7 +1492,8 @@
       "minecraft:desert": "2019-08-20 23:10:43 +0000",
       "minecraft:warm_ocean": "2019-08-21 23:53:03 +0000",
       "minecraft:snowy_taiga": "2019-08-20 03:31:49 +0000",
-      "minecraft:wooded_mountains": "2019-08-19 22:43:10 +0000"
+      "minecraft:wooded_mountains": "2019-08-19 22:43:10 +0000",
+      "minecraft:plains": "2019-08-22 12:03:41 +0000"
     },
     "done": false
   },
@@ -1535,6 +1572,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2019-08-21 21:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-08-22 12:04:42 +0000"
     },
     "done": true
   },
