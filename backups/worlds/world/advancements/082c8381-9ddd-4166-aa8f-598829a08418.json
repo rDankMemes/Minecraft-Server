@@ -383,13 +383,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 22:35:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 22:35:25 +0000"
     },
@@ -884,6 +884,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-19 21:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2019-08-21 22:09:22 +0000"
     },
     "done": true
   },
@@ -1430,11 +1436,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 22:01:12 +0000",
-      "minecraft:forest": "2019-08-19 21:50:27 +0000",
       "minecraft:mountains": "2019-08-19 21:58:56 +0000",
+      "minecraft:forest": "2019-08-19 21:50:27 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 02:26:14 +0000",
       "minecraft:snowy_tundra": "2019-08-19 22:01:57 +0000",
       "minecraft:desert": "2019-08-20 23:10:43 +0000",
+      "minecraft:warm_ocean": "2019-08-21 23:53:03 +0000",
       "minecraft:snowy_taiga": "2019-08-20 03:31:49 +0000",
       "minecraft:wooded_mountains": "2019-08-19 22:43:10 +0000"
     },
@@ -1503,6 +1510,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-08-19 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-08-21 21:47:16 +0000"
     },
     "done": true
   },

@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2019-08-21 23:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-19 18:18:15 +0000"
@@ -499,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2019-08-21 23:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2019-08-19 18:54:46 +0000"
@@ -610,6 +622,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-08-20 22:10:06 +0000",
+      "minecraft:chicken": "2019-08-21 23:49:57 +0000",
       "minecraft:sheep": "2019-08-20 22:05:43 +0000"
     },
     "done": false
@@ -927,12 +940,12 @@
       "minecraft:phantom": "2019-08-20 14:46:08 +0000",
       "minecraft:witch": "2019-08-20 17:06:33 +0000",
       "minecraft:cave_spider": "2019-08-20 18:47:30 +0000",
-      "minecraft:stray": "2019-08-20 19:54:20 +0000",
       "minecraft:silverfish": "2019-08-20 13:54:46 +0000",
+      "minecraft:stray": "2019-08-20 19:54:20 +0000",
       "minecraft:spider": "2019-08-20 13:43:52 +0000",
       "minecraft:zombie": "2019-08-20 10:08:27 +0000",
-      "minecraft:creeper": "2019-08-20 13:51:03 +0000",
       "minecraft:drowned": "2019-08-19 19:50:16 +0000",
+      "minecraft:creeper": "2019-08-20 13:51:03 +0000",
       "minecraft:slime": "2019-08-20 13:58:10 +0000"
     },
     "done": false
@@ -1165,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-21 23:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_rose_red": "2019-08-19 18:27:07 +0000"
@@ -1264,6 +1283,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_the_recipe": "2019-08-21 13:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2019-08-21 23:38:05 +0000"
     },
     "done": true
   },
@@ -1678,9 +1703,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:52:49 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 20:05:43 +0000",
-      "minecraft:forest": "2019-08-19 18:16:36 +0000",
       "minecraft:mountains": "2019-08-19 18:39:50 +0000",
+      "minecraft:forest": "2019-08-19 18:16:36 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 20:05:43 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 19:02:05 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:49:22 +0000",
       "minecraft:wooded_mountains": "2019-08-19 18:27:55 +0000",
@@ -1790,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-08-21 23:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-19 18:57:05 +0000"
@@ -1805,6 +1836,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 17:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-21 23:44:09 +0000"
     },
     "done": true
   },
@@ -1859,6 +1896,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-19 19:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-21 23:42:18 +0000"
     },
     "done": true
   },
@@ -1925,6 +1968,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2019-08-19 18:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-21 23:45:17 +0000"
     },
     "done": true
   },

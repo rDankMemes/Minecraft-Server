@@ -413,13 +413,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-20 04:28:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-20 04:28:59 +0000"
     },
@@ -1438,8 +1438,11 @@
       "minecraft:snowy_tundra": "2019-08-20 23:38:31 +0000",
       "minecraft:taiga_hills": "2019-08-21 02:13:57 +0000",
       "minecraft:desert": "2019-05-21 01:30:41 +0000",
+      "minecraft:frozen_river": "2019-08-21 23:57:24 +0000",
       "minecraft:jungle": "2019-05-21 01:27:08 +0000",
       "minecraft:jungle_hills": "2019-06-25 04:58:20 +0000",
+      "minecraft:warm_ocean": "2019-08-21 23:53:50 +0000",
+      "minecraft:badlands": "2019-08-21 23:56:36 +0000",
       "minecraft:beach": "2019-05-19 05:30:19 +0000",
       "minecraft:dark_forest": "2019-08-19 22:26:41 +0000",
       "minecraft:river": "2019-05-19 05:30:30 +0000",
