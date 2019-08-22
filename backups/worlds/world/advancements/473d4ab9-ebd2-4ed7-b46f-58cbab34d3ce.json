@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-08-22 07:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-06-18 20:43:24 +0000"
@@ -902,6 +908,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-05-21 07:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-08-22 07:47:52 +0000"
     },
     "done": true
   },
@@ -1701,10 +1713,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
       "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
-      "minecraft:forest": "2019-05-19 05:31:45 +0000",
+      "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
       "minecraft:mountains": "2019-08-17 06:00:48 +0000",
+      "minecraft:forest": "2019-05-19 05:31:45 +0000",
       "minecraft:desert_hills": "2019-05-21 01:31:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 00:04:16 +0000",
       "minecraft:snowy_tundra": "2019-08-20 23:38:31 +0000",
