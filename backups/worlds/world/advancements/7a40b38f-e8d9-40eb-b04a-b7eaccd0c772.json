@@ -895,6 +895,7 @@
       "minecraft:witch": "2019-08-20 09:20:49 +0000",
       "minecraft:wither_skeleton": "2019-08-18 20:01:58 +0000",
       "minecraft:zombie_pigman": "2019-08-20 14:09:47 +0000",
+      "minecraft:shulker": "2019-08-22 18:04:14 +0000",
       "minecraft:cave_spider": "2019-08-21 13:18:45 +0000",
       "minecraft:enderman": "2019-08-18 20:14:10 +0000",
       "minecraft:silverfish": "2019-08-18 20:24:20 +0000",
@@ -1029,6 +1030,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-06-05 21:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-08-22 19:37:36 +0000"
     },
     "done": true
   },
@@ -1452,6 +1459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-22 18:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-16 18:22:48 +0000"
@@ -1789,15 +1802,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2019-08-19 18:13:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-08-19 18:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-08-19 18:13:43 +0000"
     },
     "done": true
   },

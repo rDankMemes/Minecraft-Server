@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-08-22 19:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 07:23:15 +0000"
@@ -411,6 +417,7 @@
       "baked_potato": "2019-08-21 06:26:04 +0000",
       "porkchop": "2019-08-19 17:51:51 +0000",
       "apple": "2019-08-20 12:39:57 +0000",
+      "spider_eye": "2019-08-22 19:21:55 +0000",
       "potato": "2019-08-19 21:00:23 +0000",
       "cooked_cod": "2019-08-19 20:49:31 +0000",
       "mutton": "2019-08-19 17:42:12 +0000",
@@ -951,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-08-22 19:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 14:06:34 +0000"
@@ -966,6 +979,7 @@
       "minecraft:zombie_pigman": "2019-08-20 18:34:47 +0000",
       "minecraft:husk": "2019-08-22 15:25:58 +0000",
       "minecraft:ghast": "2019-08-20 18:14:28 +0000",
+      "minecraft:cave_spider": "2019-08-22 19:11:36 +0000",
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
@@ -1777,6 +1791,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2019-08-19 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-08-22 19:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-08-22 18:44:11 +0000"
     },
     "done": true
   },

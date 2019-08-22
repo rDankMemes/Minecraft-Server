@@ -984,6 +984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-08-22 20:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2019-08-21 13:46:49 +0000"
@@ -1684,6 +1690,7 @@
     "criteria": {
       "cooked_beef": "2019-08-21 07:52:50 +0000",
       "bread": "2019-08-20 19:14:19 +0000",
+      "cooked_chicken": "2019-08-22 20:38:28 +0000",
       "carrot": "2019-08-20 19:09:59 +0000"
     },
     "done": false
@@ -1811,6 +1818,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-05-27 10:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-08-22 20:38:44 +0000"
     },
     "done": true
   },
@@ -2033,6 +2046,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-06-09 09:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-08-22 20:39:57 +0000"
     },
     "done": true
   },
@@ -2267,6 +2286,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-05-29 14:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-22 20:37:05 +0000"
     },
     "done": true
   },
