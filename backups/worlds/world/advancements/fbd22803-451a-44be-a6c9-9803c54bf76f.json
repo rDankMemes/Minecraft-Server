@@ -71,13 +71,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-19 18:24:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 18:24:37 +0000"
     },
@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2019-08-21 21:21:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-21 21:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-08-21 21:21:51 +0000"
     },
     "done": true
   },
@@ -287,15 +287,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2019-08-21 21:36:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-08-21 21:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2019-08-21 21:36:44 +0000"
     },
     "done": true
   },
@@ -327,9 +327,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_gold_nugget": "2019-08-21 21:39:02 +0000"
+      "has_stick": "2019-08-21 21:10:02 +0000"
     },
     "done": true
   },
@@ -339,9 +339,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_stick": "2019-08-21 21:10:02 +0000"
+      "has_gold_nugget": "2019-08-21 21:39:02 +0000"
     },
     "done": true
   },
@@ -435,13 +435,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-21 21:21:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-21 21:21:51 +0000"
     },
@@ -582,15 +582,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2019-08-19 18:28:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-08-19 18:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2019-08-19 18:28:11 +0000"
     },
     "done": true
   },
@@ -621,8 +621,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:05:55 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 18:04:10 +0000",
       "minecraft:mountains": "2019-08-21 21:13:17 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 18:04:10 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:06:54 +0000",
       "minecraft:desert": "2019-08-19 18:01:52 +0000",
       "minecraft:jungle": "2019-08-19 18:10:22 +0000",
@@ -823,15 +823,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2019-08-21 21:39:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2019-08-21 21:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-08-21 21:39:30 +0000"
     },
     "done": true
   },

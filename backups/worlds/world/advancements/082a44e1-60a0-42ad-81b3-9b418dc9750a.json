@@ -1482,8 +1482,10 @@
       "minecraft:mushroom_fields": "2019-08-21 17:52:57 +0000",
       "minecraft:snowy_tundra": "2019-08-20 14:35:22 +0000",
       "minecraft:desert": "2019-08-20 14:31:36 +0000",
+      "minecraft:jungle": "2019-08-22 11:56:07 +0000",
       "minecraft:warm_ocean": "2019-08-19 17:24:30 +0000",
       "minecraft:badlands": "2019-08-19 17:20:26 +0000",
+      "minecraft:dark_forest": "2019-08-22 11:16:30 +0000",
       "minecraft:snowy_taiga": "2019-08-21 14:39:42 +0000",
       "minecraft:wooded_mountains": "2019-08-20 16:55:19 +0000",
       "minecraft:plains": "2019-08-21 14:06:46 +0000"
@@ -1598,6 +1600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-22 11:15:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 14:45:39 +0000"
@@ -1691,6 +1699,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 16:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-08-22 11:57:56 +0000"
     },
     "done": true
   },
