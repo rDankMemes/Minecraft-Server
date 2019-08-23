@@ -270,9 +270,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 04:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-23 04:51:04 +0000"
     },
     "done": true
   },
@@ -376,7 +388,9 @@
     "criteria": {
       "cooked_porkchop": "2019-08-19 22:13:39 +0000",
       "cooked_mutton": "2019-08-20 23:57:21 +0000",
-      "cooked_beef": "2019-08-20 00:36:19 +0000"
+      "cooked_beef": "2019-08-20 00:36:19 +0000",
+      "bread": "2019-08-23 04:35:15 +0000",
+      "cooked_chicken": "2019-08-23 04:36:58 +0000"
     },
     "done": false
   },
@@ -452,13 +466,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 22:07:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 22:07:24 +0000"
     },
@@ -818,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-08-23 04:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-19 22:12:36 +0000"
@@ -842,13 +862,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-19 23:55:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-19 23:55:59 +0000"
     },
@@ -879,13 +899,14 @@
       "minecraft:phantom": "2019-08-20 07:15:30 +0000",
       "minecraft:zombie_pigman": "2019-08-20 23:30:23 +0000",
       "minecraft:ghast": "2019-08-20 23:48:46 +0000",
+      "minecraft:shulker": "2019-08-23 05:01:40 +0000",
       "minecraft:cave_spider": "2019-08-19 22:48:16 +0000",
-      "minecraft:silverfish": "2019-08-21 00:26:16 +0000",
       "minecraft:enderman": "2019-08-19 23:35:28 +0000",
+      "minecraft:silverfish": "2019-08-21 00:26:16 +0000",
       "minecraft:spider": "2019-08-20 00:06:20 +0000",
       "minecraft:zombie": "2019-08-19 22:08:58 +0000",
-      "minecraft:drowned": "2019-08-19 22:07:07 +0000",
       "minecraft:creeper": "2019-08-19 22:11:27 +0000",
+      "minecraft:drowned": "2019-08-19 22:07:07 +0000",
       "minecraft:zombie_villager": "2019-08-20 07:24:18 +0000"
     },
     "done": false
@@ -1436,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-23 05:01:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-20 00:28:33 +0000"
@@ -1597,7 +1624,9 @@
       "minecraft:cold_ocean": "2019-08-20 00:23:00 +0000",
       "minecraft:mountains": "2019-08-19 22:12:14 +0000",
       "minecraft:snowy_tundra": "2019-08-20 00:37:08 +0000",
+      "minecraft:badlands": "2019-08-23 04:34:01 +0000",
       "minecraft:wooded_mountains": "2019-08-20 07:12:54 +0000",
+      "minecraft:savanna": "2019-08-23 04:19:55 +0000",
       "minecraft:plains": "2019-08-19 22:11:57 +0000"
     },
     "done": false
@@ -1611,6 +1640,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 00:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 04:59:13 +0000"
     },
     "done": true
   },
@@ -1728,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-23 04:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 22:09:45 +0000"
@@ -1755,6 +1796,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2019-08-20 07:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 04:59:13 +0000"
     },
     "done": true
   },
