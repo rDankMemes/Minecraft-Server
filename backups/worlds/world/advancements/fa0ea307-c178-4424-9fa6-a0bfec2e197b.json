@@ -371,13 +371,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 22:41:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 22:41:50 +0000"
     },
@@ -695,13 +695,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-21 22:27:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-21 22:27:45 +0000"
     },
@@ -721,8 +721,8 @@
       "minecraft:magma_cube": "2019-08-22 22:13:40 +0000",
       "minecraft:spider": "2019-08-20 22:11:05 +0000",
       "minecraft:zombie": "2019-08-20 22:09:57 +0000",
-      "minecraft:creeper": "2019-08-20 22:37:03 +0000",
-      "minecraft:drowned": "2019-08-20 22:41:47 +0000"
+      "minecraft:drowned": "2019-08-20 22:41:47 +0000",
+      "minecraft:creeper": "2019-08-20 22:37:03 +0000"
     },
     "done": false
   },
@@ -741,6 +741,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-21 01:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-23 20:08:54 +0000"
     },
     "done": true
   },

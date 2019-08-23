@@ -398,6 +398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2019-08-23 20:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2019-05-25 04:02:55 +0000"
@@ -425,6 +431,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-05-19 23:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-08-23 20:22:14 +0000"
     },
     "done": true
   },
@@ -614,18 +626,28 @@
       "minecraft:polar_bear": "2019-08-18 20:48:21 +0000",
       "minecraft:skeleton": "2019-08-19 21:47:55 +0000",
       "minecraft:phantom": "2019-08-16 13:03:12 +0000",
+      "minecraft:witch": "2019-08-23 20:57:41 +0000",
+      "minecraft:wither_skeleton": "2019-08-23 20:58:21 +0000",
       "minecraft:zombie_pigman": "2019-08-20 21:27:38 +0000",
+      "minecraft:husk": "2019-08-23 20:52:40 +0000",
       "minecraft:ghast": "2019-08-16 13:19:36 +0000",
       "minecraft:shulker": "2019-05-26 22:18:27 +0000",
-      "minecraft:enderman": "2019-08-20 20:42:01 +0000",
+      "minecraft:cave_spider": "2019-08-23 20:41:52 +0000",
+      "minecraft:guardian": "2019-08-23 20:43:17 +0000",
       "minecraft:stray": "2019-08-18 20:06:56 +0000",
+      "minecraft:enderman": "2019-08-20 20:42:01 +0000",
+      "minecraft:silverfish": "2019-08-23 20:54:46 +0000",
+      "minecraft:vindicator": "2019-08-23 20:57:58 +0000",
+      "minecraft:magma_cube": "2019-08-23 20:52:55 +0000",
       "minecraft:spider": "2019-08-23 17:00:06 +0000",
       "minecraft:zombie": "2019-08-17 01:03:33 +0000",
-      "minecraft:creeper": "2019-08-16 13:48:53 +0000",
       "minecraft:drowned": "2019-08-20 16:05:41 +0000",
-      "minecraft:zombie_villager": "2019-08-16 12:03:13 +0000"
+      "minecraft:creeper": "2019-08-16 13:48:53 +0000",
+      "minecraft:zombie_villager": "2019-08-16 12:03:13 +0000",
+      "minecraft:evoker": "2019-08-23 20:44:13 +0000",
+      "minecraft:slime": "2019-08-23 20:55:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
@@ -1073,6 +1095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-23 20:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-25 03:04:49 +0000"
@@ -1105,18 +1133,18 @@
       "minecraft:shulker": "2019-05-23 02:05:17 +0000",
       "minecraft:cave_spider": "2019-05-23 02:05:17 +0000",
       "minecraft:guardian": "2019-05-23 02:05:17 +0000",
-      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
-      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
-      "minecraft:stray": "2019-05-23 02:05:17 +0000",
       "minecraft:vindicator": "2019-05-23 02:05:17 +0000",
+      "minecraft:stray": "2019-05-23 02:05:17 +0000",
+      "minecraft:silverfish": "2019-05-23 02:05:17 +0000",
+      "minecraft:enderman": "2019-05-23 02:05:17 +0000",
       "minecraft:magma_cube": "2019-05-23 02:05:17 +0000",
       "minecraft:spider": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie": "2019-05-23 02:05:17 +0000",
-      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:drowned": "2019-05-23 02:05:17 +0000",
+      "minecraft:creeper": "2019-05-23 02:05:17 +0000",
       "minecraft:zombie_villager": "2019-05-23 02:05:17 +0000",
-      "minecraft:evoker": "2019-05-23 02:05:17 +0000",
-      "minecraft:slime": "2019-05-23 02:05:17 +0000"
+      "minecraft:slime": "2019-05-23 02:05:17 +0000",
+      "minecraft:evoker": "2019-05-23 02:05:17 +0000"
     },
     "done": true
   },
@@ -1164,11 +1192,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:jungle_edge": "2019-05-19 01:08:52 +0000",
-      "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
-      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:cold_ocean": "2019-05-31 00:46:40 +0000",
       "minecraft:forest": "2019-05-21 01:49:22 +0000",
+      "minecraft:mountains": "2019-05-31 00:46:54 +0000",
+      "minecraft:mushroom_fields": "2019-08-17 02:53:48 +0000",
       "minecraft:taiga": "2019-08-16 12:25:05 +0000",
       "minecraft:desert_hills": "2019-05-19 00:04:38 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 23:40:26 +0000",
@@ -1186,8 +1214,8 @@
       "minecraft:savanna_plateau": "2019-08-16 14:28:16 +0000",
       "minecraft:beach": "2019-05-18 23:41:14 +0000",
       "minecraft:dark_forest": "2019-05-23 02:04:10 +0000",
-      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:lukewarm_ocean": "2019-08-16 12:21:02 +0000",
+      "minecraft:river": "2019-05-18 23:41:31 +0000",
       "minecraft:snowy_taiga": "2019-08-19 14:35:05 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:24 +0000",
       "minecraft:wooded_hills": "2019-08-16 12:26:47 +0000",
@@ -1326,6 +1354,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-05-23 01:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-23 20:43:21 +0000"
     },
     "done": true
   },
@@ -1488,6 +1522,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-05-19 03:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-23 20:43:21 +0000"
     },
     "done": true
   },
@@ -2245,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-08-23 20:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_rose_red": "2019-06-15 14:52:53 +0000"
@@ -2338,6 +2384,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-05-21 03:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2019-08-23 20:53:36 +0000"
     },
     "done": true
   },
@@ -2518,6 +2570,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-20 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-08-23 20:54:20 +0000"
     },
     "done": true
   },
