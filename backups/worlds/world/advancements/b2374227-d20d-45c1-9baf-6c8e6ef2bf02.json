@@ -628,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-08-23 15:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_at_least_9_emerald": "2019-08-20 12:32:25 +0000"
@@ -663,6 +669,12 @@
       "has_bed": "2019-08-21 21:53:05 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2019-08-23 15:32:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -733,6 +745,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2019-08-22 19:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2019-08-23 15:39:47 +0000"
     },
     "done": true
   },
@@ -1908,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-08-23 15:47:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-08-19 18:49:59 +0000"
@@ -2049,6 +2073,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-22 17:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-23 15:32:14 +0000"
     },
     "done": true
   },

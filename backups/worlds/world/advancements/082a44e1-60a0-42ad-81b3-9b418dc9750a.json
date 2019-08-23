@@ -897,8 +897,8 @@
       "minecraft:enderman": "2019-08-21 13:43:29 +0000",
       "minecraft:spider": "2019-08-20 15:25:14 +0000",
       "minecraft:zombie": "2019-08-20 15:25:09 +0000",
-      "minecraft:creeper": "2019-08-20 15:23:06 +0000",
-      "minecraft:drowned": "2019-08-21 11:48:24 +0000"
+      "minecraft:drowned": "2019-08-21 11:48:24 +0000",
+      "minecraft:creeper": "2019-08-20 15:23:06 +0000"
     },
     "done": false
   },
@@ -1638,9 +1638,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 14:32:17 +0000",
-      "minecraft:mushroom_fields": "2019-08-21 17:52:57 +0000",
-      "minecraft:forest": "2019-08-21 17:59:17 +0000",
       "minecraft:mountains": "2019-08-20 14:32:09 +0000",
+      "minecraft:forest": "2019-08-21 17:59:17 +0000",
+      "minecraft:mushroom_fields": "2019-08-21 17:52:57 +0000",
       "minecraft:snowy_tundra": "2019-08-20 14:35:22 +0000",
       "minecraft:desert": "2019-08-20 14:31:36 +0000",
       "minecraft:frozen_river": "2019-08-23 11:21:23 +0000",
@@ -1951,6 +1951,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2019-08-20 15:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-23 15:28:47 +0000"
     },
     "done": true
   },

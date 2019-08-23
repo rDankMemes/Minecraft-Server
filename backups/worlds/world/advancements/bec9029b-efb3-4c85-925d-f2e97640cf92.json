@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-08-23 15:17:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2019-08-23 14:38:05 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-23 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2019-08-23 15:09:02 +0000"
     },
     "done": true
   },
@@ -289,9 +301,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-08-23 15:12:01 +0000",
       "chicken": "2019-08-23 14:45:23 +0000",
+      "cooked_mutton": "2019-08-23 15:21:36 +0000",
+      "cooked_beef": "2019-08-23 15:17:22 +0000",
       "porkchop": "2019-08-23 14:38:37 +0000",
       "mutton": "2019-08-23 14:42:05 +0000",
+      "rotten_flesh": "2019-08-23 15:14:47 +0000",
       "salmon": "2019-08-23 14:45:08 +0000",
       "cod": "2019-08-23 14:44:50 +0000"
     },
@@ -300,6 +316,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-23 14:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-23 15:10:01 +0000"
     },
     "done": true
   },
@@ -336,6 +358,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-08-23 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-08-23 15:13:15 +0000"
     },
     "done": true
   },
@@ -423,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-08-23 15:17:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-08-23 14:50:12 +0000"
@@ -438,6 +472,18 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-23 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-08-23 15:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-08-23 15:17:08 +0000"
     },
     "done": true
   },
@@ -495,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-08-23 15:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-23 14:46:06 +0000"
@@ -507,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2019-08-23 15:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-08-23 14:46:06 +0000"
@@ -516,6 +574,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-08-23 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-08-23 15:21:04 +0000"
     },
     "done": true
   },
@@ -632,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-08-23 15:17:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2019-08-23 14:39:44 +0000"
@@ -650,9 +720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2019-08-23 15:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-23 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-08-23 15:17:08 +0000"
     },
     "done": true
   },
@@ -694,9 +776,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:polar_bear": "2019-08-23 14:44:39 +0000"
+      "minecraft:polar_bear": "2019-08-23 14:44:39 +0000",
+      "minecraft:skeleton": "2019-08-23 15:25:02 +0000",
+      "minecraft:zombie": "2019-08-23 15:11:54 +0000",
+      "minecraft:creeper": "2019-08-23 15:14:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-08-23 15:04:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
@@ -719,6 +810,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-23 14:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-23 15:10:01 +0000"
     },
     "done": true
   },
@@ -785,6 +882,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-23 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-23 15:13:16 +0000"
     },
     "done": true
   }
