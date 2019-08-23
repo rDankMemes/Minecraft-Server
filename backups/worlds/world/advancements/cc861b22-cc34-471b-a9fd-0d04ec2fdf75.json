@@ -29,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-08-23 14:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-22 15:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
     },
     "done": true
   },
@@ -41,15 +53,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-22 15:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-22 15:26:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
-      "has_white_wool": "2019-08-22 15:26:40 +0000"
+      "has_planks": "2019-08-23 14:47:57 +0000"
     },
     "done": true
   },
@@ -95,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-23 14:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-08-22 15:09:29 +0000"
@@ -104,6 +128,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-22 15:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
     },
     "done": true
   },
@@ -140,6 +170,18 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2019-08-22 15:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-08-23 14:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-08-23 14:51:27 +0000"
     },
     "done": true
   },
@@ -185,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-22 15:26:40 +0000"
@@ -193,13 +241,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2019-08-22 15:22:50 +0000"
+      "potato": "2019-08-22 15:22:50 +0000",
+      "mutton": "2019-08-23 14:54:30 +0000"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-21 16:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-08-23 14:52:20 +0000"
     },
     "done": true
   },
@@ -287,6 +342,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-08-23 14:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-21 16:07:10 +0000"
@@ -341,15 +408,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-08-21 16:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-21 16:14:33 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
-      "get_stone": "2019-08-21 16:14:33 +0000"
+      "has_stone": "2019-08-23 14:50:04 +0000"
     },
     "done": true
   },
@@ -368,10 +441,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-21 16:10:57 +0000",
-      "minecraft:mountains": "2019-08-21 16:10:10 +0000",
       "minecraft:forest": "2019-08-21 16:23:25 +0000",
+      "minecraft:mountains": "2019-08-21 16:10:10 +0000",
       "minecraft:snowy_tundra": "2019-08-21 16:11:20 +0000",
       "minecraft:badlands": "2019-08-21 16:19:00 +0000",
+      "minecraft:dark_forest": "2019-08-23 14:29:39 +0000",
       "minecraft:wooded_mountains": "2019-08-21 16:03:03 +0000",
       "minecraft:plains": "2019-08-21 16:03:19 +0000"
     },
@@ -398,6 +472,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-22 15:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-08-23 14:45:02 +0000"
     },
     "done": true
   },
@@ -527,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-22 15:26:40 +0000"
@@ -570,15 +656,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2019-08-22 15:27:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-23 14:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-08-22 15:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-08-23 14:52:20 +0000"
     },
     "done": true
   },
@@ -627,6 +731,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-08-22 15:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2019-08-23 14:40:57 +0000"
     },
     "done": true
   },

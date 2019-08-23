@@ -425,6 +425,7 @@
       "cooked_porkchop": "2019-08-19 20:32:56 +0000",
       "chorus_fruit": "2019-08-20 20:34:43 +0000",
       "porkchop": "2019-08-20 12:18:26 +0000",
+      "apple": "2019-08-23 14:29:13 +0000",
       "bread": "2019-08-19 18:19:35 +0000",
       "rotten_flesh": "2019-08-19 19:01:06 +0000",
       "cooked_chicken": "2019-08-19 19:48:11 +0000",
@@ -685,6 +686,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 13:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-23 12:26:27 +0000"
     },
     "done": true
   },
@@ -1171,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-23 12:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-23 09:46:22 +0000"
@@ -1438,6 +1451,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 18:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-08-23 12:44:16 +0000"
     },
     "done": true
   },
@@ -1835,6 +1854,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2019-08-20 20:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-08-23 12:37:35 +0000"
     },
     "done": true
   },

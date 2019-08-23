@@ -71,15 +71,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2019-08-23 11:58:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_brick": "2019-08-23 11:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-23 11:58:25 +0000"
     },
     "done": true
   },
@@ -140,6 +140,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2019-08-21 06:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-08-23 14:05:02 +0000"
     },
     "done": true
   },
@@ -218,6 +224,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2019-08-19 20:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 12:26:08 +0000"
     },
     "done": true
   },
@@ -325,6 +337,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-08-23 13:39:30 +0000",
       "cooked_mutton": "2019-08-19 20:02:45 +0000",
       "cooked_beef": "2019-08-19 20:30:14 +0000",
       "cooked_cod": "2019-08-20 10:10:15 +0000",
@@ -346,6 +359,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 19:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-08-23 14:08:04 +0000"
     },
     "done": true
   },
@@ -619,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-08-23 14:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-08-19 19:55:41 +0000"
@@ -688,6 +713,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-08-23 13:43:06 +0000"
     },
     "done": true
   },
@@ -812,12 +843,15 @@
       "minecraft:phantom": "2019-08-20 09:36:50 +0000",
       "minecraft:ghast": "2019-08-23 11:53:22 +0000",
       "minecraft:cave_spider": "2019-08-20 08:09:32 +0000",
+      "minecraft:stray": "2019-08-23 14:34:58 +0000",
       "minecraft:silverfish": "2019-08-20 08:44:03 +0000",
       "minecraft:enderman": "2019-08-20 09:44:36 +0000",
+      "minecraft:magma_cube": "2019-08-23 14:04:44 +0000",
       "minecraft:spider": "2019-08-20 08:00:38 +0000",
       "minecraft:zombie": "2019-08-19 20:25:21 +0000",
       "minecraft:creeper": "2019-08-20 08:48:40 +0000",
-      "minecraft:drowned": "2019-08-19 19:38:52 +0000"
+      "minecraft:drowned": "2019-08-19 19:38:52 +0000",
+      "minecraft:zombie_villager": "2019-08-23 13:50:54 +0000"
     },
     "done": false
   },
@@ -998,6 +1032,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-19 19:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-23 12:24:44 +0000"
     },
     "done": true
   },
@@ -1295,6 +1335,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-23 12:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-08-23 13:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2019-08-19 19:44:08 +0000"
@@ -1439,6 +1491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 12:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2019-08-23 11:44:33 +0000"
@@ -1559,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 12:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 19:57:47 +0000"
@@ -1592,6 +1656,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-23 12:24:44 +0000"
     },
     "done": true
   },
