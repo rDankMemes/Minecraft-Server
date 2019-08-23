@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-08-23 10:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-08-20 01:42:50 +0000"
@@ -458,6 +464,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2019-08-20 04:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-08-23 10:17:55 +0000"
     },
     "done": true
   },
@@ -702,6 +714,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-08-23 10:35:32 +0000"
     },
     "done": true
   },
@@ -1011,8 +1029,8 @@
       "minecraft:skeleton": "2019-08-20 00:41:57 +0000",
       "minecraft:phantom": "2019-08-22 08:08:21 +0000",
       "minecraft:shulker": "2019-08-21 02:03:04 +0000",
-      "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
       "minecraft:enderman": "2019-08-20 04:18:16 +0000",
+      "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
       "minecraft:magma_cube": "2019-08-20 02:47:26 +0000",
       "minecraft:spider": "2019-08-19 23:47:41 +0000",
       "minecraft:zombie": "2019-08-19 23:22:19 +0000",
@@ -1161,6 +1179,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-19 22:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-08-23 11:55:30 +0000"
     },
     "done": true
   },
@@ -1815,8 +1839,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 22:48:16 +0000",
-      "minecraft:mountains": "2019-08-19 22:46:01 +0000",
       "minecraft:forest": "2019-08-22 11:18:03 +0000",
+      "minecraft:mountains": "2019-08-19 22:46:01 +0000",
       "minecraft:desert_hills": "2019-08-22 23:56:25 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 06:20:12 +0000",
       "minecraft:snowy_tundra": "2019-08-19 22:57:11 +0000",

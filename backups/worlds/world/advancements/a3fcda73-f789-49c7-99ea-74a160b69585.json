@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-23 10:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 23:47:40 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 22:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2019-08-23 11:53:24 +0000"
     },
     "done": true
   },
@@ -188,6 +200,18 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-23 11:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-08-23 11:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-08-20 00:40:20 +0000"
@@ -218,9 +242,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 11:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 22:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-23 11:28:36 +0000"
     },
     "done": true
   },
@@ -324,6 +360,7 @@
     "criteria": {
       "cooked_beef": "2019-08-19 23:53:38 +0000",
       "beef": "2019-08-19 17:30:15 +0000",
+      "bread": "2019-08-23 10:45:12 +0000",
       "salmon": "2019-08-21 12:13:42 +0000",
       "carrot": "2019-08-20 12:00:22 +0000"
     },
@@ -410,6 +447,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-08-19 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-08-23 11:54:02 +0000"
     },
     "done": true
   },
@@ -656,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_the_recipe": "2019-08-23 11:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-08-19 23:43:43 +0000"
@@ -677,6 +726,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 23:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-08-23 11:41:18 +0000"
     },
     "done": true
   },
@@ -758,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-08-23 11:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2019-08-20 00:40:20 +0000"
@@ -786,6 +847,8 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-20 13:39:08 +0000",
       "minecraft:phantom": "2019-08-20 13:21:26 +0000",
+      "minecraft:shulker": "2019-08-23 11:20:20 +0000",
+      "minecraft:enderman": "2019-08-23 10:57:35 +0000",
       "minecraft:spider": "2019-08-20 15:07:37 +0000",
       "minecraft:zombie": "2019-08-20 14:02:43 +0000",
       "minecraft:creeper": "2019-08-20 15:12:27 +0000",
@@ -799,9 +862,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-23 10:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2019-08-23 11:43:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2019-08-20 15:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-23 10:34:03 +0000"
     },
     "done": true
   },
@@ -814,6 +895,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-20 22:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2019-08-23 11:43:07 +0000"
     },
     "done": true
   },
@@ -892,6 +979,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-20 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-23 10:42:04 +0000"
     },
     "done": true
   },
@@ -976,6 +1069,18 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-20 00:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-23 11:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-23 10:45:53 +0000"
     },
     "done": true
   },
@@ -1261,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-08-23 11:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-19 17:43:35 +0000"
@@ -1288,6 +1399,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-08-23 11:54:02 +0000"
     },
     "done": true
   },
@@ -1321,6 +1438,24 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-08-23 11:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-08-23 11:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-23 11:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 23:47:40 +0000"
@@ -1345,6 +1480,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-23 11:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-08-23 11:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:drowned": "2019-08-19 23:55:50 +0000"
@@ -1363,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-23 11:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-19 23:37:42 +0000"
@@ -1372,6 +1525,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-20 00:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-23 11:43:07 +0000"
     },
     "done": true
   },
@@ -1400,7 +1559,8 @@
       "minecraft:badlands": "2019-08-20 13:24:23 +0000",
       "minecraft:snowy_taiga": "2019-08-20 13:58:26 +0000",
       "minecraft:swamp": "2019-08-20 12:09:35 +0000",
-      "minecraft:savanna": "2019-08-20 23:42:50 +0000"
+      "minecraft:savanna": "2019-08-20 23:42:50 +0000",
+      "minecraft:plains": "2019-08-23 10:33:36 +0000"
     },
     "done": false
   },
@@ -1413,6 +1573,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-19 17:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 11:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-08-23 11:34:02 +0000"
     },
     "done": true
   },
@@ -1512,6 +1684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-23 11:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 23:44:36 +0000"
@@ -1542,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-23 11:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 22:31:26 +0000"
@@ -1563,6 +1747,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-20 00:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-23 10:45:53 +0000"
     },
     "done": true
   },
@@ -1593,6 +1783,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-08-23 11:54:02 +0000"
     },
     "done": true
   },
@@ -1671,6 +1867,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-08-20 22:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-23 11:43:07 +0000"
     },
     "done": true
   }

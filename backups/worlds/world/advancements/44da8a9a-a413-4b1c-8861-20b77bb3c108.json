@@ -247,7 +247,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2019-08-20 10:01:44 +0000"
+      "baked_potato": "2019-08-20 10:01:44 +0000",
+      "carrot": "2019-08-23 11:19:20 +0000"
     },
     "done": false
   },
@@ -628,8 +629,8 @@
       "minecraft:skeleton": "2019-08-20 19:37:33 +0000",
       "minecraft:phantom": "2019-08-22 10:45:06 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:enderman": "2019-08-22 14:15:34 +0000",
+      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
       "minecraft:creeper": "2019-08-22 18:26:20 +0000"
@@ -1102,8 +1103,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:forest": "2019-08-22 11:45:50 +0000",
+      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
       "minecraft:wooded_mountains": "2019-08-22 13:56:13 +0000",
@@ -1210,6 +1211,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2019-08-21 19:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-08-23 11:19:18 +0000"
     },
     "done": true
   },
