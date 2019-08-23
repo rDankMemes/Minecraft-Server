@@ -1960,7 +1960,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2019-08-16 15:24:33 +0000",
+      "cooked_mutton": "2019-08-23 00:30:46 +0000",
       "cooked_beef": "2019-08-16 15:25:04 +0000",
+      "golden_apple": "2019-08-23 00:32:22 +0000",
       "cooked_chicken": "2019-06-19 22:04:01 +0000",
       "enchanted_golden_apple": "2019-06-17 03:23:06 +0000"
     },

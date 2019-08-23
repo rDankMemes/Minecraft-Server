@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-08-23 00:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-08-19 17:45:56 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-08-20 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-08-23 00:21:38 +0000"
     },
     "done": true
   },
@@ -640,7 +652,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-23 00:09:05 +0000",
       "minecraft:skeleton": "2019-08-19 20:09:27 +0000",
+      "minecraft:wither_skeleton": "2019-08-23 00:15:23 +0000",
+      "minecraft:magma_cube": "2019-08-23 00:11:41 +0000",
       "minecraft:spider": "2019-08-22 16:46:11 +0000",
       "minecraft:zombie": "2019-08-19 20:09:41 +0000",
       "minecraft:creeper": "2019-08-19 20:11:30 +0000"
@@ -785,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-23 00:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-19 17:26:19 +0000"
@@ -902,6 +923,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-22 17:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-08-23 00:13:29 +0000"
     },
     "done": true
   },
@@ -1055,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-23 00:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 20:05:23 +0000"
@@ -1100,6 +1133,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-19 20:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-23 00:12:31 +0000"
     },
     "done": true
   },
@@ -1186,6 +1225,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-08-22 16:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-08-23 00:24:24 +0000"
     },
     "done": true
   },

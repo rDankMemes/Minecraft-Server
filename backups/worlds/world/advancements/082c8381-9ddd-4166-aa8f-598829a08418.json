@@ -634,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-23 00:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-08-19 21:52:32 +0000"
@@ -796,10 +802,12 @@
       "minecraft:ghast": "2019-08-20 02:42:19 +0000",
       "minecraft:shulker": "2019-08-21 01:36:28 +0000",
       "minecraft:enderman": "2019-08-20 04:13:47 +0000",
+      "minecraft:silverfish": "2019-08-23 01:29:36 +0000",
       "minecraft:magma_cube": "2019-08-20 02:50:56 +0000",
       "minecraft:spider": "2019-08-19 21:53:01 +0000",
       "minecraft:zombie": "2019-08-19 22:03:04 +0000",
-      "minecraft:creeper": "2019-08-19 22:51:04 +0000"
+      "minecraft:creeper": "2019-08-19 22:51:04 +0000",
+      "minecraft:drowned": "2019-08-23 01:39:47 +0000"
     },
     "done": false
   },

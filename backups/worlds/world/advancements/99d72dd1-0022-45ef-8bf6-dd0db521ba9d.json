@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-23 00:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-21 22:45:00 +0000"
@@ -1099,7 +1105,8 @@
       "minecraft:magma_cube": "2019-08-21 00:53:05 +0000",
       "minecraft:spider": "2019-08-19 23:27:59 +0000",
       "minecraft:zombie": "2019-08-20 00:47:15 +0000",
-      "minecraft:creeper": "2019-08-20 00:51:41 +0000"
+      "minecraft:creeper": "2019-08-20 00:51:41 +0000",
+      "minecraft:drowned": "2019-08-23 01:39:46 +0000"
     },
     "done": false
   },
