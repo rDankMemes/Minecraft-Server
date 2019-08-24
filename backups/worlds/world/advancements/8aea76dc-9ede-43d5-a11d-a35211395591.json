@@ -239,6 +239,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2019-08-24 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2019-08-24 04:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-24 04:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 12:24:19 +0000"
@@ -354,13 +372,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 09:00:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 09:00:06 +0000"
     },
@@ -411,6 +429,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-20 13:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-24 04:18:16 +0000"
     },
     "done": true
   },
@@ -503,6 +527,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-08-24 04:38:25 +0000"
     },
     "done": true
   },
@@ -674,13 +704,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:55 +0000"
     },
@@ -690,6 +720,8 @@
     "criteria": {
       "minecraft:polar_bear": "2019-08-21 11:14:46 +0000",
       "minecraft:skeleton": "2019-08-20 12:34:26 +0000",
+      "minecraft:phantom": "2019-08-24 05:03:34 +0000",
+      "minecraft:stray": "2019-08-24 04:45:02 +0000",
       "minecraft:spider": "2019-08-20 14:42:30 +0000",
       "minecraft:zombie": "2019-08-20 12:42:51 +0000",
       "minecraft:drowned": "2019-08-22 12:15:14 +0000",
@@ -784,6 +816,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-20 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-08-24 04:30:09 +0000"
     },
     "done": true
   },
@@ -1216,8 +1254,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 14:34:37 +0000",
-      "minecraft:mountains": "2019-08-20 12:22:19 +0000",
       "minecraft:forest": "2019-08-22 12:23:08 +0000",
+      "minecraft:mountains": "2019-08-20 12:22:19 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 08:49:54 +0000",
       "minecraft:snowy_tundra": "2019-08-20 14:35:16 +0000",
       "minecraft:desert": "2019-08-20 02:26:39 +0000",
@@ -1422,6 +1460,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 12:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2019-08-24 04:20:19 +0000"
     },
     "done": true
   },

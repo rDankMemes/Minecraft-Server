@@ -1047,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-08-24 04:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-08-23 06:47:53 +0000"
@@ -1278,12 +1284,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-23 03:00:54 +0000",
-      "minecraft:forest": "2019-08-23 06:11:02 +0000",
       "minecraft:mountains": "2019-08-23 02:32:38 +0000",
+      "minecraft:forest": "2019-08-23 06:11:02 +0000",
       "minecraft:frozen_river": "2019-08-24 01:55:49 +0000",
       "minecraft:dark_forest": "2019-08-23 23:58:11 +0000",
       "minecraft:snowy_taiga": "2019-08-23 05:41:59 +0000",
-      "minecraft:savanna": "2019-08-23 02:40:44 +0000"
+      "minecraft:savanna": "2019-08-23 02:40:44 +0000",
+      "minecraft:plains": "2019-08-24 03:18:13 +0000"
     },
     "done": false
   },
