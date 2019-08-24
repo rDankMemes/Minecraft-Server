@@ -766,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-08-24 20:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-08-24 13:17:04 +0000"
@@ -1725,9 +1731,11 @@
       "minecraft:warm_ocean": "2019-08-19 19:24:32 +0000",
       "minecraft:badlands": "2019-08-19 19:21:13 +0000",
       "minecraft:dark_forest": "2019-08-20 15:12:49 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-24 19:18:23 +0000",
       "minecraft:river": "2019-08-21 11:44:11 +0000",
       "minecraft:snowy_taiga": "2019-08-20 15:04:10 +0000",
       "minecraft:wooded_mountains": "2019-08-19 19:36:11 +0000",
+      "minecraft:stone_shore": "2019-08-24 19:18:21 +0000",
       "minecraft:swamp": "2019-08-20 20:15:22 +0000",
       "minecraft:plains": "2019-08-20 15:04:19 +0000"
     },
