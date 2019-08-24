@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-08-23 06:56:59 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-08-23 06:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-08-24 11:01:09 +0000"
     },
     "done": true
   },
@@ -398,6 +410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-08-23 07:07:07 +0000"
@@ -518,6 +536,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-08-23 06:56:18 +0000"
@@ -527,6 +551,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2019-08-23 13:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -734,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-08-23 06:51:21 +0000"
@@ -746,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-23 07:07:07 +0000"
@@ -755,6 +797,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-08-24 07:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -794,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-08-24 11:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-08-24 08:25:24 +0000"
@@ -813,8 +867,8 @@
       "minecraft:wither_skeleton": "2019-08-24 08:20:50 +0000",
       "minecraft:ghast": "2019-08-24 08:15:22 +0000",
       "minecraft:cave_spider": "2019-08-24 08:03:15 +0000",
-      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
       "minecraft:stray": "2019-08-23 13:17:55 +0000",
+      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
       "minecraft:magma_cube": "2019-08-24 08:27:46 +0000",
       "minecraft:spider": "2019-08-23 07:28:48 +0000",
       "minecraft:zombie": "2019-08-23 07:05:55 +0000"
@@ -830,6 +884,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-08-23 13:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-24 11:43:21 +0000"
     },
     "done": true
   },
@@ -860,6 +926,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-24 07:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -950,6 +1022,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-23 14:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -1403,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2019-08-23 06:44:44 +0000"
@@ -1478,8 +1562,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-23 06:46:32 +0000",
-      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:mountains": "2019-08-23 06:46:15 +0000",
+      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:taiga": "2019-08-24 07:50:40 +0000",
       "minecraft:snowy_tundra": "2019-08-23 06:49:53 +0000",
       "minecraft:badlands": "2019-08-23 06:44:46 +0000",
@@ -1488,6 +1572,7 @@
       "minecraft:wooded_mountains": "2019-08-23 07:27:00 +0000",
       "minecraft:wooded_hills": "2019-08-24 07:34:34 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
+      "minecraft:savanna": "2019-08-24 11:24:09 +0000",
       "minecraft:plains": "2019-08-24 07:42:01 +0000"
     },
     "done": false
@@ -1501,6 +1586,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-23 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -1636,6 +1727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-08-24 11:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-23 14:07:28 +0000"
@@ -1651,6 +1748,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2019-08-23 13:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -1720,6 +1823,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-24 11:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-24 07:34:22 +0000"
@@ -1759,6 +1874,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-23 14:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-24 11:35:38 +0000"
     },
     "done": true
   }
