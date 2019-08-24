@@ -465,6 +465,7 @@
       "porkchop": "2019-08-16 22:25:58 +0000",
       "mutton": "2019-08-16 22:26:55 +0000",
       "golden_apple": "2019-08-18 04:35:54 +0000",
+      "bread": "2019-08-24 07:24:00 +0000",
       "golden_carrot": "2019-08-17 20:53:28 +0000",
       "cooked_chicken": "2019-08-17 18:37:48 +0000",
       "enchanted_golden_apple": "2019-08-16 21:19:42 +0000",
@@ -922,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-08-24 07:08:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2019-08-16 20:37:45 +0000"
@@ -1083,6 +1090,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-08-20 05:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-24 07:57:03 +0000"
     },
     "done": true
   },
@@ -1311,6 +1324,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2019-08-22 01:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-24 07:56:45 +0000"
     },
     "done": true
   },
@@ -1776,6 +1795,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-08-24 07:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-24 07:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
@@ -1836,6 +1867,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-24 07:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
@@ -1857,6 +1894,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-23 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-24 07:57:03 +0000"
     },
     "done": true
   },
@@ -2212,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-08-24 07:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:48:45 +0000"
@@ -2239,6 +2288,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-08-16 22:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-08-24 07:57:03 +0000"
     },
     "done": true
   },

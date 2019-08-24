@@ -515,13 +515,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 09:27:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 09:27:26 +0000"
     },
@@ -945,13 +945,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-21 12:38:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-21 12:38:57 +0000"
     },
@@ -975,12 +975,12 @@
       "minecraft:phantom": "2019-08-20 10:10:44 +0000",
       "minecraft:ghast": "2019-08-23 12:58:05 +0000",
       "minecraft:shulker": "2019-08-22 17:53:40 +0000",
-      "minecraft:silverfish": "2019-08-20 17:51:33 +0000",
       "minecraft:enderman": "2019-08-20 10:14:40 +0000",
+      "minecraft:silverfish": "2019-08-20 17:51:33 +0000",
       "minecraft:spider": "2019-08-20 10:11:09 +0000",
       "minecraft:zombie": "2019-08-20 09:45:43 +0000",
-      "minecraft:drowned": "2019-08-20 18:25:09 +0000",
-      "minecraft:creeper": "2019-08-20 10:13:15 +0000"
+      "minecraft:creeper": "2019-08-20 10:13:15 +0000",
+      "minecraft:drowned": "2019-08-20 18:25:09 +0000"
     },
     "done": false
   },
@@ -1755,8 +1755,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:27:42 +0000",
-      "minecraft:forest": "2019-08-20 11:47:02 +0000",
       "minecraft:mountains": "2019-08-20 09:27:34 +0000",
+      "minecraft:forest": "2019-08-20 11:47:02 +0000",
       "minecraft:snowy_tundra": "2019-08-20 18:21:17 +0000",
       "minecraft:desert": "2019-08-20 09:27:14 +0000",
       "minecraft:warm_ocean": "2019-08-20 09:20:18 +0000",
