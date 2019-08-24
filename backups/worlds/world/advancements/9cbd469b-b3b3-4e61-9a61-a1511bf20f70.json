@@ -1047,8 +1047,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-23 22:11:16 +0000",
       "minecraft:mountains": "2019-08-21 12:15:10 +0000",
+      "minecraft:forest": "2019-08-23 22:11:16 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 07:53:22 +0000",
       "minecraft:birch_forest": "2019-08-23 22:25:48 +0000",
       "minecraft:dark_forest": "2019-08-23 22:13:58 +0000",

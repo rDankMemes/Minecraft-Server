@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-08-24 17:34:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-08-21 18:31:32 +0000"
@@ -399,6 +405,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-08-20 12:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-08-24 17:21:25 +0000"
     },
     "done": true
   },
@@ -776,6 +788,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2019-08-22 19:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-08-24 17:22:04 +0000"
     },
     "done": true
   },
@@ -1431,6 +1449,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2019-08-21 18:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-08-24 17:31:16 +0000"
     },
     "done": true
   },

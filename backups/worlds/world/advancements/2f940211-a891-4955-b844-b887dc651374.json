@@ -1387,8 +1387,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 16:27:12 +0000",
-      "minecraft:mountains": "2019-08-20 16:27:01 +0000",
       "minecraft:forest": "2019-08-24 11:38:39 +0000",
+      "minecraft:mountains": "2019-08-20 16:27:01 +0000",
       "minecraft:snowy_tundra": "2019-08-20 17:28:16 +0000",
       "minecraft:desert": "2019-08-20 11:25:34 +0000",
       "minecraft:jungle": "2019-08-20 17:17:44 +0000",
