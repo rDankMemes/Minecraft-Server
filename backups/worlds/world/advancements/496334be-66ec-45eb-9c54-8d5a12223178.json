@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-08-24 12:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-20 06:43:11 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-21 05:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-08-24 12:26:55 +0000"
     },
     "done": true
   },
@@ -194,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-08-24 12:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-08-20 06:43:11 +0000"
@@ -209,6 +227,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-08-24 12:05:16 +0000"
     },
     "done": true
   },
@@ -249,7 +273,8 @@
       "baked_potato": "2019-08-21 09:54:25 +0000",
       "porkchop": "2019-08-21 05:31:53 +0000",
       "potato": "2019-08-24 04:39:08 +0000",
-      "mutton": "2019-08-21 05:31:35 +0000"
+      "mutton": "2019-08-21 05:31:35 +0000",
+      "carrot": "2019-08-24 12:17:06 +0000"
     },
     "done": false
   },
@@ -391,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-08-24 12:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-21 05:40:46 +0000"
@@ -418,6 +449,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-08-24 12:05:16 +0000"
     },
     "done": true
   },
@@ -609,9 +646,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-24 12:23:13 +0000",
       "minecraft:skeleton": "2019-08-21 10:13:54 +0000",
       "minecraft:phantom": "2019-08-24 07:23:52 +0000",
       "minecraft:zombie_pigman": "2019-08-24 07:13:31 +0000",
+      "minecraft:ghast": "2019-08-24 12:04:55 +0000",
       "minecraft:silverfish": "2019-08-24 06:22:25 +0000",
       "minecraft:spider": "2019-08-24 07:26:55 +0000",
       "minecraft:zombie": "2019-08-24 07:41:37 +0000",
@@ -739,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-24 12:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-21 04:21:03 +0000"
@@ -784,6 +829,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-08-21 05:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-24 12:20:52 +0000"
     },
     "done": true
   },
@@ -961,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-24 12:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-21 05:40:46 +0000"
@@ -1003,6 +1060,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-24 12:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-21 05:38:15 +0000"
@@ -1012,6 +1075,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-08-24 06:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-08-24 12:05:16 +0000"
     },
     "done": true
   },
@@ -1048,6 +1117,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-21 03:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-08-24 12:26:55 +0000"
     },
     "done": true
   },
@@ -1147,9 +1222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-08-24 12:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-21 05:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-08-24 12:26:55 +0000"
     },
     "done": true
   },
@@ -1168,6 +1255,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-20 06:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2019-08-24 12:07:55 +0000"
     },
     "done": true
   },

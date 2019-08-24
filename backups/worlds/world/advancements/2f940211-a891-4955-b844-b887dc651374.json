@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-24 12:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 16:54:02 +0000"
@@ -316,6 +322,7 @@
       "cooked_porkchop": "2019-08-22 11:05:02 +0000",
       "chicken": "2019-08-20 11:35:10 +0000",
       "cooked_mutton": "2019-08-20 11:47:29 +0000",
+      "cooked_beef": "2019-08-24 12:32:04 +0000",
       "beef": "2019-08-20 11:32:09 +0000",
       "porkchop": "2019-08-24 11:41:45 +0000",
       "apple": "2019-08-23 22:54:58 +0000",
@@ -385,6 +392,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-08-20 11:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-08-24 12:22:03 +0000"
     },
     "done": true
   },
@@ -634,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-08-24 12:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-08-20 11:37:22 +0000"
@@ -736,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-08-24 12:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2019-08-20 11:40:45 +0000"
@@ -770,6 +795,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-20 11:47:40 +0000",
       "minecraft:ghast": "2019-08-20 17:10:46 +0000",
+      "minecraft:silverfish": "2019-08-24 12:19:14 +0000",
       "minecraft:spider": "2019-08-20 16:33:45 +0000",
       "minecraft:zombie": "2019-08-20 17:03:05 +0000",
       "minecraft:creeper": "2019-08-20 16:33:43 +0000"
@@ -785,6 +811,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 16:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-24 12:22:42 +0000"
     },
     "done": true
   },
@@ -1034,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-24 12:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-20 11:33:13 +0000"
@@ -1127,6 +1165,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 11:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-24 12:12:13 +0000"
     },
     "done": true
   },
@@ -1232,6 +1276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-08-24 12:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 11:33:13 +0000"
@@ -1277,6 +1327,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-08-20 11:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-08-24 12:22:03 +0000"
     },
     "done": true
   },
@@ -1365,6 +1421,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-08-20 11:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-24 12:12:13 +0000"
     },
     "done": true
   },
@@ -1503,6 +1565,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 16:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-08-24 12:22:03 +0000"
     },
     "done": true
   },

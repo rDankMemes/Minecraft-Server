@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-24 14:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 19:00:24 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2019-08-22 17:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
     },
     "done": true
   },
@@ -225,6 +237,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2019-08-21 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-24 14:12:11 +0000"
     },
     "done": true
   },
@@ -414,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-08-24 14:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 19:10:22 +0000"
@@ -445,6 +469,7 @@
       "chorus_fruit": "2019-08-22 16:53:11 +0000",
       "beef": "2019-08-19 18:52:07 +0000",
       "baked_potato": "2019-08-21 18:38:44 +0000",
+      "potato": "2019-08-24 14:20:08 +0000",
       "cooked_cod": "2019-08-22 18:05:29 +0000",
       "mutton": "2019-08-23 14:21:25 +0000",
       "bread": "2019-08-20 12:00:00 +0000",
@@ -517,6 +542,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 19:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
     },
     "done": true
   },
@@ -754,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-24 14:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2019-08-19 19:10:06 +0000"
@@ -910,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-24 14:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 18:15:52 +0000"
@@ -1037,8 +1080,8 @@
       "minecraft:magma_cube": "2019-08-21 18:29:50 +0000",
       "minecraft:spider": "2019-08-20 11:58:50 +0000",
       "minecraft:zombie": "2019-08-20 12:06:46 +0000",
-      "minecraft:creeper": "2019-08-20 11:57:36 +0000",
       "minecraft:drowned": "2019-08-19 18:57:19 +0000",
+      "minecraft:creeper": "2019-08-20 11:57:36 +0000",
       "minecraft:zombie_villager": "2019-08-21 17:37:07 +0000"
     },
     "done": false
@@ -1139,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 18:15:52 +0000"
@@ -1226,6 +1275,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-21 21:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
     },
     "done": true
   },
@@ -1400,6 +1455,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2019-08-20 16:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
     },
     "done": true
   },
@@ -1637,6 +1698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-08-19 19:03:29 +0000"
@@ -1820,11 +1887,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:49:43 +0000",
-      "minecraft:mountains": "2019-08-19 18:49:05 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 19:15:17 +0000",
       "minecraft:forest": "2019-08-21 21:40:22 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 19:15:17 +0000",
+      "minecraft:mountains": "2019-08-19 18:49:05 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 21:29:21 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:48:50 +0000",
+      "minecraft:dark_forest": "2019-08-24 14:16:04 +0000",
       "minecraft:wooded_mountains": "2019-08-19 18:53:46 +0000",
       "minecraft:plains": "2019-08-20 16:08:15 +0000"
     },
@@ -1962,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2019-08-22 17:30:18 +0000"
@@ -2082,6 +2156,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-24 14:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-24 14:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 19:10:22 +0000"
@@ -2097,6 +2183,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-08-24 14:12:11 +0000"
     },
     "done": true
   },
