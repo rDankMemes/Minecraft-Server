@@ -663,9 +663,16 @@
       "minecraft:spider": "2019-08-20 00:00:33 +0000",
       "minecraft:zombie": "2019-08-19 19:59:41 +0000",
       "minecraft:creeper": "2019-06-22 22:37:07 +0000",
-      "minecraft:zombie_villager": "2019-06-24 05:27:20 +0000"
+      "minecraft:zombie_villager": "2019-06-24 05:27:20 +0000",
+      "minecraft:slime": "2019-08-25 01:17:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2019-08-25 02:08:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -2350,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-25 01:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 23:03:50 +0000"
@@ -2701,6 +2714,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2019-06-30 01:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2019-08-25 01:47:32 +0000"
     },
     "done": true
   },

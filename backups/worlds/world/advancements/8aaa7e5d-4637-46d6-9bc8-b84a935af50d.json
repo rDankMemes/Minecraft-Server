@@ -363,15 +363,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2019-08-19 18:38:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-19 18:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-08-19 18:38:05 +0000"
     },
     "done": true
   },
@@ -402,6 +402,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-23 20:25:54 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-25 02:26:26 +0000",
       "minecraft:frozen_river": "2019-08-19 17:39:23 +0000",
       "minecraft:snowy_taiga": "2019-08-19 17:41:06 +0000"
     },

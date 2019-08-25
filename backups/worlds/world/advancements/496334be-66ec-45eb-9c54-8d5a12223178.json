@@ -506,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-08-25 02:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-21 05:31:31 +0000"
@@ -817,6 +823,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 15:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-08-25 01:58:26 +0000"
     },
     "done": true
   },
@@ -1285,9 +1297,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-21 03:53:23 +0000",
-      "minecraft:mountains": "2019-08-21 03:49:07 +0000",
-      "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
       "minecraft:forest": "2019-08-21 05:32:49 +0000",
+      "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
+      "minecraft:mountains": "2019-08-21 03:49:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:43:20 +0000",
       "minecraft:wooded_mountains": "2019-08-20 06:41:31 +0000",
       "minecraft:plains": "2019-08-20 06:41:55 +0000"
@@ -1435,6 +1447,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 15:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-08-25 01:58:26 +0000"
     },
     "done": true
   },
