@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-08-25 05:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-20 11:40:45 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-25 05:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 11:43:34 +0000"
@@ -254,6 +266,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-08-20 11:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-08-25 05:23:29 +0000"
     },
     "done": true
   },
@@ -278,6 +296,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-08-23 22:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-08-25 05:48:55 +0000"
     },
     "done": true
   },
@@ -323,6 +347,7 @@
       "chicken": "2019-08-20 11:35:10 +0000",
       "cooked_mutton": "2019-08-20 11:47:29 +0000",
       "cooked_beef": "2019-08-24 12:32:04 +0000",
+      "chorus_fruit": "2019-08-25 05:34:41 +0000",
       "beef": "2019-08-20 11:32:09 +0000",
       "porkchop": "2019-08-24 11:41:45 +0000",
       "apple": "2019-08-23 22:54:58 +0000",
@@ -497,6 +522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-08-25 05:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 11:41:52 +0000"
@@ -542,6 +573,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-20 11:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-08-25 05:48:55 +0000"
     },
     "done": true
   },
@@ -767,15 +804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-08-20 11:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 11:46:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_diamond": "2019-08-20 11:46:40 +0000"
+      "has_glowstone_dust": "2019-08-25 05:22:58 +0000"
     },
     "done": true
   },
@@ -1084,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-08-25 05:48:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2019-08-20 11:32:36 +0000"
@@ -1201,6 +1250,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-08-20 11:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-08-25 05:22:58 +0000"
     },
     "done": true
   },
@@ -1372,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-08-25 05:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2019-08-20 11:32:06 +0000"
@@ -1387,8 +1448,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 16:27:12 +0000",
-      "minecraft:forest": "2019-08-24 11:38:39 +0000",
       "minecraft:mountains": "2019-08-20 16:27:01 +0000",
+      "minecraft:forest": "2019-08-24 11:38:39 +0000",
       "minecraft:snowy_tundra": "2019-08-20 17:28:16 +0000",
       "minecraft:desert": "2019-08-20 11:25:34 +0000",
       "minecraft:jungle": "2019-08-20 17:17:44 +0000",
@@ -1523,6 +1584,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-08-20 11:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-08-25 05:48:55 +0000"
     },
     "done": true
   },
