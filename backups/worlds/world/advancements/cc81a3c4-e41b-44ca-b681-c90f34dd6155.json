@@ -1068,8 +1068,8 @@
       "minecraft:skeleton": "2019-08-23 16:06:16 +0000",
       "minecraft:phantom": "2019-08-22 01:26:26 +0000",
       "minecraft:witch": "2019-08-25 01:14:34 +0000",
-      "minecraft:vindicator": "2019-08-17 04:08:27 +0000",
       "minecraft:enderman": "2019-08-22 00:46:06 +0000",
+      "minecraft:vindicator": "2019-08-17 04:08:27 +0000",
       "minecraft:spider": "2019-08-19 22:47:57 +0000",
       "minecraft:zombie": "2019-08-19 22:14:45 +0000",
       "minecraft:creeper": "2019-08-19 22:45:21 +0000"
@@ -1936,11 +1936,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
       "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
-      "minecraft:forest": "2019-08-16 21:14:19 +0000",
-      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
       "minecraft:mushroom_fields": "2019-08-19 22:09:37 +0000",
+      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:forest": "2019-08-16 21:14:19 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 16:08:19 +0000",
       "minecraft:deep_cold_ocean": "2019-08-18 03:54:03 +0000",
       "minecraft:snowy_tundra": "2019-08-19 16:04:17 +0000",

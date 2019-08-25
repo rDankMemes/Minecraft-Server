@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-25 19:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-08-21 07:42:44 +0000"
@@ -833,10 +839,11 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-21 08:04:29 +0000",
       "minecraft:cave_spider": "2019-08-21 11:36:02 +0000",
+      "minecraft:enderman": "2019-08-25 19:01:46 +0000",
       "minecraft:spider": "2019-08-21 07:48:22 +0000",
       "minecraft:zombie": "2019-08-21 07:46:42 +0000",
-      "minecraft:creeper": "2019-08-21 11:19:42 +0000",
-      "minecraft:drowned": "2019-08-24 18:48:17 +0000"
+      "minecraft:drowned": "2019-08-24 18:48:17 +0000",
+      "minecraft:creeper": "2019-08-21 11:19:42 +0000"
     },
     "done": false
   },
@@ -867,6 +874,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-08-23 22:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-25 19:05:19 +0000"
     },
     "done": true
   },
@@ -1004,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-08-25 19:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-08-24 20:39:05 +0000"
@@ -1079,6 +1098,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2019-08-24 19:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-08-25 19:00:41 +0000"
     },
     "done": true
   },
@@ -1588,9 +1613,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-08-23 22:11:16 +0000",
+      "minecraft:cold_ocean": "2019-08-25 18:56:13 +0000",
       "minecraft:mountains": "2019-08-21 12:15:10 +0000",
+      "minecraft:forest": "2019-08-23 22:11:16 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 07:53:22 +0000",
+      "minecraft:snowy_tundra": "2019-08-25 18:57:05 +0000",
       "minecraft:desert": "2019-08-24 20:00:10 +0000",
       "minecraft:frozen_river": "2019-08-24 20:05:18 +0000",
       "minecraft:birch_forest": "2019-08-23 22:25:48 +0000",
@@ -1598,8 +1625,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-08-24 18:46:57 +0000",
       "minecraft:badlands": "2019-08-24 20:30:30 +0000",
       "minecraft:dark_forest": "2019-08-23 22:13:58 +0000",
-      "minecraft:river": "2019-08-21 11:38:41 +0000",
       "minecraft:lukewarm_ocean": "2019-08-24 18:45:35 +0000",
+      "minecraft:river": "2019-08-21 11:38:41 +0000",
       "minecraft:snowy_taiga": "2019-08-24 19:43:03 +0000",
       "minecraft:wooded_mountains": "2019-08-21 08:06:01 +0000",
       "minecraft:wooded_hills": "2019-08-23 22:13:26 +0000",
@@ -1790,6 +1817,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-08-25 19:00:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-24 19:11:48 +0000"
@@ -1907,6 +1940,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-25 17:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-25 19:34:54 +0000"
     },
     "done": true
   }
