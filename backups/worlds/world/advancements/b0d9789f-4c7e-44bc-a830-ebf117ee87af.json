@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-08-25 11:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-23 13:00:48 +0000"
@@ -428,6 +434,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2019-08-23 13:10:40 +0000",
+      "cooked_beef": "2019-08-25 09:42:27 +0000",
       "baked_potato": "2019-08-24 12:32:42 +0000",
       "bread": "2019-08-23 13:38:20 +0000",
       "golden_apple": "2019-08-25 08:24:39 +0000",
@@ -886,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-08-25 11:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-24 11:35:38 +0000"
@@ -958,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-08-25 11:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-23 14:07:28 +0000"
@@ -972,14 +991,14 @@
       "minecraft:wither_skeleton": "2019-08-24 08:20:50 +0000",
       "minecraft:ghast": "2019-08-24 08:15:22 +0000",
       "minecraft:cave_spider": "2019-08-24 08:03:15 +0000",
-      "minecraft:vindicator": "2019-08-24 14:07:19 +0000",
-      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
       "minecraft:stray": "2019-08-23 13:17:55 +0000",
+      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
+      "minecraft:vindicator": "2019-08-24 14:07:19 +0000",
       "minecraft:magma_cube": "2019-08-24 08:27:46 +0000",
       "minecraft:spider": "2019-08-23 07:28:48 +0000",
       "minecraft:zombie": "2019-08-23 07:05:55 +0000",
-      "minecraft:creeper": "2019-08-24 12:50:21 +0000",
       "minecraft:drowned": "2019-08-25 08:22:51 +0000",
+      "minecraft:creeper": "2019-08-24 12:50:21 +0000",
       "minecraft:evoker": "2019-08-24 14:11:39 +0000"
     },
     "done": false
@@ -1023,6 +1042,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-23 06:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-08-25 09:14:08 +0000"
     },
     "done": true
   },
@@ -1500,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-08-25 11:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-08-24 08:13:39 +0000"
@@ -1756,23 +1787,26 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-08-23 06:46:32 +0000",
       "minecraft:snowy_mountains": "2019-08-25 08:55:17 +0000",
-      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:mountains": "2019-08-23 06:46:15 +0000",
+      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:taiga": "2019-08-24 07:50:40 +0000",
       "minecraft:snowy_tundra": "2019-08-23 06:49:53 +0000",
       "minecraft:taiga_hills": "2019-08-25 08:46:34 +0000",
       "minecraft:frozen_river": "2019-08-25 08:54:16 +0000",
       "minecraft:deep_frozen_ocean": "2019-08-24 13:47:34 +0000",
+      "minecraft:birch_forest": "2019-08-25 09:32:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-25 08:29:34 +0000",
       "minecraft:badlands": "2019-08-23 06:44:46 +0000",
       "minecraft:beach": "2019-08-24 07:36:54 +0000",
       "minecraft:dark_forest": "2019-08-24 13:59:56 +0000",
-      "minecraft:river": "2019-08-24 07:34:32 +0000",
       "minecraft:lukewarm_ocean": "2019-08-25 08:31:40 +0000",
+      "minecraft:river": "2019-08-24 07:34:32 +0000",
+      "minecraft:snowy_taiga": "2019-08-25 08:58:47 +0000",
+      "minecraft:birch_forest_hills": "2019-08-25 09:34:03 +0000",
       "minecraft:wooded_mountains": "2019-08-23 07:27:00 +0000",
       "minecraft:wooded_hills": "2019-08-24 07:34:34 +0000",
-      "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
       "minecraft:stone_shore": "2019-08-25 08:38:16 +0000",
+      "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
       "minecraft:swamp": "2019-08-24 13:56:55 +0000",
       "minecraft:savanna": "2019-08-24 11:24:09 +0000",
       "minecraft:plains": "2019-08-24 07:42:01 +0000"
@@ -1836,6 +1870,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2019-08-23 07:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-08-25 11:31:48 +0000"
     },
     "done": true
   },
