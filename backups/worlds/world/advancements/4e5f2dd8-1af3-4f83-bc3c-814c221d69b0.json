@@ -959,6 +959,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-21 04:08:44 +0000",
       "minecraft:zombie": "2019-08-21 04:03:37 +0000",
+      "minecraft:creeper": "2019-08-24 22:21:57 +0000",
       "minecraft:drowned": "2019-08-21 07:15:43 +0000"
     },
     "done": false

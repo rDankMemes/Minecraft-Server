@@ -290,6 +290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-08-24 22:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:26:51 +0000"
@@ -1401,6 +1407,7 @@
       "porkchop": "2019-08-19 18:49:59 +0000",
       "apple": "2019-08-19 20:17:10 +0000",
       "potato": "2019-08-19 18:35:05 +0000",
+      "cooked_cod": "2019-08-24 21:22:57 +0000",
       "mutton": "2019-08-19 18:47:35 +0000",
       "bread": "2019-08-19 19:04:12 +0000",
       "cooked_chicken": "2019-08-20 18:23:24 +0000",
@@ -1597,6 +1604,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-08-19 17:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-08-24 22:44:19 +0000"
     },
     "done": true
   },
