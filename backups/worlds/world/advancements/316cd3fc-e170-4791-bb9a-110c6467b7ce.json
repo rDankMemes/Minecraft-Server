@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-08-26 14:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2019-08-20 14:00:46 +0000"
@@ -315,7 +321,10 @@
     "criteria": {
       "cooked_beef": "2019-08-20 14:44:28 +0000",
       "beef": "2019-08-20 13:51:26 +0000",
+      "porkchop": "2019-08-26 14:23:57 +0000",
+      "mutton": "2019-08-26 14:48:41 +0000",
       "bread": "2019-08-20 16:17:11 +0000",
+      "melon_slice": "2019-08-26 14:36:11 +0000",
       "cod": "2019-08-20 14:38:41 +0000",
       "cooked_salmon": "2019-08-20 14:02:11 +0000"
     },
@@ -501,6 +510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-08-26 14:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-20 13:50:14 +0000"
@@ -601,6 +616,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-08-20 14:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-26 14:43:35 +0000"
     },
     "done": true
   },
@@ -808,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-08-26 14:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-08-20 14:44:05 +0000"
@@ -878,6 +905,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2019-08-26 14:22:20 +0000"
     },
     "done": true
   },
@@ -983,9 +1016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-08-26 14:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-20 13:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-26 14:45:04 +0000"
     },
     "done": true
   },
@@ -1067,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-26 14:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2019-08-20 13:50:14 +0000"
@@ -1112,6 +1163,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 13:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-26 14:28:12 +0000"
     },
     "done": true
   },
@@ -1241,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-26 14:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:drowned": "2019-08-20 13:49:14 +0000"
@@ -1262,6 +1325,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-20 15:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-26 14:28:12 +0000"
     },
     "done": true
   },
@@ -1304,6 +1373,7 @@
       "minecraft:snowy_tundra": "2019-08-20 14:12:20 +0000",
       "minecraft:beach": "2019-08-20 16:40:57 +0000",
       "minecraft:river": "2019-08-20 14:40:16 +0000",
+      "minecraft:wooded_mountains": "2019-08-26 14:27:52 +0000",
       "minecraft:wooded_hills": "2019-08-20 14:37:44 +0000",
       "minecraft:plains": "2019-08-20 14:39:50 +0000"
     },
@@ -1330,6 +1400,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-08-20 14:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-08-26 14:45:04 +0000"
     },
     "done": true
   },
@@ -1360,6 +1436,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-08-20 14:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-08-26 14:43:41 +0000"
     },
     "done": true
   },
@@ -1423,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-08-26 14:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2019-08-20 15:41:48 +0000"
@@ -1444,6 +1532,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-20 15:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-08-26 14:31:23 +0000"
     },
     "done": true
   },
@@ -1495,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-26 14:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 14:40:21 +0000"
@@ -1510,6 +1610,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-08-20 14:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-08-26 14:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-08-26 14:22:47 +0000"
     },
     "done": true
   },

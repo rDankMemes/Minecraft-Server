@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-26 12:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 07:27:36 +0000"
@@ -311,6 +317,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2019-08-24 12:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-26 12:01:18 +0000"
     },
     "done": true
   },
@@ -729,6 +741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-26 12:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-08-20 06:43:44 +0000"
@@ -857,10 +875,11 @@
       "minecraft:zombie_pigman": "2019-08-24 07:13:31 +0000",
       "minecraft:ghast": "2019-08-24 12:04:55 +0000",
       "minecraft:guardian": "2019-08-26 11:14:55 +0000",
-      "minecraft:silverfish": "2019-08-24 06:22:25 +0000",
       "minecraft:enderman": "2019-08-26 08:36:26 +0000",
+      "minecraft:silverfish": "2019-08-24 06:22:25 +0000",
       "minecraft:spider": "2019-08-24 07:26:55 +0000",
       "minecraft:zombie": "2019-08-24 07:41:37 +0000",
+      "minecraft:drowned": "2019-08-26 12:01:21 +0000",
       "minecraft:creeper": "2019-08-23 01:54:44 +0000"
     },
     "done": false
@@ -1024,6 +1043,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 15:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-08-26 12:01:18 +0000"
     },
     "done": true
   },
@@ -1480,13 +1505,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-21 03:53:23 +0000",
-      "minecraft:mountains": "2019-08-21 03:49:07 +0000",
-      "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
       "minecraft:forest": "2019-08-21 05:32:49 +0000",
+      "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
+      "minecraft:mountains": "2019-08-21 03:49:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:43:20 +0000",
+      "minecraft:snowy_tundra": "2019-08-26 11:58:33 +0000",
       "minecraft:desert": "2019-08-26 11:56:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-25 15:37:05 +0000",
       "minecraft:wooded_mountains": "2019-08-20 06:41:31 +0000",
+      "minecraft:swamp": "2019-08-26 12:06:57 +0000",
       "minecraft:plains": "2019-08-20 06:41:55 +0000"
     },
     "done": false
