@@ -1189,6 +1189,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-26 00:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-06-24 01:21:20 +0000"
@@ -1507,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-08-26 00:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2019-08-22 03:40:30 +0000"
@@ -1713,10 +1725,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
       "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
-      "minecraft:forest": "2019-05-19 05:31:45 +0000",
+      "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
       "minecraft:mountains": "2019-08-17 06:00:48 +0000",
+      "minecraft:forest": "2019-05-19 05:31:45 +0000",
       "minecraft:desert_hills": "2019-05-21 01:31:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 00:04:16 +0000",
       "minecraft:snowy_tundra": "2019-08-20 23:38:31 +0000",
