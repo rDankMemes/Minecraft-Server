@@ -559,12 +559,12 @@
       "minecraft:ghast": "2019-08-25 10:20:39 +0000",
       "minecraft:shulker": "2019-08-23 11:20:20 +0000",
       "minecraft:guardian": "2019-08-26 11:11:20 +0000",
-      "minecraft:vindicator": "2019-08-25 12:14:38 +0000",
       "minecraft:enderman": "2019-08-23 10:57:35 +0000",
+      "minecraft:vindicator": "2019-08-25 12:14:38 +0000",
       "minecraft:spider": "2019-08-20 15:07:37 +0000",
       "minecraft:zombie": "2019-08-20 14:02:43 +0000",
-      "minecraft:drowned": "2019-08-19 23:55:50 +0000",
       "minecraft:creeper": "2019-08-20 15:12:27 +0000",
+      "minecraft:drowned": "2019-08-19 23:55:50 +0000",
       "minecraft:evoker": "2019-08-25 12:13:53 +0000"
     },
     "done": false
@@ -974,12 +974,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 23:44:02 +0000",
-      "minecraft:forest": "2019-08-20 12:09:48 +0000",
-      "minecraft:mountains": "2019-08-19 17:43:27 +0000",
       "minecraft:mushroom_fields": "2019-08-19 17:19:49 +0000",
+      "minecraft:mountains": "2019-08-19 17:43:27 +0000",
+      "minecraft:forest": "2019-08-20 12:09:48 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 22:29:23 +0000",
       "minecraft:snowy_tundra": "2019-08-19 23:53:22 +0000",
       "minecraft:desert": "2019-08-19 23:25:37 +0000",
+      "minecraft:jungle": "2019-08-26 19:19:26 +0000",
       "minecraft:warm_ocean": "2019-08-20 13:24:59 +0000",
       "minecraft:badlands": "2019-08-20 13:24:23 +0000",
       "minecraft:dark_forest": "2019-08-25 12:05:14 +0000",
@@ -1368,6 +1369,7 @@
       "cooked_porkchop": "2019-08-23 23:19:40 +0000",
       "cooked_beef": "2019-08-19 23:53:38 +0000",
       "beef": "2019-08-19 17:30:15 +0000",
+      "cooked_cod": "2019-08-26 20:06:58 +0000",
       "mutton": "2019-08-25 13:28:34 +0000",
       "bread": "2019-08-23 10:45:12 +0000",
       "salmon": "2019-08-21 12:13:42 +0000",
