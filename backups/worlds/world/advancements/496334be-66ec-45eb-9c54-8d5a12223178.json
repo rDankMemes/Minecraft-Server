@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-08-26 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-20 06:43:11 +0000"
@@ -224,6 +230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-26 03:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-08-20 06:40:08 +0000"
@@ -308,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-26 03:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-08-21 10:07:18 +0000"
@@ -335,6 +353,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2019-08-21 05:31:19 +0000",
+      "cooked_beef": "2019-08-26 04:16:19 +0000",
       "beef": "2019-08-21 03:49:01 +0000",
       "baked_potato": "2019-08-21 09:54:25 +0000",
       "porkchop": "2019-08-21 05:31:53 +0000",
@@ -446,6 +465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-08-26 03:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-21 09:58:41 +0000"
@@ -523,6 +548,12 @@
       "has_sand": "2019-08-21 05:40:46 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2019-08-26 03:09:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1060,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-08-26 03:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-24 07:27:36 +0000"
@@ -1177,6 +1214,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-08-20 06:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-08-26 03:38:45 +0000"
     },
     "done": true
   },
@@ -1381,9 +1424,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-21 03:53:23 +0000",
-      "minecraft:mountains": "2019-08-21 03:49:07 +0000",
-      "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
       "minecraft:forest": "2019-08-21 05:32:49 +0000",
+      "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
+      "minecraft:mountains": "2019-08-21 03:49:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:43:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-25 15:37:05 +0000",
       "minecraft:wooded_mountains": "2019-08-20 06:41:31 +0000",
@@ -1559,6 +1602,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-26 03:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-08-21 03:57:49 +0000"
@@ -1658,6 +1707,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 15:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-26 03:11:06 +0000"
     },
     "done": true
   }
