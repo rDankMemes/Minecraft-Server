@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-08-25 23:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-08-20 01:03:24 +0000"
@@ -345,6 +351,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-08-19 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2019-08-25 23:43:03 +0000"
     },
     "done": true
   },
@@ -862,13 +874,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-19 23:55:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-19 23:55:59 +0000"
     },
@@ -901,12 +913,12 @@
       "minecraft:ghast": "2019-08-20 23:48:46 +0000",
       "minecraft:shulker": "2019-08-23 05:01:40 +0000",
       "minecraft:cave_spider": "2019-08-19 22:48:16 +0000",
-      "minecraft:enderman": "2019-08-19 23:35:28 +0000",
       "minecraft:silverfish": "2019-08-21 00:26:16 +0000",
+      "minecraft:enderman": "2019-08-19 23:35:28 +0000",
       "minecraft:spider": "2019-08-20 00:06:20 +0000",
       "minecraft:zombie": "2019-08-19 22:08:58 +0000",
-      "minecraft:creeper": "2019-08-19 22:11:27 +0000",
       "minecraft:drowned": "2019-08-19 22:07:07 +0000",
+      "minecraft:creeper": "2019-08-19 22:11:27 +0000",
       "minecraft:zombie_villager": "2019-08-20 07:24:18 +0000"
     },
     "done": false
@@ -1046,6 +1058,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-19 22:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-08-25 23:28:30 +0000"
     },
     "done": true
   },
@@ -1220,6 +1238,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2019-08-20 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-08-25 23:30:22 +0000"
     },
     "done": true
   },
@@ -1934,6 +1958,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-19 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2019-08-25 23:43:03 +0000"
     },
     "done": true
   },
