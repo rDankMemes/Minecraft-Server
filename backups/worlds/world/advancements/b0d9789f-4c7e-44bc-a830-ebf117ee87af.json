@@ -1009,14 +1009,14 @@
       "minecraft:wither_skeleton": "2019-08-24 08:20:50 +0000",
       "minecraft:ghast": "2019-08-24 08:15:22 +0000",
       "minecraft:cave_spider": "2019-08-24 08:03:15 +0000",
-      "minecraft:vindicator": "2019-08-24 14:07:19 +0000",
-      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
       "minecraft:stray": "2019-08-23 13:17:55 +0000",
+      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
+      "minecraft:vindicator": "2019-08-24 14:07:19 +0000",
       "minecraft:magma_cube": "2019-08-24 08:27:46 +0000",
       "minecraft:spider": "2019-08-23 07:28:48 +0000",
       "minecraft:zombie": "2019-08-23 07:05:55 +0000",
-      "minecraft:creeper": "2019-08-24 12:50:21 +0000",
       "minecraft:drowned": "2019-08-25 08:22:51 +0000",
+      "minecraft:creeper": "2019-08-24 12:50:21 +0000",
       "minecraft:zombie_villager": "2019-08-25 12:33:30 +0000",
       "minecraft:evoker": "2019-08-24 14:11:39 +0000"
     },
@@ -1043,6 +1043,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2019-08-24 12:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-08-26 07:48:01 +0000"
     },
     "done": true
   },
@@ -1097,6 +1103,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-24 11:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-08-26 07:48:01 +0000"
     },
     "done": true
   },
@@ -1472,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2019-08-26 08:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-23 13:00:48 +0000"
@@ -1818,26 +1836,27 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-08-23 06:46:32 +0000",
       "minecraft:snowy_mountains": "2019-08-25 08:55:17 +0000",
-      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:mountains": "2019-08-23 06:46:15 +0000",
+      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:taiga": "2019-08-24 07:50:40 +0000",
       "minecraft:snowy_tundra": "2019-08-23 06:49:53 +0000",
       "minecraft:taiga_hills": "2019-08-25 08:46:34 +0000",
       "minecraft:frozen_river": "2019-08-25 08:54:16 +0000",
       "minecraft:deep_frozen_ocean": "2019-08-24 13:47:34 +0000",
       "minecraft:birch_forest": "2019-08-25 09:32:33 +0000",
+      "minecraft:warm_ocean": "2019-08-26 08:03:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-25 08:29:34 +0000",
       "minecraft:badlands": "2019-08-23 06:44:46 +0000",
       "minecraft:beach": "2019-08-24 07:36:54 +0000",
       "minecraft:dark_forest": "2019-08-24 13:59:56 +0000",
-      "minecraft:river": "2019-08-24 07:34:32 +0000",
       "minecraft:lukewarm_ocean": "2019-08-25 08:31:40 +0000",
+      "minecraft:river": "2019-08-24 07:34:32 +0000",
       "minecraft:snowy_taiga": "2019-08-25 08:58:47 +0000",
       "minecraft:birch_forest_hills": "2019-08-25 09:34:03 +0000",
       "minecraft:wooded_mountains": "2019-08-23 07:27:00 +0000",
       "minecraft:wooded_hills": "2019-08-24 07:34:34 +0000",
-      "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
       "minecraft:stone_shore": "2019-08-25 08:38:16 +0000",
+      "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
       "minecraft:swamp": "2019-08-24 13:56:55 +0000",
       "minecraft:savanna": "2019-08-24 11:24:09 +0000",
       "minecraft:plains": "2019-08-24 07:42:01 +0000"
