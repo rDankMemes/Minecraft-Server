@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-26 11:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-08-20 06:43:11 +0000"
@@ -471,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-26 11:42:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-21 09:58:41 +0000"
@@ -522,6 +534,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-24 04:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-26 11:42:20 +0000"
     },
     "done": true
   },
@@ -612,6 +630,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 07:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-08-26 09:48:32 +0000"
     },
     "done": true
   },
@@ -832,6 +856,7 @@
       "minecraft:phantom": "2019-08-24 07:23:52 +0000",
       "minecraft:zombie_pigman": "2019-08-24 07:13:31 +0000",
       "minecraft:ghast": "2019-08-24 12:04:55 +0000",
+      "minecraft:guardian": "2019-08-26 11:14:55 +0000",
       "minecraft:silverfish": "2019-08-24 06:22:25 +0000",
       "minecraft:enderman": "2019-08-26 08:36:26 +0000",
       "minecraft:spider": "2019-08-24 07:26:55 +0000",
@@ -1356,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-26 11:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-24 12:23:03 +0000"
@@ -1453,6 +1484,7 @@
       "minecraft:mushroom_fields": "2019-08-21 03:44:57 +0000",
       "minecraft:forest": "2019-08-21 05:32:49 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:43:20 +0000",
+      "minecraft:desert": "2019-08-26 11:56:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-25 15:37:05 +0000",
       "minecraft:wooded_mountains": "2019-08-20 06:41:31 +0000",
       "minecraft:plains": "2019-08-20 06:41:55 +0000"
@@ -1666,6 +1698,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 15:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-26 11:14:56 +0000"
     },
     "done": true
   },

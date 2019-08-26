@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-26 09:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-08-19 20:46:27 +0000"
@@ -415,6 +421,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-08-26 09:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-08-19 20:47:06 +0000"
@@ -529,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-26 09:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-19 20:44:14 +0000"
@@ -586,6 +604,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_at_least_9_emerald": "2019-08-21 06:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-26 09:45:26 +0000"
     },
     "done": true
   },
@@ -670,6 +694,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-21 06:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-08-26 09:45:04 +0000"
     },
     "done": true
   },
@@ -868,6 +898,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-08-21 03:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-08-26 09:43:39 +0000"
     },
     "done": true
   },
@@ -1331,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-08-26 09:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-08-19 20:54:17 +0000"
@@ -1493,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-08-26 09:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2019-08-21 10:41:45 +0000"
@@ -1604,6 +1652,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 20:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-26 09:45:24 +0000"
     },
     "done": true
   },
@@ -1742,6 +1796,7 @@
       "minecraft:desert": "2019-08-19 20:43:07 +0000",
       "minecraft:frozen_river": "2019-08-21 03:54:49 +0000",
       "minecraft:jungle": "2019-08-21 03:52:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-08-26 09:45:14 +0000",
       "minecraft:badlands": "2019-08-19 20:45:46 +0000",
       "minecraft:dark_forest": "2019-08-21 08:15:30 +0000",
       "minecraft:snowy_taiga": "2019-08-21 08:18:06 +0000",
@@ -2012,6 +2067,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-22 07:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-26 09:45:24 +0000"
     },
     "done": true
   },
