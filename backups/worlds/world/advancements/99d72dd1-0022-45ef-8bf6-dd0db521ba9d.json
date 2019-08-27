@@ -599,6 +599,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-08-27 13:45:42 +0000",
+      "minecraft:polar_bear": "2019-08-27 16:21:36 +0000",
       "minecraft:skeleton": "2019-08-19 23:25:05 +0000",
       "minecraft:phantom": "2019-08-20 13:37:53 +0000",
       "minecraft:witch": "2019-08-21 13:15:22 +0000",
