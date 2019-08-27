@@ -642,8 +642,8 @@
       "minecraft:enderman": "2019-08-25 05:22:17 +0000",
       "minecraft:spider": "2019-08-20 08:06:48 +0000",
       "minecraft:zombie": "2019-08-20 08:25:50 +0000",
-      "minecraft:creeper": "2019-08-21 08:14:57 +0000",
-      "minecraft:drowned": "2019-08-20 07:30:26 +0000"
+      "minecraft:drowned": "2019-08-20 07:30:26 +0000",
+      "minecraft:creeper": "2019-08-21 08:14:57 +0000"
     },
     "done": false
   },
@@ -656,6 +656,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-08-21 08:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-27 10:17:32 +0000"
     },
     "done": true
   },

@@ -943,8 +943,8 @@
       "minecraft:phantom": "2019-08-22 10:45:06 +0000",
       "minecraft:witch": "2019-08-24 08:05:27 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:enderman": "2019-08-22 14:15:34 +0000",
+      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
       "minecraft:creeper": "2019-08-22 18:26:20 +0000"
@@ -1255,6 +1255,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-23 15:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-08-27 11:25:08 +0000"
     },
     "done": true
   },
@@ -1669,13 +1675,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:forest": "2019-08-22 11:45:50 +0000",
+      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
       "minecraft:frozen_river": "2019-08-24 10:10:20 +0000",
       "minecraft:snowy_taiga": "2019-08-24 08:23:43 +0000",
       "minecraft:wooded_mountains": "2019-08-22 13:56:13 +0000",
+      "minecraft:swamp": "2019-08-27 10:45:28 +0000",
       "minecraft:plains": "2019-08-22 12:53:13 +0000"
     },
     "done": false
@@ -1845,6 +1852,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-23 15:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-08-27 11:25:08 +0000"
     },
     "done": true
   },
