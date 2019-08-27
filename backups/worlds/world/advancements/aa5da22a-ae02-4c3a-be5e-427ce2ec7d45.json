@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-27 06:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-08-19 23:07:59 +0000"
@@ -1036,6 +1042,7 @@
       "minecraft:skeleton": "2019-08-20 00:41:57 +0000",
       "minecraft:phantom": "2019-08-22 08:08:21 +0000",
       "minecraft:shulker": "2019-08-21 02:03:04 +0000",
+      "minecraft:guardian": "2019-08-27 06:50:48 +0000",
       "minecraft:stray": "2019-08-24 06:08:37 +0000",
       "minecraft:silverfish": "2019-08-19 23:25:43 +0000",
       "minecraft:enderman": "2019-08-20 04:18:16 +0000",
@@ -1719,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-27 06:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-08-19 23:59:54 +0000"
@@ -1860,7 +1873,10 @@
       "minecraft:giant_tree_taiga": "2019-08-21 06:20:12 +0000",
       "minecraft:snowy_tundra": "2019-08-19 22:57:11 +0000",
       "minecraft:desert": "2019-08-22 23:56:03 +0000",
+      "minecraft:frozen_river": "2019-08-27 06:51:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-08-27 06:48:57 +0000",
       "minecraft:badlands": "2019-08-20 04:42:28 +0000",
+      "minecraft:dark_forest": "2019-08-27 07:00:18 +0000",
       "minecraft:snowy_taiga": "2019-08-23 06:59:38 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:15:35 +0000",
       "minecraft:swamp": "2019-08-21 04:59:06 +0000",
@@ -2196,6 +2212,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 08:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-27 06:50:55 +0000"
     },
     "done": true
   },
