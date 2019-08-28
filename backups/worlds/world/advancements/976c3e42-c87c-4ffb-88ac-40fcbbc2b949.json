@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-08-28 14:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-08-20 06:39:04 +0000"
@@ -425,7 +431,8 @@
       "melon_slice": "2019-08-21 17:37:02 +0000",
       "cooked_chicken": "2019-08-19 19:11:15 +0000",
       "mushroom_stew": "2019-08-21 21:44:25 +0000",
-      "cod": "2019-08-20 11:42:59 +0000"
+      "cod": "2019-08-20 11:42:59 +0000",
+      "cooked_salmon": "2019-08-28 14:11:19 +0000"
     },
     "done": false
   },
@@ -732,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-08-28 14:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-23 15:35:47 +0000"
@@ -997,8 +1010,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
-      "minecraft:drowned": "2019-08-20 07:23:14 +0000",
-      "minecraft:creeper": "2019-08-20 08:36:01 +0000"
+      "minecraft:creeper": "2019-08-20 08:36:01 +0000",
+      "minecraft:drowned": "2019-08-20 07:23:14 +0000"
     },
     "done": false
   },
@@ -1755,8 +1768,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:50:22 +0000",
-      "minecraft:forest": "2019-08-19 17:40:56 +0000",
       "minecraft:mountains": "2019-08-19 17:50:18 +0000",
+      "minecraft:forest": "2019-08-19 17:40:56 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 18:25:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 06:47:52 +0000",
       "minecraft:desert": "2019-08-20 18:48:39 +0000",

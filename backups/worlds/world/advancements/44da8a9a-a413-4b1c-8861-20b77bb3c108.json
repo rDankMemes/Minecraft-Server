@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-08-28 13:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2019-08-22 17:06:44 +0000"
@@ -828,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-08-28 13:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-08-23 16:13:11 +0000"
@@ -955,8 +967,8 @@
       "minecraft:phantom": "2019-08-22 10:45:06 +0000",
       "minecraft:witch": "2019-08-24 08:05:27 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:enderman": "2019-08-22 14:15:34 +0000",
+      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
       "minecraft:creeper": "2019-08-22 18:26:20 +0000"
@@ -1020,6 +1032,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-08-24 08:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2019-08-28 13:51:35 +0000"
     },
     "done": true
   },
@@ -1348,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-08-28 13:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-08-20 19:27:41 +0000"
@@ -1570,6 +1594,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-08-28 13:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-24 08:22:10 +0000"
@@ -1687,8 +1717,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:forest": "2019-08-22 11:45:50 +0000",
+      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:giant_tree_taiga": "2019-08-28 07:44:35 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
