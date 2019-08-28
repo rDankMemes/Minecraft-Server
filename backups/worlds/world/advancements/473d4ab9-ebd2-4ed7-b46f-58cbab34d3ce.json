@@ -419,6 +419,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-08-28 07:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-06-24 01:21:20 +0000"
@@ -668,6 +674,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-05-21 04:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-08-28 07:25:32 +0000"
     },
     "done": true
   },
@@ -1725,10 +1737,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
       "minecraft:jungle_edge": "2019-05-21 01:30:37 +0000",
-      "minecraft:mountains": "2019-08-17 06:00:48 +0000",
+      "minecraft:cold_ocean": "2019-08-19 22:20:59 +0000",
       "minecraft:forest": "2019-05-19 05:31:45 +0000",
+      "minecraft:mountains": "2019-08-17 06:00:48 +0000",
       "minecraft:desert_hills": "2019-05-21 01:31:07 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 00:04:16 +0000",
       "minecraft:snowy_tundra": "2019-08-20 23:38:31 +0000",
@@ -1742,8 +1754,8 @@
       "minecraft:badlands": "2019-08-21 23:56:36 +0000",
       "minecraft:beach": "2019-05-19 05:30:19 +0000",
       "minecraft:dark_forest": "2019-08-19 22:26:41 +0000",
-      "minecraft:lukewarm_ocean": "2019-08-26 09:49:04 +0000",
       "minecraft:river": "2019-05-19 05:30:30 +0000",
+      "minecraft:lukewarm_ocean": "2019-08-26 09:49:04 +0000",
       "minecraft:snowy_taiga": "2019-08-20 23:32:12 +0000",
       "minecraft:wooded_mountains": "2019-08-17 07:20:41 +0000",
       "minecraft:swamp": "2019-08-22 02:14:16 +0000",
