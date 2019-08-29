@@ -720,6 +720,7 @@
       "minecraft:blaze": "2019-08-25 12:32:14 +0000",
       "minecraft:skeleton": "2019-08-24 13:31:36 +0000",
       "minecraft:phantom": "2019-08-24 13:35:25 +0000",
+      "minecraft:witch": "2019-08-29 09:14:02 +0000",
       "minecraft:ghast": "2019-08-25 16:10:29 +0000",
       "minecraft:silverfish": "2019-08-24 13:56:52 +0000",
       "minecraft:enderman": "2019-08-25 16:00:42 +0000",
@@ -1380,6 +1381,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2019-08-25 10:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-08-29 09:14:14 +0000"
     },
     "done": true
   },

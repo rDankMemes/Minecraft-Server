@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2019-08-29 10:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-19 17:46:45 +0000"
@@ -427,12 +433,14 @@
       "potato": "2019-08-19 21:00:23 +0000",
       "cooked_cod": "2019-08-19 20:49:31 +0000",
       "mutton": "2019-08-19 17:42:12 +0000",
+      "bread": "2019-08-29 10:26:32 +0000",
       "salmon": "2019-08-19 21:17:29 +0000",
       "melon_slice": "2019-08-21 17:37:02 +0000",
       "cooked_chicken": "2019-08-19 19:11:15 +0000",
       "mushroom_stew": "2019-08-21 21:44:25 +0000",
       "cod": "2019-08-20 11:42:59 +0000",
-      "cooked_salmon": "2019-08-28 14:11:19 +0000"
+      "cooked_salmon": "2019-08-28 14:11:19 +0000",
+      "carrot": "2019-08-29 09:58:52 +0000"
     },
     "done": false
   },
@@ -541,6 +549,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2019-08-29 10:29:50 +0000"
     },
     "done": true
   },
@@ -877,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2019-08-29 10:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2019-08-19 20:45:07 +0000"
@@ -1010,8 +1030,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
-      "minecraft:creeper": "2019-08-20 08:36:01 +0000",
-      "minecraft:drowned": "2019-08-20 07:23:14 +0000"
+      "minecraft:drowned": "2019-08-20 07:23:14 +0000",
+      "minecraft:creeper": "2019-08-20 08:36:01 +0000"
     },
     "done": false
   },
@@ -1363,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2019-08-29 10:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 14:06:34 +0000"
@@ -1558,6 +1584,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2019-08-20 12:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2019-08-29 10:29:26 +0000"
     },
     "done": true
   },
@@ -1768,8 +1800,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:50:22 +0000",
-      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:forest": "2019-08-19 17:40:56 +0000",
+      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 18:25:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 06:47:52 +0000",
       "minecraft:desert": "2019-08-20 18:48:39 +0000",
@@ -1836,6 +1868,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-22 19:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2019-08-29 10:29:26 +0000"
     },
     "done": true
   },
