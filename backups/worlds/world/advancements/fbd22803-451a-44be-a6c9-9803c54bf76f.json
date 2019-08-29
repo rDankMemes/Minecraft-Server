@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-08-29 20:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-08-21 21:39:30 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-08-19 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-29 20:32:30 +0000"
     },
     "done": true
   },
@@ -939,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-29 20:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-08-21 21:10:02 +0000"
@@ -1386,9 +1404,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:05:55 +0000",
-      "minecraft:mountains": "2019-08-21 21:13:17 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 18:04:10 +0000",
       "minecraft:forest": "2019-08-23 15:50:28 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 18:04:10 +0000",
+      "minecraft:mountains": "2019-08-21 21:13:17 +0000",
       "minecraft:giant_tree_taiga": "2019-08-25 18:42:38 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:06:54 +0000",
       "minecraft:desert": "2019-08-19 18:01:52 +0000",
@@ -1513,6 +1531,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-08-22 15:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-08-29 20:32:30 +0000"
     },
     "done": true
   },

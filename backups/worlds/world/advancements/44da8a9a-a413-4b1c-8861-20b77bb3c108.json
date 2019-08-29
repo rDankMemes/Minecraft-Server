@@ -398,6 +398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-08-29 20:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-21 19:25:12 +0000"
@@ -418,6 +424,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2019-08-29 19:07:27 +0000",
       "baked_potato": "2019-08-20 10:01:44 +0000",
       "porkchop": "2019-08-24 08:10:03 +0000",
       "bread": "2019-08-23 12:25:37 +0000",
@@ -623,6 +630,12 @@
       "has_gravel": "2019-08-20 10:01:10 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2019-08-29 19:37:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -870,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-29 20:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-23 15:41:54 +0000"
@@ -973,12 +992,12 @@
       "minecraft:phantom": "2019-08-22 10:45:06 +0000",
       "minecraft:witch": "2019-08-24 08:05:27 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:enderman": "2019-08-22 14:15:34 +0000",
+      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
-      "minecraft:creeper": "2019-08-22 18:26:20 +0000",
-      "minecraft:drowned": "2019-08-29 16:14:49 +0000"
+      "minecraft:drowned": "2019-08-29 16:14:49 +0000",
+      "minecraft:creeper": "2019-08-22 18:26:20 +0000"
     },
     "done": false
   },
@@ -1730,12 +1749,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:forest": "2019-08-22 11:45:50 +0000",
+      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:giant_tree_taiga": "2019-08-28 07:44:35 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
       "minecraft:frozen_river": "2019-08-24 10:10:20 +0000",
+      "minecraft:badlands": "2019-08-29 18:49:15 +0000",
+      "minecraft:dark_forest": "2019-08-29 20:03:21 +0000",
       "minecraft:snowy_taiga": "2019-08-24 08:23:43 +0000",
       "minecraft:wooded_mountains": "2019-08-22 13:56:13 +0000",
       "minecraft:swamp": "2019-08-27 10:45:28 +0000",
@@ -1869,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-08-29 19:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 10:00:06 +0000"
@@ -1944,6 +1971,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-20 09:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-08-29 19:37:21 +0000"
     },
     "done": true
   },

@@ -676,6 +676,7 @@
     "criteria": {
       "minecraft:cow": "2019-08-23 18:07:27 +0000",
       "minecraft:chicken": "2019-08-20 06:49:50 +0000",
+      "minecraft:wolf": "2019-08-29 20:30:44 +0000",
       "minecraft:turtle": "2019-08-20 18:00:03 +0000",
       "minecraft:sheep": "2019-08-23 18:07:12 +0000"
     },
@@ -1042,8 +1043,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
-      "minecraft:creeper": "2019-08-20 08:36:01 +0000",
-      "minecraft:drowned": "2019-08-20 07:23:14 +0000"
+      "minecraft:drowned": "2019-08-20 07:23:14 +0000",
+      "minecraft:creeper": "2019-08-20 08:36:01 +0000"
     },
     "done": false
   },
@@ -1824,8 +1825,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:50:22 +0000",
-      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:forest": "2019-08-19 17:40:56 +0000",
+      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 18:25:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 06:47:52 +0000",
       "minecraft:desert": "2019-08-20 18:48:39 +0000",
