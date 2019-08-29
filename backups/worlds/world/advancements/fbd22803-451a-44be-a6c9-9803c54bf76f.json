@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-08-29 17:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2019-08-22 15:17:23 +0000"
@@ -692,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-08-29 17:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2019-08-21 21:36:44 +0000"
@@ -771,7 +783,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:11 +0000",
       "minecraft:spider": "2019-08-22 15:27:16 +0000",
       "minecraft:zombie": "2019-08-25 19:26:14 +0000",
-      "minecraft:creeper": "2019-08-22 15:30:52 +0000"
+      "minecraft:creeper": "2019-08-22 15:30:52 +0000",
+      "minecraft:zombie_villager": "2019-08-29 17:56:39 +0000"
     },
     "done": false
   },
@@ -1058,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-08-29 17:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-08-19 18:07:17 +0000"
@@ -1163,6 +1182,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-22 15:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-08-29 17:41:46 +0000"
     },
     "done": true
   },
@@ -1361,9 +1386,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:05:55 +0000",
-      "minecraft:forest": "2019-08-23 15:50:28 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 18:04:10 +0000",
       "minecraft:mountains": "2019-08-21 21:13:17 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 18:04:10 +0000",
+      "minecraft:forest": "2019-08-23 15:50:28 +0000",
       "minecraft:giant_tree_taiga": "2019-08-25 18:42:38 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:06:54 +0000",
       "minecraft:desert": "2019-08-19 18:01:52 +0000",

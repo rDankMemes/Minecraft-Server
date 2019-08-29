@@ -344,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-08-29 16:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2019-08-19 17:30:18 +0000"
@@ -1136,6 +1142,7 @@
       "minecraft:cold_ocean": "2019-08-19 19:43:43 +0000",
       "minecraft:forest": "2019-08-19 18:48:23 +0000",
       "minecraft:mountains": "2019-08-19 18:46:53 +0000",
+      "minecraft:mushroom_fields": "2019-08-29 17:49:07 +0000",
       "minecraft:taiga": "2019-08-19 18:55:28 +0000",
       "minecraft:desert_hills": "2019-08-19 20:10:02 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 16:58:34 +0000",
