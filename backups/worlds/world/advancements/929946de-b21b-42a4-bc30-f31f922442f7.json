@@ -990,12 +990,12 @@
       "minecraft:skeleton": "2019-08-20 11:29:29 +0000",
       "minecraft:phantom": "2019-08-20 13:35:00 +0000",
       "minecraft:shulker": "2019-08-20 20:59:26 +0000",
-      "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
       "minecraft:enderman": "2019-08-20 20:16:22 +0000",
+      "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
       "minecraft:spider": "2019-08-19 21:47:59 +0000",
       "minecraft:zombie": "2019-08-20 11:30:33 +0000",
-      "minecraft:creeper": "2019-08-20 11:30:43 +0000",
-      "minecraft:drowned": "2019-08-19 18:26:41 +0000"
+      "minecraft:drowned": "2019-08-19 18:26:41 +0000",
+      "minecraft:creeper": "2019-08-20 11:30:43 +0000"
     },
     "done": false
   },
@@ -1032,6 +1032,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 20:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-30 16:20:36 +0000"
     },
     "done": true
   },
@@ -1732,6 +1738,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:36:18 +0000",
       "minecraft:mountains": "2019-08-19 18:16:44 +0000",
+      "minecraft:forest": "2019-08-30 16:19:04 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
       "minecraft:desert": "2019-08-20 11:28:23 +0000",
       "minecraft:wooded_mountains": "2019-08-19 20:51:34 +0000",
@@ -2031,6 +2038,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 19:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-30 16:11:20 +0000"
     },
     "done": true
   },
