@@ -625,6 +625,7 @@
       "minecraft:witch": "2019-08-31 10:39:39 +0000",
       "minecraft:wither_skeleton": "2019-08-22 19:02:38 +0000",
       "minecraft:zombie_pigman": "2019-08-28 20:19:15 +0000",
+      "minecraft:husk": "2019-08-31 18:28:21 +0000",
       "minecraft:ghast": "2019-08-22 19:11:53 +0000",
       "minecraft:shulker": "2019-08-22 16:39:52 +0000",
       "minecraft:cave_spider": "2019-08-21 17:49:34 +0000",
@@ -1087,14 +1088,18 @@
       "minecraft:mushroom_fields": "2019-08-19 19:15:17 +0000",
       "minecraft:mountains": "2019-08-19 18:49:05 +0000",
       "minecraft:taiga": "2019-08-31 13:16:24 +0000",
+      "minecraft:desert_hills": "2019-08-31 18:34:50 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 21:29:21 +0000",
+      "minecraft:deep_cold_ocean": "2019-08-31 19:30:06 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:48:50 +0000",
       "minecraft:desert": "2019-08-30 21:06:29 +0000",
       "minecraft:frozen_river": "2019-08-31 11:27:54 +0000",
+      "minecraft:deep_frozen_ocean": "2019-08-31 19:29:51 +0000",
       "minecraft:jungle": "2019-08-25 12:01:54 +0000",
       "minecraft:warm_ocean": "2019-08-31 17:52:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-08-31 17:48:33 +0000",
       "minecraft:badlands": "2019-08-30 21:15:05 +0000",
+      "minecraft:savanna_plateau": "2019-08-31 19:19:02 +0000",
       "minecraft:beach": "2019-08-31 13:12:51 +0000",
       "minecraft:dark_forest": "2019-08-24 14:16:04 +0000",
       "minecraft:river": "2019-08-30 22:06:47 +0000",
@@ -1104,6 +1109,7 @@
       "minecraft:wooded_hills": "2019-08-30 22:06:38 +0000",
       "minecraft:stone_shore": "2019-08-31 12:58:35 +0000",
       "minecraft:swamp": "2019-08-31 13:19:46 +0000",
+      "minecraft:savanna": "2019-08-31 19:11:51 +0000",
       "minecraft:plains": "2019-08-20 16:08:15 +0000"
     },
     "done": false
@@ -2258,6 +2264,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-19 19:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-08-31 18:13:26 +0000"
     },
     "done": true
   },
