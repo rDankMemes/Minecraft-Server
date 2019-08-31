@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-31 12:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-31 11:37:57 +0000"
@@ -414,6 +420,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-08-31 12:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-19 20:11:28 +0000"
@@ -645,6 +657,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2019-08-21 16:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-08-31 12:40:55 +0000"
     },
     "done": true
   },
@@ -952,6 +970,7 @@
       "minecraft:ghast": "2019-08-21 17:17:25 +0000",
       "minecraft:shulker": "2019-08-21 16:40:31 +0000",
       "minecraft:cave_spider": "2019-08-30 20:28:01 +0000",
+      "minecraft:guardian": "2019-08-31 12:06:28 +0000",
       "minecraft:stray": "2019-08-30 21:01:34 +0000",
       "minecraft:enderman": "2019-08-20 15:40:26 +0000",
       "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
@@ -1056,6 +1075,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-08-19 20:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-31 12:26:53 +0000"
     },
     "done": true
   },
@@ -1503,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-08-31 12:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 20:20:40 +0000"
@@ -1620,6 +1651,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 21:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-31 12:06:29 +0000"
     },
     "done": true
   },
@@ -1928,6 +1965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-31 12:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 16:25:56 +0000"
@@ -2009,6 +2052,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-08-31 12:06:29 +0000"
     },
     "done": true
   },

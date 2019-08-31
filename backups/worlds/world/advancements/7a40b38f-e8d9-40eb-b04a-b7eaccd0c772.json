@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-08-31 11:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-16 18:22:29 +0000"
@@ -1586,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-08-31 11:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 18:17:28 +0000"
@@ -1877,6 +1889,7 @@
       "minecraft:birch_forest_hills": "2019-08-19 19:05:09 +0000",
       "minecraft:wooded_mountains": "2019-08-16 17:29:23 +0000",
       "minecraft:wooded_hills": "2019-08-20 18:12:14 +0000",
+      "minecraft:swamp": "2019-08-31 12:04:27 +0000",
       "minecraft:plains": "2019-06-03 17:15:44 +0000"
     },
     "done": false

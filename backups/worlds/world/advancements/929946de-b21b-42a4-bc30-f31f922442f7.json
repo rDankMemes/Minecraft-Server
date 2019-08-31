@@ -530,13 +530,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 18:27:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 18:27:14 +0000"
     },
@@ -990,12 +990,12 @@
       "minecraft:skeleton": "2019-08-20 11:29:29 +0000",
       "minecraft:phantom": "2019-08-20 13:35:00 +0000",
       "minecraft:shulker": "2019-08-20 20:59:26 +0000",
-      "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
+      "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:spider": "2019-08-19 21:47:59 +0000",
       "minecraft:zombie": "2019-08-20 11:30:33 +0000",
-      "minecraft:drowned": "2019-08-19 18:26:41 +0000",
-      "minecraft:creeper": "2019-08-20 11:30:43 +0000"
+      "minecraft:creeper": "2019-08-20 11:30:43 +0000",
+      "minecraft:drowned": "2019-08-19 18:26:41 +0000"
     },
     "done": false
   },
@@ -1674,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-31 14:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:drowned": "2019-08-19 18:26:41 +0000"
@@ -1737,8 +1743,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:36:18 +0000",
-      "minecraft:mountains": "2019-08-19 18:16:44 +0000",
       "minecraft:forest": "2019-08-30 16:19:04 +0000",
+      "minecraft:mountains": "2019-08-19 18:16:44 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
       "minecraft:desert": "2019-08-20 11:28:23 +0000",
       "minecraft:wooded_mountains": "2019-08-19 20:51:34 +0000",
