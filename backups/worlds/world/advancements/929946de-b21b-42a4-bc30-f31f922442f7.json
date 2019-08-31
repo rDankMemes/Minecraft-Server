@@ -1512,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-31 17:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2019-08-20 21:51:15 +0000"
@@ -1701,6 +1707,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_the_recipe": "2019-08-19 18:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-31 17:28:47 +0000"
     },
     "done": true
   },

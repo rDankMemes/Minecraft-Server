@@ -248,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-08-31 16:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-08-24 18:28:27 +0000"
@@ -320,9 +326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2019-08-31 16:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2019-08-20 10:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-31 16:41:02 +0000"
     },
     "done": true
   },
@@ -546,12 +564,13 @@
       "minecraft:wither_skeleton": "2019-08-25 09:47:33 +0000",
       "minecraft:ghast": "2019-08-23 12:58:05 +0000",
       "minecraft:shulker": "2019-08-22 17:53:40 +0000",
-      "minecraft:silverfish": "2019-08-20 17:51:33 +0000",
+      "minecraft:guardian": "2019-08-31 16:34:07 +0000",
       "minecraft:enderman": "2019-08-20 10:14:40 +0000",
+      "minecraft:silverfish": "2019-08-20 17:51:33 +0000",
       "minecraft:spider": "2019-08-20 10:11:09 +0000",
       "minecraft:zombie": "2019-08-20 09:45:43 +0000",
-      "minecraft:drowned": "2019-08-20 18:25:09 +0000",
-      "minecraft:creeper": "2019-08-20 10:13:15 +0000"
+      "minecraft:creeper": "2019-08-20 10:13:15 +0000",
+      "minecraft:drowned": "2019-08-20 18:25:09 +0000"
     },
     "done": false
   },
@@ -594,6 +613,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 10:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-08-31 14:58:52 +0000"
     },
     "done": true
   },
@@ -954,12 +979,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:27:42 +0000",
-      "minecraft:forest": "2019-08-20 11:47:02 +0000",
       "minecraft:mountains": "2019-08-20 09:27:34 +0000",
+      "minecraft:forest": "2019-08-20 11:47:02 +0000",
       "minecraft:snowy_tundra": "2019-08-20 18:21:17 +0000",
       "minecraft:desert": "2019-08-20 09:27:14 +0000",
       "minecraft:warm_ocean": "2019-08-20 09:20:18 +0000",
       "minecraft:badlands": "2019-08-20 09:19:53 +0000",
+      "minecraft:dark_forest": "2019-08-31 14:56:32 +0000",
+      "minecraft:river": "2019-08-31 14:56:37 +0000",
       "minecraft:wooded_mountains": "2019-08-20 09:47:53 +0000",
       "minecraft:swamp": "2019-08-31 14:53:53 +0000",
       "minecraft:savanna": "2019-08-22 11:09:01 +0000",
@@ -1036,6 +1063,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-08-21 13:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-31 14:58:18 +0000"
     },
     "done": true
   },
@@ -1349,6 +1382,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2019-08-23 14:09:13 +0000",
+      "cooked_beef": "2019-08-31 16:59:34 +0000",
       "beef": "2019-08-23 12:55:13 +0000",
       "baked_potato": "2019-08-24 09:21:01 +0000",
       "tropical_fish": "2019-08-20 09:24:10 +0000",
@@ -1439,6 +1473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-08-31 16:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-20 09:56:38 +0000"
@@ -1522,6 +1562,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-21 12:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-08-31 16:32:32 +0000"
     },
     "done": true
   },
@@ -1741,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-31 16:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-08-20 12:06:52 +0000"
@@ -1816,6 +1868,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-28 13:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-31 14:58:33 +0000"
     },
     "done": true
   },
@@ -2167,6 +2225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2019-08-31 14:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2019-08-20 09:44:47 +0000"
@@ -2248,6 +2312,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2019-08-22 17:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2019-08-31 16:40:26 +0000"
     },
     "done": true
   },

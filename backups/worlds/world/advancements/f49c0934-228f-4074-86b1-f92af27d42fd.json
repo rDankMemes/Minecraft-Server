@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-08-31 15:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-08-20 14:30:10 +0000"
@@ -397,6 +403,7 @@
       "mutton": "2019-08-25 17:13:56 +0000",
       "bread": "2019-08-20 14:47:23 +0000",
       "rotten_flesh": "2019-08-25 17:09:38 +0000",
+      "cooked_salmon": "2019-08-31 15:30:54 +0000",
       "carrot": "2019-08-20 14:27:15 +0000"
     },
     "done": false
@@ -791,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-08-31 15:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 14:34:45 +0000"
@@ -920,6 +933,7 @@
       "minecraft:enderman": "2019-08-20 15:29:07 +0000",
       "minecraft:stray": "2019-08-20 14:34:06 +0000",
       "minecraft:silverfish": "2019-08-21 12:57:05 +0000",
+      "minecraft:magma_cube": "2019-08-31 15:39:31 +0000",
       "minecraft:spider": "2019-08-20 14:27:26 +0000",
       "minecraft:zombie": "2019-08-20 14:56:00 +0000",
       "minecraft:creeper": "2019-08-20 14:55:28 +0000"
@@ -1256,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-08-31 15:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-22 11:16:58 +0000"
@@ -1388,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-08-31 16:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-08-27 10:21:28 +0000"
@@ -1445,6 +1471,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-08-20 14:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-08-31 15:47:47 +0000"
     },
     "done": true
   },
