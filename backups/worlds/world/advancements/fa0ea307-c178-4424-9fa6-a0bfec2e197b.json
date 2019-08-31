@@ -490,13 +490,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 22:41:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 22:41:50 +0000"
     },
@@ -694,15 +694,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-08-25 21:39:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-08-25 21:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-08-25 21:39:05 +0000"
     },
     "done": true
   },
@@ -924,8 +924,8 @@
       "minecraft:magma_cube": "2019-08-22 22:13:40 +0000",
       "minecraft:spider": "2019-08-20 22:11:05 +0000",
       "minecraft:zombie": "2019-08-20 22:09:57 +0000",
-      "minecraft:drowned": "2019-08-20 22:41:47 +0000",
-      "minecraft:creeper": "2019-08-20 22:37:03 +0000"
+      "minecraft:creeper": "2019-08-20 22:37:03 +0000",
+      "minecraft:drowned": "2019-08-20 22:41:47 +0000"
     },
     "done": false
   },
@@ -1652,9 +1652,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-25 21:24:43 +0000",
-      "minecraft:mountains": "2019-08-25 16:13:03 +0000",
-      "minecraft:forest": "2019-08-21 00:47:14 +0000",
       "minecraft:mushroom_fields": "2019-08-25 15:13:22 +0000",
+      "minecraft:forest": "2019-08-21 00:47:14 +0000",
+      "minecraft:mountains": "2019-08-25 16:13:03 +0000",
       "minecraft:snowy_tundra": "2019-08-25 21:40:01 +0000",
       "minecraft:desert": "2019-08-22 22:39:30 +0000",
       "minecraft:frozen_river": "2019-08-21 00:23:13 +0000",
@@ -1740,15 +1740,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-08-25 21:39:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-08-25 21:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-08-25 21:39:05 +0000"
     },
     "done": true
   },
