@@ -517,13 +517,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 20:57:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 20:57:55 +0000"
     },
@@ -994,9 +994,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-08-21 04:08:44 +0000",
+      "minecraft:guardian": "2019-08-31 07:58:10 +0000",
       "minecraft:zombie": "2019-08-21 04:03:37 +0000",
-      "minecraft:creeper": "2019-08-24 22:21:57 +0000",
-      "minecraft:drowned": "2019-08-21 07:15:43 +0000"
+      "minecraft:drowned": "2019-08-21 07:15:43 +0000",
+      "minecraft:creeper": "2019-08-24 22:21:57 +0000"
     },
     "done": false
   },
@@ -1790,8 +1791,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 21:03:41 +0000",
-      "minecraft:mountains": "2019-08-19 21:03:28 +0000",
       "minecraft:forest": "2019-08-21 08:34:16 +0000",
+      "minecraft:mountains": "2019-08-19 21:03:28 +0000",
       "minecraft:snowy_tundra": "2019-08-21 04:00:12 +0000",
       "minecraft:desert": "2019-08-19 20:43:07 +0000",
       "minecraft:frozen_river": "2019-08-21 03:54:49 +0000",
