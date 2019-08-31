@@ -341,13 +341,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 07:23:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 07:23:52 +0000"
     },
@@ -642,8 +642,8 @@
       "minecraft:enderman": "2019-08-25 05:22:17 +0000",
       "minecraft:spider": "2019-08-20 08:06:48 +0000",
       "minecraft:zombie": "2019-08-20 08:25:50 +0000",
-      "minecraft:drowned": "2019-08-20 07:30:26 +0000",
-      "minecraft:creeper": "2019-08-21 08:14:57 +0000"
+      "minecraft:creeper": "2019-08-21 08:14:57 +0000",
+      "minecraft:drowned": "2019-08-20 07:30:26 +0000"
     },
     "done": false
   },
