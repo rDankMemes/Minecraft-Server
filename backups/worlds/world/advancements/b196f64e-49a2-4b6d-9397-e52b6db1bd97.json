@@ -391,7 +391,8 @@
       "baked_potato": "2019-08-19 21:32:32 +0000",
       "golden_apple": "2019-08-21 11:31:09 +0000",
       "beetroot": "2019-08-19 21:31:23 +0000",
-      "cooked_rabbit": "2019-08-19 21:23:59 +0000"
+      "cooked_rabbit": "2019-08-19 21:23:59 +0000",
+      "cooked_chicken": "2019-08-30 21:32:59 +0000"
     },
     "done": false
   },
@@ -644,6 +645,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2019-08-20 10:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-08-30 21:40:48 +0000"
     },
     "done": true
   },
@@ -915,13 +922,14 @@
       "minecraft:ghast": "2019-08-21 17:17:25 +0000",
       "minecraft:shulker": "2019-08-21 16:40:31 +0000",
       "minecraft:cave_spider": "2019-08-30 20:28:01 +0000",
-      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
+      "minecraft:stray": "2019-08-30 21:01:34 +0000",
       "minecraft:enderman": "2019-08-20 15:40:26 +0000",
+      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
       "minecraft:magma_cube": "2019-08-21 17:19:31 +0000",
       "minecraft:spider": "2019-08-19 20:45:02 +0000",
       "minecraft:zombie": "2019-08-19 20:17:18 +0000",
-      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
-      "minecraft:creeper": "2019-08-19 20:32:50 +0000"
+      "minecraft:creeper": "2019-08-19 20:32:50 +0000",
+      "minecraft:drowned": "2019-08-20 10:43:27 +0000"
     },
     "done": false
   },
@@ -964,6 +972,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-19 20:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-30 22:16:41 +0000"
     },
     "done": true
   },
@@ -1678,8 +1692,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 21:03:33 +0000",
-      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
+      "minecraft:mushroom_fields": "2019-08-30 21:44:46 +0000",
       "minecraft:forest": "2019-08-20 10:06:58 +0000",
+      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:taiga": "2019-08-20 16:20:27 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 20:52:10 +0000",
       "minecraft:snowy_tundra": "2019-08-20 15:41:24 +0000",
@@ -1687,9 +1702,11 @@
       "minecraft:desert": "2019-08-19 20:52:15 +0000",
       "minecraft:jungle": "2019-08-20 20:51:16 +0000",
       "minecraft:badlands": "2019-08-19 20:59:34 +0000",
+      "minecraft:dark_forest": "2019-08-30 21:26:43 +0000",
       "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000",
+      "minecraft:wooded_hills": "2019-08-30 22:08:52 +0000",
       "minecraft:plains": "2019-08-20 16:19:38 +0000"
     },
     "done": false
