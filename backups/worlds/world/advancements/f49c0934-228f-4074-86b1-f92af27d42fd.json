@@ -403,6 +403,7 @@
       "mutton": "2019-08-25 17:13:56 +0000",
       "bread": "2019-08-20 14:47:23 +0000",
       "rotten_flesh": "2019-08-25 17:09:38 +0000",
+      "cooked_chicken": "2019-09-01 15:22:47 +0000",
       "cooked_salmon": "2019-08-31 15:30:54 +0000",
       "carrot": "2019-08-20 14:27:15 +0000"
     },
@@ -936,6 +937,7 @@
       "minecraft:magma_cube": "2019-08-31 15:39:31 +0000",
       "minecraft:spider": "2019-08-20 14:27:26 +0000",
       "minecraft:zombie": "2019-08-20 14:56:00 +0000",
+      "minecraft:drowned": "2019-09-01 16:18:22 +0000",
       "minecraft:creeper": "2019-08-20 14:55:28 +0000"
     },
     "done": false
@@ -1444,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-09-01 16:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 14:58:00 +0000"
@@ -1719,6 +1727,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-08-20 14:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-09-01 16:15:45 +0000"
     },
     "done": true
   },
