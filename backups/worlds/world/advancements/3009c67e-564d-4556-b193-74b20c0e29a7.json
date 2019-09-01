@@ -675,13 +675,13 @@
       "minecraft:ghast": "2019-08-17 03:55:17 +0000",
       "minecraft:shulker": "2019-07-10 03:27:47 +0000",
       "minecraft:guardian": "2019-06-24 05:27:47 +0000",
-      "minecraft:enderman": "2019-07-10 03:28:10 +0000",
       "minecraft:silverfish": "2019-08-24 03:59:29 +0000",
+      "minecraft:enderman": "2019-07-10 03:28:10 +0000",
       "minecraft:magma_cube": "2019-06-24 04:40:05 +0000",
       "minecraft:spider": "2019-08-21 04:30:30 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
-      "minecraft:creeper": "2019-05-19 06:05:16 +0000",
       "minecraft:drowned": "2019-08-17 00:50:40 +0000",
+      "minecraft:creeper": "2019-05-19 06:05:16 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:22 +0000",
       "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
@@ -1235,11 +1235,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-20 06:24:47 +0000",
       "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
-      "minecraft:mushroom_fields": "2019-08-20 06:26:28 +0000",
-      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:cold_ocean": "2019-08-20 06:24:47 +0000",
       "minecraft:forest": "2019-05-19 00:36:36 +0000",
+      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:mushroom_fields": "2019-08-20 06:26:28 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:08:06 +0000",
       "minecraft:snowy_tundra": "2019-08-19 04:25:50 +0000",
@@ -1435,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-09-01 01:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2019-05-18 23:23:45 +0000"
@@ -1531,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-01 02:19:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-19 05:17:22 +0000"
@@ -1606,6 +1618,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2019-08-27 07:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-01 02:19:16 +0000"
     },
     "done": true
   },
