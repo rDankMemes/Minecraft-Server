@@ -233,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-08-31 21:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-08-31 22:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-05-19 06:46:31 +0000"
@@ -663,13 +675,13 @@
       "minecraft:ghast": "2019-08-17 03:55:17 +0000",
       "minecraft:shulker": "2019-07-10 03:27:47 +0000",
       "minecraft:guardian": "2019-06-24 05:27:47 +0000",
-      "minecraft:silverfish": "2019-08-24 03:59:29 +0000",
       "minecraft:enderman": "2019-07-10 03:28:10 +0000",
+      "minecraft:silverfish": "2019-08-24 03:59:29 +0000",
       "minecraft:magma_cube": "2019-06-24 04:40:05 +0000",
       "minecraft:spider": "2019-08-21 04:30:30 +0000",
       "minecraft:zombie": "2019-05-19 06:05:19 +0000",
-      "minecraft:drowned": "2019-08-17 00:50:40 +0000",
       "minecraft:creeper": "2019-05-19 06:05:16 +0000",
+      "minecraft:drowned": "2019-08-17 00:50:40 +0000",
       "minecraft:zombie_villager": "2019-06-24 05:27:22 +0000",
       "minecraft:slime": "2019-06-23 22:04:22 +0000"
     },
@@ -1223,11 +1235,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
       "minecraft:cold_ocean": "2019-08-20 06:24:47 +0000",
-      "minecraft:forest": "2019-05-19 00:36:36 +0000",
-      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:jungle_edge": "2019-05-19 05:09:42 +0000",
       "minecraft:mushroom_fields": "2019-08-20 06:26:28 +0000",
+      "minecraft:mountains": "2019-08-16 22:03:10 +0000",
+      "minecraft:forest": "2019-05-19 00:36:36 +0000",
       "minecraft:desert_hills": "2019-05-19 05:08:12 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 06:08:06 +0000",
       "minecraft:snowy_tundra": "2019-08-19 04:25:50 +0000",
@@ -1252,6 +1264,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-16 22:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-08-31 21:37:16 +0000"
     },
     "done": true
   },
@@ -2842,6 +2860,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2019-08-22 06:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-08-31 21:37:16 +0000"
     },
     "done": true
   },
