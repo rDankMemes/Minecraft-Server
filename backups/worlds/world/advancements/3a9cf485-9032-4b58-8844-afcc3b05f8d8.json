@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2019-09-02 18:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-09-02 01:13:56 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2019-09-02 02:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2019-09-02 18:16:17 +0000"
     },
     "done": true
   },
@@ -279,7 +291,9 @@
     "criteria": {
       "cooked_porkchop": "2019-09-02 01:09:21 +0000",
       "cooked_cod": "2019-09-02 01:26:02 +0000",
+      "bread": "2019-09-02 18:23:58 +0000",
       "dried_kelp": "2019-09-02 01:26:34 +0000",
+      "cod": "2019-09-02 18:06:26 +0000",
       "cooked_salmon": "2019-09-02 17:49:40 +0000"
     },
     "done": false
@@ -299,6 +313,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-09-02 01:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-02 18:08:24 +0000"
     },
     "done": true
   },
@@ -798,11 +818,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-02 18:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:polar_bear": "2019-09-02 01:14:38 +0000",
+      "minecraft:phantom": "2019-09-02 18:07:52 +0000",
+      "minecraft:witch": "2019-09-02 18:08:23 +0000",
       "minecraft:stray": "2019-09-02 01:17:47 +0000",
       "minecraft:enderman": "2019-09-02 01:36:31 +0000",
+      "minecraft:spider": "2019-09-02 18:05:59 +0000",
       "minecraft:zombie": "2019-09-02 00:53:00 +0000",
       "minecraft:creeper": "2019-09-02 01:17:31 +0000"
     },
@@ -859,6 +888,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-09-02 17:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-02 18:18:23 +0000"
     },
     "done": true
   },
