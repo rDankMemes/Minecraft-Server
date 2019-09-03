@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-09-02 23:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-08-19 20:07:46 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-08-22 17:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-09-02 23:51:48 +0000"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-09-02 23:46:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:17:59 +0000"
@@ -251,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-09-02 23:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-22 17:17:08 +0000"
@@ -268,6 +292,7 @@
       "cooked_porkchop": "2019-08-19 20:22:49 +0000",
       "cooked_mutton": "2019-08-19 20:14:25 +0000",
       "cooked_beef": "2019-08-19 20:08:14 +0000",
+      "chorus_fruit": "2019-09-02 23:46:38 +0000",
       "rabbit": "2019-08-19 17:29:35 +0000"
     },
     "done": false
@@ -341,6 +366,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 20:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-09-02 23:51:57 +0000"
     },
     "done": true
   },
@@ -655,6 +686,7 @@
       "minecraft:blaze": "2019-08-23 00:09:05 +0000",
       "minecraft:skeleton": "2019-08-19 20:09:27 +0000",
       "minecraft:wither_skeleton": "2019-08-23 00:15:23 +0000",
+      "minecraft:enderman": "2019-09-02 23:46:21 +0000",
       "minecraft:magma_cube": "2019-08-23 00:11:41 +0000",
       "minecraft:spider": "2019-08-22 16:46:11 +0000",
       "minecraft:zombie": "2019-08-19 20:09:41 +0000",
@@ -809,6 +841,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-19 17:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-09-02 23:45:31 +0000"
     },
     "done": true
   },
@@ -1297,6 +1335,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-19 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-09-02 23:45:31 +0000"
     },
     "done": true
   },
