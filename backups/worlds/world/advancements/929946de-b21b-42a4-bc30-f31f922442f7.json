@@ -490,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-09-03 10:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-08-19 19:23:18 +0000"
@@ -1121,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-09-03 10:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2019-08-19 19:46:37 +0000",
@@ -1394,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-09-03 10:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-08-19 18:21:35 +0000"
@@ -1517,6 +1535,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 18:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-09-03 10:47:03 +0000"
     },
     "done": true
   },
@@ -1817,6 +1841,7 @@
       "minecraft:giant_tree_taiga": "2019-09-02 12:11:50 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
       "minecraft:desert": "2019-08-20 11:28:23 +0000",
+      "minecraft:dark_forest": "2019-09-03 10:41:55 +0000",
       "minecraft:wooded_mountains": "2019-08-19 20:51:34 +0000",
       "minecraft:savanna": "2019-08-22 22:37:19 +0000",
       "minecraft:plains": "2019-08-22 22:53:39 +0000"
@@ -1850,6 +1875,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-08-19 19:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-09-03 10:47:03 +0000"
     },
     "done": true
   },
@@ -1964,6 +1995,12 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2019-09-02 12:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-09-03 10:46:29 +0000"
     },
     "done": true
   },
