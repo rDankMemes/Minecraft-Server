@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-09-03 18:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 10:00:06 +0000"
@@ -1046,6 +1052,9 @@
       "minecraft:skeleton": "2019-08-20 19:37:33 +0000",
       "minecraft:phantom": "2019-08-22 10:45:06 +0000",
       "minecraft:witch": "2019-08-24 08:05:27 +0000",
+      "minecraft:wither_skeleton": "2019-09-03 18:55:05 +0000",
+      "minecraft:zombie_pigman": "2019-09-03 18:18:05 +0000",
+      "minecraft:ghast": "2019-09-03 18:08:08 +0000",
       "minecraft:shulker": "2019-08-30 17:31:15 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
       "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
@@ -1072,6 +1081,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2019-08-24 08:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-09-03 18:58:00 +0000"
     },
     "done": true
   },
@@ -1836,6 +1851,7 @@
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
       "minecraft:frozen_river": "2019-08-24 10:10:20 +0000",
       "minecraft:badlands": "2019-08-29 18:49:15 +0000",
+      "minecraft:beach": "2019-09-03 18:31:42 +0000",
       "minecraft:dark_forest": "2019-08-29 20:03:21 +0000",
       "minecraft:snowy_taiga": "2019-08-24 08:23:43 +0000",
       "minecraft:wooded_mountains": "2019-08-22 13:56:13 +0000",
@@ -1866,6 +1882,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2019-08-30 17:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-09-03 18:13:02 +0000"
     },
     "done": true
   },
@@ -2058,6 +2080,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-22 13:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-09-03 18:13:02 +0000"
     },
     "done": true
   },
