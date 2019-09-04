@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-09-04 12:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 20:14:21 +0000"
@@ -542,6 +548,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-08-19 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-09-04 12:42:03 +0000"
     },
     "done": true
   },
@@ -850,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-09-04 12:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-08-20 16:32:43 +0000"
@@ -895,6 +913,18 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2019-08-20 20:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-09-04 12:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-09-04 12:41:05 +0000"
     },
     "done": true
   },
@@ -1052,6 +1082,7 @@
       "minecraft:frozen_river": "2019-08-31 11:27:55 +0000",
       "minecraft:deep_frozen_ocean": "2019-09-02 19:23:03 +0000",
       "minecraft:jungle": "2019-08-20 20:51:16 +0000",
+      "minecraft:birch_forest": "2019-09-04 14:06:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-09-02 16:54:42 +0000",
       "minecraft:badlands": "2019-08-19 20:59:34 +0000",
       "minecraft:savanna_plateau": "2019-08-31 19:30:29 +0000",
@@ -1062,6 +1093,7 @@
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000",
       "minecraft:wooded_hills": "2019-08-30 22:08:52 +0000",
+      "minecraft:swamp": "2019-09-04 14:07:01 +0000",
       "minecraft:savanna": "2019-08-31 19:29:00 +0000",
       "minecraft:plains": "2019-08-20 16:19:38 +0000"
     },
@@ -1463,6 +1495,7 @@
       "cooked_beef": "2019-08-19 20:17:58 +0000",
       "chorus_fruit": "2019-08-21 16:00:31 +0000",
       "baked_potato": "2019-08-19 21:32:32 +0000",
+      "cooked_cod": "2019-09-04 12:01:37 +0000",
       "golden_apple": "2019-08-21 11:31:09 +0000",
       "beetroot": "2019-08-19 21:31:23 +0000",
       "cooked_rabbit": "2019-08-19 21:23:59 +0000",
@@ -2068,6 +2101,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-08-31 17:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-09-04 12:42:03 +0000"
     },
     "done": true
   },
