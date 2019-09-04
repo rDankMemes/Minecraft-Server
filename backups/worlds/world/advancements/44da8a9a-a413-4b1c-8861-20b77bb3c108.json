@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-08-20 09:53:05 +0000"
@@ -515,6 +521,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 10:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
     },
     "done": true
   },
@@ -1063,12 +1075,12 @@
       "minecraft:ghast": "2019-09-03 18:08:08 +0000",
       "minecraft:shulker": "2019-08-30 17:31:15 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:enderman": "2019-08-22 14:15:34 +0000",
+      "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
-      "minecraft:creeper": "2019-08-22 18:26:20 +0000",
-      "minecraft:drowned": "2019-08-29 16:14:49 +0000"
+      "minecraft:drowned": "2019-08-29 16:14:49 +0000",
+      "minecraft:creeper": "2019-08-22 18:26:20 +0000"
     },
     "done": false
   },
@@ -1105,6 +1117,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2019-08-23 12:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-09-04 17:54:27 +0000"
     },
     "done": true
   },
@@ -1178,6 +1196,12 @@
     "criteria": {
       "has_iron_pickaxe": "2019-08-20 10:00:40 +0000",
       "has_iron_helmet": "2019-08-20 10:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
     },
     "done": true
   },
@@ -1262,6 +1286,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-02 15:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
     },
     "done": true
   },
@@ -1430,6 +1460,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-20 10:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
     },
     "done": true
   },
@@ -1649,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-09-04 17:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 10:01:10 +0000"
@@ -1664,6 +1706,18 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-21 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-09-04 15:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
     },
     "done": true
   },
@@ -1850,15 +1904,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:forest": "2019-08-22 11:45:50 +0000",
+      "minecraft:mountains": "2019-08-20 09:50:26 +0000",
       "minecraft:giant_tree_taiga": "2019-08-28 07:44:35 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
       "minecraft:frozen_river": "2019-08-24 10:10:20 +0000",
+      "minecraft:birch_forest": "2019-09-04 17:54:19 +0000",
       "minecraft:badlands": "2019-08-29 18:49:15 +0000",
       "minecraft:beach": "2019-09-03 18:31:42 +0000",
       "minecraft:dark_forest": "2019-08-29 20:03:21 +0000",
+      "minecraft:river": "2019-09-04 17:57:01 +0000",
       "minecraft:snowy_taiga": "2019-08-24 08:23:43 +0000",
       "minecraft:wooded_mountains": "2019-08-22 13:56:13 +0000",
       "minecraft:swamp": "2019-08-27 10:45:28 +0000",
@@ -2005,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-23 15:41:54 +0000"
@@ -2122,6 +2184,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-08-22 17:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-09-04 17:54:34 +0000"
     },
     "done": true
   },
