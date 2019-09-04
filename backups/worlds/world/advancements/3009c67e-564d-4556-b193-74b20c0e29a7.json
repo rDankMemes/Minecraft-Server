@@ -837,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-09-03 22:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2019-07-10 03:22:12 +0000"
@@ -1384,6 +1390,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2019-05-19 06:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-09-03 22:55:56 +0000"
     },
     "done": true
   },
@@ -2179,6 +2191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-09-03 22:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:38:45 +0000"
@@ -2551,6 +2569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2019-09-03 22:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 00:37:44 +0000"
@@ -2683,6 +2707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-09-03 22:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-05-25 23:54:16 +0000"
@@ -2728,6 +2758,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-20 05:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-09-03 22:52:54 +0000"
     },
     "done": true
   },

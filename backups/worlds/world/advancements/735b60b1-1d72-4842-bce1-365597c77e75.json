@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-09-03 23:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-09-02 00:18:40 +0000"
@@ -410,15 +416,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2019-09-03 02:21:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-09-03 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-09-03 02:21:33 +0000"
     },
     "done": true
   },
@@ -794,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-09-03 23:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-09-02 05:40:45 +0000"
@@ -954,8 +966,8 @@
       "minecraft:enderman": "2019-09-02 22:41:11 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
-      "minecraft:creeper": "2019-09-01 23:21:11 +0000",
-      "minecraft:drowned": "2019-09-03 02:19:08 +0000"
+      "minecraft:drowned": "2019-09-03 02:19:08 +0000",
+      "minecraft:creeper": "2019-09-01 23:21:11 +0000"
     },
     "done": false
   },
@@ -1313,6 +1325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-09-03 23:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-03 00:23:43 +0000"
@@ -1499,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-09-03 23:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2019-09-03 02:09:01 +0000"
@@ -1637,15 +1661,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2019-09-03 02:11:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-09-03 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-09-03 02:11:28 +0000"
     },
     "done": true
   },
@@ -1717,13 +1741,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:mountains": "2019-09-01 22:24:33 +0000",
+      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:jungle": "2019-09-02 00:19:23 +0000",
       "minecraft:dark_forest": "2019-09-01 23:58:42 +0000",
       "minecraft:snowy_taiga": "2019-09-01 21:50:45 +0000",
-      "minecraft:wooded_mountains": "2019-09-01 22:25:05 +0000"
+      "minecraft:wooded_mountains": "2019-09-01 22:25:05 +0000",
+      "minecraft:savanna": "2019-09-03 23:22:05 +0000"
     },
     "done": false
   },
@@ -1919,15 +1944,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2019-09-03 01:13:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-03 00:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-09-03 01:13:24 +0000"
     },
     "done": true
   },
@@ -1961,15 +1986,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2019-09-03 02:09:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-09-03 02:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-09-03 02:09:06 +0000"
     },
     "done": true
   },
