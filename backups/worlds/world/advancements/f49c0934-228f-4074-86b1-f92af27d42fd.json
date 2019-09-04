@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-09-04 10:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-31 11:40:13 +0000"
@@ -481,6 +487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-09-04 10:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-08-20 14:30:10 +0000"
@@ -568,6 +580,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2019-08-20 14:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-09-04 10:34:55 +0000"
     },
     "done": true
   },
@@ -937,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-09-04 10:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 10:46:57 +0000"
@@ -1003,14 +1027,14 @@
       "minecraft:phantom": "2019-08-20 16:04:59 +0000",
       "minecraft:ghast": "2019-08-31 14:14:50 +0000",
       "minecraft:cave_spider": "2019-08-21 13:15:35 +0000",
-      "minecraft:enderman": "2019-08-20 15:29:07 +0000",
-      "minecraft:stray": "2019-08-20 14:34:06 +0000",
       "minecraft:silverfish": "2019-08-21 12:57:05 +0000",
+      "minecraft:stray": "2019-08-20 14:34:06 +0000",
+      "minecraft:enderman": "2019-08-20 15:29:07 +0000",
       "minecraft:magma_cube": "2019-08-31 15:39:31 +0000",
       "minecraft:spider": "2019-08-20 14:27:26 +0000",
       "minecraft:zombie": "2019-08-20 14:56:00 +0000",
-      "minecraft:creeper": "2019-08-20 14:55:28 +0000",
-      "minecraft:drowned": "2019-09-01 16:18:22 +0000"
+      "minecraft:drowned": "2019-09-01 16:18:22 +0000",
+      "minecraft:creeper": "2019-08-20 14:55:28 +0000"
     },
     "done": false
   },
@@ -1488,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-09-04 10:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-08-25 15:16:26 +0000"
@@ -1575,6 +1605,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 14:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-09-04 10:34:59 +0000"
     },
     "done": true
   },
@@ -1725,6 +1761,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2019-08-20 13:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-09-04 10:34:55 +0000"
     },
     "done": true
   },
@@ -1916,6 +1958,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2019-08-20 15:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-09-04 10:34:55 +0000"
     },
     "done": true
   },

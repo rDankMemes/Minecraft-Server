@@ -587,14 +587,14 @@
       "minecraft:shulker": "2019-08-21 16:40:31 +0000",
       "minecraft:cave_spider": "2019-08-30 20:28:01 +0000",
       "minecraft:guardian": "2019-08-31 12:06:28 +0000",
-      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
-      "minecraft:enderman": "2019-08-20 15:40:26 +0000",
       "minecraft:stray": "2019-08-30 21:01:34 +0000",
+      "minecraft:enderman": "2019-08-20 15:40:26 +0000",
+      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
       "minecraft:magma_cube": "2019-08-21 17:19:31 +0000",
       "minecraft:spider": "2019-08-19 20:45:02 +0000",
       "minecraft:zombie": "2019-08-19 20:17:18 +0000",
-      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
-      "minecraft:creeper": "2019-08-19 20:32:50 +0000"
+      "minecraft:creeper": "2019-08-19 20:32:50 +0000",
+      "minecraft:drowned": "2019-08-20 10:43:27 +0000"
     },
     "done": false
   },
@@ -1039,9 +1039,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 21:03:33 +0000",
-      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
-      "minecraft:forest": "2019-08-20 10:06:58 +0000",
       "minecraft:mushroom_fields": "2019-08-30 21:44:46 +0000",
+      "minecraft:forest": "2019-08-20 10:06:58 +0000",
+      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:taiga": "2019-08-20 16:20:27 +0000",
       "minecraft:desert_hills": "2019-09-01 19:47:03 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 20:52:10 +0000",
@@ -1057,8 +1057,8 @@
       "minecraft:savanna_plateau": "2019-08-31 19:30:29 +0000",
       "minecraft:beach": "2019-08-31 19:30:03 +0000",
       "minecraft:dark_forest": "2019-08-30 21:26:43 +0000",
-      "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:lukewarm_ocean": "2019-09-02 16:54:31 +0000",
+      "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000",
       "minecraft:wooded_hills": "2019-08-30 22:08:52 +0000",
@@ -1112,6 +1112,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-08-31 17:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2019-09-04 11:32:14 +0000"
     },
     "done": true
   },
@@ -1322,6 +1328,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-08-19 20:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-09-04 11:32:11 +0000"
     },
     "done": true
   },
@@ -1604,6 +1616,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2019-09-04 11:32:34 +0000",
       "minecraft:wolf": "2019-08-20 16:22:58 +0000"
     },
     "done": false
