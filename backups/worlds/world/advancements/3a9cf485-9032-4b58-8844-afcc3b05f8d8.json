@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-09-05 00:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-09-03 01:27:07 +0000"
@@ -371,6 +377,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-09-02 17:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-09-05 01:06:53 +0000"
     },
     "done": true
   },
@@ -812,12 +824,12 @@
       "minecraft:zombie_pigman": "2019-09-04 00:04:59 +0000",
       "minecraft:shulker": "2019-09-02 23:05:38 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:23 +0000",
-      "minecraft:enderman": "2019-09-02 01:36:31 +0000",
       "minecraft:stray": "2019-09-02 01:17:47 +0000",
+      "minecraft:enderman": "2019-09-02 01:36:31 +0000",
       "minecraft:spider": "2019-09-02 18:05:59 +0000",
       "minecraft:zombie": "2019-09-02 00:53:00 +0000",
-      "minecraft:drowned": "2019-09-03 02:18:39 +0000",
-      "minecraft:creeper": "2019-09-02 01:17:31 +0000"
+      "minecraft:creeper": "2019-09-02 01:17:31 +0000",
+      "minecraft:drowned": "2019-09-03 02:18:39 +0000"
     },
     "done": false
   },
@@ -1424,8 +1436,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-04 00:55:03 +0000",
-      "minecraft:forest": "2019-09-03 01:15:30 +0000",
       "minecraft:mountains": "2019-09-02 00:39:55 +0000",
+      "minecraft:forest": "2019-09-03 01:15:30 +0000",
       "minecraft:giant_tree_taiga": "2019-09-03 01:56:23 +0000",
       "minecraft:snowy_tundra": "2019-09-02 01:11:35 +0000",
       "minecraft:jungle": "2019-09-02 00:37:18 +0000",
