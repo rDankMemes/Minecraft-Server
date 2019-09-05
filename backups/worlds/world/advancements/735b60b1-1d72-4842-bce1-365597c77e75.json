@@ -981,8 +981,8 @@
       "minecraft:enderman": "2019-09-02 22:41:11 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
-      "minecraft:creeper": "2019-09-01 23:21:11 +0000",
-      "minecraft:drowned": "2019-09-03 02:19:08 +0000"
+      "minecraft:drowned": "2019-09-03 02:19:08 +0000",
+      "minecraft:creeper": "2019-09-01 23:21:11 +0000"
     },
     "done": false
   },
@@ -1073,6 +1073,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-09-02 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-09-04 23:52:06 +0000"
     },
     "done": true
   },
@@ -1762,14 +1768,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:mountains": "2019-09-01 22:24:33 +0000",
+      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:jungle": "2019-09-02 00:19:23 +0000",
       "minecraft:dark_forest": "2019-09-01 23:58:42 +0000",
       "minecraft:snowy_taiga": "2019-09-01 21:50:45 +0000",
       "minecraft:wooded_mountains": "2019-09-01 22:25:05 +0000",
-      "minecraft:savanna": "2019-09-03 23:22:05 +0000"
+      "minecraft:savanna": "2019-09-03 23:22:05 +0000",
+      "minecraft:plains": "2019-09-04 23:51:14 +0000"
     },
     "done": false
   },
