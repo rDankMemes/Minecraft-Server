@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_the_recipe": "2019-09-05 18:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-19 18:27:14 +0000"
@@ -425,6 +431,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-09-02 12:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-09-05 18:31:32 +0000"
     },
     "done": true
   },
@@ -703,6 +715,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 19:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-09-05 18:08:55 +0000"
     },
     "done": true
   },
@@ -1027,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-09-05 18:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 11:35:12 +0000"
@@ -1040,12 +1064,12 @@
       "minecraft:skeleton": "2019-08-20 11:29:29 +0000",
       "minecraft:phantom": "2019-08-20 13:35:00 +0000",
       "minecraft:shulker": "2019-08-20 20:59:26 +0000",
-      "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
+      "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:spider": "2019-08-19 21:47:59 +0000",
       "minecraft:zombie": "2019-08-20 11:30:33 +0000",
-      "minecraft:drowned": "2019-08-19 18:26:41 +0000",
-      "minecraft:creeper": "2019-08-20 11:30:43 +0000"
+      "minecraft:creeper": "2019-08-20 11:30:43 +0000",
+      "minecraft:drowned": "2019-08-19 18:26:41 +0000"
     },
     "done": false
   },
@@ -1835,9 +1859,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:36:18 +0000",
-      "minecraft:mountains": "2019-08-19 18:16:44 +0000",
-      "minecraft:forest": "2019-08-30 16:19:04 +0000",
       "minecraft:mushroom_fields": "2019-09-02 12:55:46 +0000",
+      "minecraft:forest": "2019-08-30 16:19:04 +0000",
+      "minecraft:mountains": "2019-08-19 18:16:44 +0000",
       "minecraft:giant_tree_taiga": "2019-09-02 12:11:50 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
       "minecraft:desert": "2019-08-20 11:28:23 +0000",
@@ -1893,6 +1917,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-08-19 21:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-09-05 18:31:32 +0000"
     },
     "done": true
   },
@@ -2121,6 +2151,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2019-09-05 18:31:12 +0000"
     },
     "done": true
   },
