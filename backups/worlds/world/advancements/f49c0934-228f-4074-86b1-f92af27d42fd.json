@@ -1027,14 +1027,14 @@
       "minecraft:phantom": "2019-08-20 16:04:59 +0000",
       "minecraft:ghast": "2019-08-31 14:14:50 +0000",
       "minecraft:cave_spider": "2019-08-21 13:15:35 +0000",
-      "minecraft:silverfish": "2019-08-21 12:57:05 +0000",
-      "minecraft:stray": "2019-08-20 14:34:06 +0000",
       "minecraft:enderman": "2019-08-20 15:29:07 +0000",
+      "minecraft:stray": "2019-08-20 14:34:06 +0000",
+      "minecraft:silverfish": "2019-08-21 12:57:05 +0000",
       "minecraft:magma_cube": "2019-08-31 15:39:31 +0000",
       "minecraft:spider": "2019-08-20 14:27:26 +0000",
       "minecraft:zombie": "2019-08-20 14:56:00 +0000",
-      "minecraft:drowned": "2019-09-01 16:18:22 +0000",
-      "minecraft:creeper": "2019-08-20 14:55:28 +0000"
+      "minecraft:creeper": "2019-08-20 14:55:28 +0000",
+      "minecraft:drowned": "2019-09-01 16:18:22 +0000"
     },
     "done": false
   },
@@ -1311,6 +1311,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-20 14:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-09-05 14:21:06 +0000"
     },
     "done": true
   },
@@ -2072,6 +2078,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 10:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-09-05 14:21:06 +0000"
     },
     "done": true
   },
