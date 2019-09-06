@@ -582,13 +582,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:47:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-19 19:47:34 +0000"
     },
@@ -1036,13 +1036,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:44 +0000"
     },
@@ -1079,8 +1079,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
-      "minecraft:creeper": "2019-08-20 08:36:01 +0000",
-      "minecraft:drowned": "2019-08-20 07:23:14 +0000"
+      "minecraft:drowned": "2019-08-20 07:23:14 +0000",
+      "minecraft:creeper": "2019-08-20 08:36:01 +0000"
     },
     "done": false
   },
@@ -1897,8 +1897,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:50:22 +0000",
-      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:forest": "2019-08-19 17:40:56 +0000",
+      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 18:25:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 06:47:52 +0000",
       "minecraft:desert": "2019-08-20 18:48:39 +0000",

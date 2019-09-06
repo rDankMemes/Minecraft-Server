@@ -645,7 +645,8 @@
       "minecraft:drowned": "2019-08-19 18:57:19 +0000",
       "minecraft:creeper": "2019-08-20 11:57:36 +0000",
       "minecraft:zombie_villager": "2019-08-21 17:37:07 +0000",
-      "minecraft:evoker": "2019-08-31 14:19:09 +0000"
+      "minecraft:evoker": "2019-08-31 14:19:09 +0000",
+      "minecraft:slime": "2019-09-06 19:06:33 +0000"
     },
     "done": false
   },
@@ -1093,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-09-06 19:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-19 19:26:15 +0000"
@@ -1117,6 +1124,7 @@
       "minecraft:forest": "2019-08-21 21:40:22 +0000",
       "minecraft:mushroom_fields": "2019-08-19 19:15:17 +0000",
       "minecraft:mountains": "2019-08-19 18:49:05 +0000",
+      "minecraft:badlands_plateau": "2019-09-06 18:29:56 +0000",
       "minecraft:taiga": "2019-08-31 13:16:24 +0000",
       "minecraft:desert_hills": "2019-08-31 18:34:50 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 21:29:21 +0000",
@@ -1139,6 +1147,7 @@
       "minecraft:wooded_mountains": "2019-08-19 18:53:46 +0000",
       "minecraft:wooded_hills": "2019-08-30 22:06:38 +0000",
       "minecraft:stone_shore": "2019-08-31 12:58:35 +0000",
+      "minecraft:wooded_badlands_plateau": "2019-09-06 18:31:24 +0000",
       "minecraft:swamp": "2019-08-31 13:19:46 +0000",
       "minecraft:savanna": "2019-08-31 19:11:51 +0000",
       "minecraft:plains": "2019-08-20 16:08:15 +0000"
@@ -2012,6 +2021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-09-06 18:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2019-08-25 11:54:19 +0000"
@@ -2051,6 +2066,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-08-24 14:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-09-06 19:14:49 +0000"
     },
     "done": true
   },
@@ -2330,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-09-06 19:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-19 19:00:31 +0000"
@@ -2363,6 +2390,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-08-19 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-09-06 19:14:49 +0000"
     },
     "done": true
   },
