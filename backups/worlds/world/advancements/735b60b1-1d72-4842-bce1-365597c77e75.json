@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-09-06 01:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-09-02 00:43:25 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-09-01 22:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-09-06 01:54:57 +0000"
     },
     "done": true
   },
@@ -212,6 +224,15 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2019-09-03 02:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-09-06 01:16:59 +0000",
+      "diamond_helmet": "2019-09-06 01:16:59 +0000",
+      "diamond_chestplate": "2019-09-06 01:16:59 +0000",
+      "diamond_boots": "2019-09-06 01:16:59 +0000"
     },
     "done": true
   },
@@ -371,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-09-06 00:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-09-01 22:02:11 +0000"
@@ -519,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-09-06 01:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2019-09-02 20:53:24 +0000"
@@ -636,6 +669,12 @@
   "minecraft:recipes/misc/cactus_green": {
     "criteria": {
       "has_cactus": "2019-09-01 23:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-09-06 01:56:18 +0000"
     },
     "done": true
   },
@@ -885,6 +924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-09-06 00:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-02 20:32:53 +0000"
@@ -981,8 +1026,8 @@
       "minecraft:enderman": "2019-09-02 22:41:11 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
-      "minecraft:drowned": "2019-09-03 02:19:08 +0000",
-      "minecraft:creeper": "2019-09-01 23:21:11 +0000"
+      "minecraft:creeper": "2019-09-01 23:21:11 +0000",
+      "minecraft:drowned": "2019-09-03 02:19:08 +0000"
     },
     "done": false
   },
@@ -1037,6 +1082,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-09-03 00:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-09-06 00:52:06 +0000"
     },
     "done": true
   },
@@ -1106,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-09-06 00:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-03 00:23:43 +0000"
@@ -1145,6 +1202,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-09-01 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2019-09-06 01:13:56 +0000"
     },
     "done": true
   },
@@ -1316,6 +1379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-09-06 01:56:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2019-09-03 00:58:13 +0000"
@@ -1418,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-09-06 01:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-03 00:23:43 +0000"
@@ -1487,6 +1562,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-09-02 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-09-06 01:35:59 +0000"
     },
     "done": true
   },
@@ -1768,8 +1849,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-09-01 22:24:33 +0000",
       "minecraft:forest": "2019-09-01 22:21:15 +0000",
+      "minecraft:mountains": "2019-09-01 22:24:33 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:jungle": "2019-09-02 00:19:23 +0000",
       "minecraft:dark_forest": "2019-09-01 23:58:42 +0000",
@@ -1990,6 +2071,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-09-06 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2019-09-06 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-09-06 00:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-02 20:32:53 +0000"
@@ -2017,6 +2116,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-09-03 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-09-06 01:56:18 +0000"
     },
     "done": true
   },
