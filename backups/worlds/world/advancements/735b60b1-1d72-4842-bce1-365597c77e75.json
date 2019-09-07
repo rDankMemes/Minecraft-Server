@@ -1024,10 +1024,11 @@
       "minecraft:shulker": "2019-09-02 23:06:22 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:15 +0000",
       "minecraft:enderman": "2019-09-02 22:41:11 +0000",
+      "minecraft:magma_cube": "2019-09-07 19:32:10 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
-      "minecraft:creeper": "2019-09-01 23:21:11 +0000",
-      "minecraft:drowned": "2019-09-03 02:19:08 +0000"
+      "minecraft:drowned": "2019-09-03 02:19:08 +0000",
+      "minecraft:creeper": "2019-09-01 23:21:11 +0000"
     },
     "done": false
   },
@@ -1849,8 +1850,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:mountains": "2019-09-01 22:24:33 +0000",
+      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:jungle": "2019-09-02 00:19:23 +0000",
       "minecraft:dark_forest": "2019-09-01 23:58:42 +0000",
@@ -2152,6 +2153,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2019-09-03 02:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2019-09-07 19:28:57 +0000"
     },
     "done": true
   },
