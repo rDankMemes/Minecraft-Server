@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2019-09-07 17:48:44 +0000",
       "minecraft:beach": "2019-06-26 05:34:05 +0000",
       "minecraft:river": "2019-06-26 05:34:16 +0000",
       "minecraft:snowy_taiga": "2019-08-21 00:36:31 +0000",

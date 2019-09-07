@@ -494,6 +494,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-09-07 17:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-08-20 19:37:33 +0000"
@@ -1005,6 +1011,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-08-20 09:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2019-09-07 17:39:12 +0000"
     },
     "done": true
   },
