@@ -476,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-09-07 11:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-08-20 09:50:19 +0000"
@@ -530,12 +536,12 @@
       "minecraft:ghast": "2019-09-03 18:08:08 +0000",
       "minecraft:shulker": "2019-08-30 17:31:15 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:enderman": "2019-08-22 14:15:34 +0000",
       "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
+      "minecraft:enderman": "2019-08-22 14:15:34 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
-      "minecraft:drowned": "2019-08-29 16:14:49 +0000",
       "minecraft:creeper": "2019-08-22 18:26:20 +0000",
+      "minecraft:drowned": "2019-08-29 16:14:49 +0000",
       "minecraft:slime": "2019-09-05 13:55:57 +0000"
     },
     "done": false
@@ -709,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-09-07 11:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-08-23 19:53:04 +0000"
@@ -808,6 +820,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-08-22 09:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-09-07 11:56:26 +0000"
     },
     "done": true
   },
@@ -922,8 +940,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:forest": "2019-08-22 11:45:50 +0000",
       "minecraft:mountains": "2019-08-20 09:50:26 +0000",
+      "minecraft:forest": "2019-08-22 11:45:50 +0000",
       "minecraft:giant_tree_taiga": "2019-08-28 07:44:35 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
@@ -1159,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-09-07 11:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 10:01:10 +0000"
@@ -1341,6 +1365,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-09-07 12:05:43 +0000",
       "chorus_fruit": "2019-08-29 19:07:27 +0000",
       "cooked_beef": "2019-09-05 14:26:26 +0000",
       "baked_potato": "2019-08-20 10:01:44 +0000",
