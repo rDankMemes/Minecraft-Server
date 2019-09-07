@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2019-09-07 09:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-19 20:11:28 +0000"
@@ -605,14 +611,14 @@
       "minecraft:shulker": "2019-08-21 16:40:31 +0000",
       "minecraft:cave_spider": "2019-08-30 20:28:01 +0000",
       "minecraft:guardian": "2019-08-31 12:06:28 +0000",
-      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
-      "minecraft:enderman": "2019-08-20 15:40:26 +0000",
       "minecraft:stray": "2019-08-30 21:01:34 +0000",
+      "minecraft:enderman": "2019-08-20 15:40:26 +0000",
+      "minecraft:silverfish": "2019-08-21 15:34:22 +0000",
       "minecraft:magma_cube": "2019-08-21 17:19:31 +0000",
       "minecraft:spider": "2019-08-19 20:45:02 +0000",
       "minecraft:zombie": "2019-08-19 20:17:18 +0000",
-      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
       "minecraft:creeper": "2019-08-19 20:32:50 +0000",
+      "minecraft:drowned": "2019-08-20 10:43:27 +0000",
       "minecraft:zombie_villager": "2019-09-06 20:11:37 +0000",
       "minecraft:slime": "2019-09-07 07:11:24 +0000"
     },
@@ -1083,9 +1089,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 21:03:33 +0000",
-      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
-      "minecraft:forest": "2019-08-20 10:06:58 +0000",
       "minecraft:mushroom_fields": "2019-08-30 21:44:46 +0000",
+      "minecraft:forest": "2019-08-20 10:06:58 +0000",
+      "minecraft:mountains": "2019-08-19 21:37:52 +0000",
       "minecraft:taiga": "2019-08-20 16:20:27 +0000",
       "minecraft:desert_hills": "2019-09-01 19:47:03 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 20:52:10 +0000",
@@ -1102,8 +1108,8 @@
       "minecraft:savanna_plateau": "2019-08-31 19:30:29 +0000",
       "minecraft:beach": "2019-08-31 19:30:03 +0000",
       "minecraft:dark_forest": "2019-08-30 21:26:43 +0000",
-      "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:lukewarm_ocean": "2019-09-02 16:54:31 +0000",
+      "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000",
       "minecraft:wooded_hills": "2019-08-30 22:08:52 +0000",
@@ -1224,6 +1230,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2019-08-31 12:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-09-07 10:19:10 +0000"
     },
     "done": true
   },
@@ -1992,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-09-07 10:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-19 20:18:59 +0000"
@@ -2379,6 +2397,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-09-01 12:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-09-07 10:37:13 +0000"
     },
     "done": true
   },
