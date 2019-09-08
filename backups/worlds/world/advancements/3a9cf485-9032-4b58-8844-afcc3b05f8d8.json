@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-09-08 18:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-09-02 01:24:39 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-08 18:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-09-03 01:27:07 +0000"
@@ -404,6 +416,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-09-04 01:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-09-08 18:57:28 +0000"
     },
     "done": true
   },
@@ -424,6 +442,8 @@
       "cooked_porkchop": "2019-09-02 01:09:21 +0000",
       "cooked_mutton": "2019-09-04 00:06:25 +0000",
       "chorus_fruit": "2019-09-02 22:47:27 +0000",
+      "cooked_beef": "2019-09-08 18:55:49 +0000",
+      "beef": "2019-09-08 18:35:46 +0000",
       "cooked_cod": "2019-09-02 01:26:02 +0000",
       "bread": "2019-09-02 18:23:58 +0000",
       "golden_apple": "2019-09-06 01:03:13 +0000",
@@ -609,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-08 18:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-07 01:21:15 +0000"
@@ -641,7 +667,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:mooshroom": "2019-09-08 00:25:12 +0000"
+      "minecraft:mooshroom": "2019-09-08 00:25:12 +0000",
+      "minecraft:cow": "2019-09-08 18:37:31 +0000"
     },
     "done": false
   },
@@ -709,6 +736,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-09-02 17:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-09-08 18:09:33 +0000"
     },
     "done": true
   },
@@ -997,14 +1030,15 @@
       "minecraft:witch": "2019-09-02 18:08:23 +0000",
       "minecraft:wither_skeleton": "2019-09-04 00:21:20 +0000",
       "minecraft:zombie_pigman": "2019-09-04 00:04:59 +0000",
+      "minecraft:ghast": "2019-09-08 18:09:33 +0000",
       "minecraft:shulker": "2019-09-02 23:05:38 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:23 +0000",
-      "minecraft:enderman": "2019-09-02 01:36:31 +0000",
       "minecraft:stray": "2019-09-02 01:17:47 +0000",
+      "minecraft:enderman": "2019-09-02 01:36:31 +0000",
       "minecraft:spider": "2019-09-02 18:05:59 +0000",
       "minecraft:zombie": "2019-09-02 00:53:00 +0000",
-      "minecraft:drowned": "2019-09-03 02:18:39 +0000",
       "minecraft:creeper": "2019-09-02 01:17:31 +0000",
+      "minecraft:drowned": "2019-09-03 02:18:39 +0000",
       "minecraft:slime": "2019-09-06 01:08:30 +0000"
     },
     "done": false
@@ -1048,6 +1082,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-09-02 01:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-09-08 18:13:16 +0000"
     },
     "done": true
   },
@@ -1114,6 +1154,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-09-07 01:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-09-08 18:31:43 +0000"
     },
     "done": true
   },
@@ -1240,6 +1286,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-09-02 23:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-09-08 19:01:09 +0000"
     },
     "done": true
   },
@@ -1492,6 +1544,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-09-02 01:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-09-08 18:35:59 +0000"
     },
     "done": true
   },
@@ -1768,15 +1826,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-04 00:55:03 +0000",
-      "minecraft:mushroom_fields": "2019-09-07 23:35:10 +0000",
-      "minecraft:forest": "2019-09-03 01:15:30 +0000",
       "minecraft:mountains": "2019-09-02 00:39:55 +0000",
+      "minecraft:forest": "2019-09-03 01:15:30 +0000",
+      "minecraft:mushroom_fields": "2019-09-07 23:35:10 +0000",
       "minecraft:giant_tree_taiga": "2019-09-03 01:56:23 +0000",
       "minecraft:snowy_tundra": "2019-09-02 01:11:35 +0000",
       "minecraft:jungle": "2019-09-02 00:37:18 +0000",
       "minecraft:birch_forest": "2019-09-04 00:36:13 +0000",
       "minecraft:wooded_mountains": "2019-09-02 00:42:09 +0000",
-      "minecraft:swamp": "2019-09-04 00:36:38 +0000"
+      "minecraft:swamp": "2019-09-04 00:36:38 +0000",
+      "minecraft:plains": "2019-09-08 18:11:11 +0000"
     },
     "done": false
   },
@@ -1939,6 +1998,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-09-03 01:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-09-08 18:24:57 +0000"
     },
     "done": true
   },
