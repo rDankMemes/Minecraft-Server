@@ -452,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-09-07 20:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2019-09-02 12:55:19 +0000",
@@ -652,6 +658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-09-07 20:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-19 21:16:03 +0000"
@@ -699,6 +711,12 @@
       "has_bed": "2019-08-20 19:45:41 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2019-09-07 21:06:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1460,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2019-09-07 20:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2019-08-20 13:16:07 +0000"
@@ -1664,6 +1688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-09-07 20:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-08-19 19:49:13 +0000"
@@ -1865,7 +1895,9 @@
       "minecraft:giant_tree_taiga": "2019-09-02 12:11:50 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
       "minecraft:desert": "2019-08-20 11:28:23 +0000",
+      "minecraft:beach": "2019-09-07 21:02:44 +0000",
       "minecraft:dark_forest": "2019-09-03 10:41:55 +0000",
+      "minecraft:river": "2019-09-07 21:00:56 +0000",
       "minecraft:wooded_mountains": "2019-08-19 20:51:34 +0000",
       "minecraft:savanna": "2019-08-22 22:37:19 +0000",
       "minecraft:plains": "2019-08-22 22:53:39 +0000"
@@ -2127,6 +2159,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-08-19 19:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-09-07 21:06:52 +0000"
     },
     "done": true
   },

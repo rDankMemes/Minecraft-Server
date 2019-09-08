@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-09-07 23:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2019-09-02 22:13:27 +0000"
@@ -525,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-09-07 23:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-09-02 17:05:46 +0000"
@@ -853,6 +865,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-09-02 17:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-09-07 23:54:05 +0000"
     },
     "done": true
   },
@@ -1591,6 +1609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-09-07 23:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-09-02 01:21:13 +0000"
@@ -1657,6 +1681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-09-07 23:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2019-09-03 01:05:58 +0000"
@@ -1668,6 +1698,7 @@
       "minecraft:cold_ocean": "2019-09-04 00:55:03 +0000",
       "minecraft:mountains": "2019-09-02 00:39:55 +0000",
       "minecraft:forest": "2019-09-03 01:15:30 +0000",
+      "minecraft:mushroom_fields": "2019-09-07 23:35:10 +0000",
       "minecraft:giant_tree_taiga": "2019-09-03 01:56:23 +0000",
       "minecraft:snowy_tundra": "2019-09-02 01:11:35 +0000",
       "minecraft:jungle": "2019-09-02 00:37:18 +0000",
@@ -1758,6 +1789,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2019-09-02 17:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-09-07 23:54:05 +0000"
     },
     "done": true
   },
