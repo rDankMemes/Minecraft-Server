@@ -798,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-09-08 08:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2019-08-19 21:23:11 +0000"
@@ -1111,6 +1117,7 @@
       "minecraft:lukewarm_ocean": "2019-09-02 16:54:31 +0000",
       "minecraft:river": "2019-08-20 16:17:09 +0000",
       "minecraft:snowy_taiga": "2019-08-19 20:32:06 +0000",
+      "minecraft:birch_forest_hills": "2019-09-08 08:40:35 +0000",
       "minecraft:wooded_mountains": "2019-08-20 10:00:17 +0000",
       "minecraft:wooded_hills": "2019-08-30 22:08:52 +0000",
       "minecraft:swamp": "2019-09-04 14:07:01 +0000",

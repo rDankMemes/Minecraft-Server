@@ -690,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2019-09-08 05:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2019-09-02 00:33:24 +0000"
@@ -729,6 +735,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-09-02 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-09-08 06:05:26 +0000"
     },
     "done": true
   },
@@ -1866,6 +1878,7 @@
       "minecraft:cold_ocean": "2019-09-08 04:13:44 +0000",
       "minecraft:mountains": "2019-09-01 22:24:33 +0000",
       "minecraft:forest": "2019-09-01 22:21:15 +0000",
+      "minecraft:giant_tree_taiga": "2019-09-08 05:59:11 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:desert": "2019-09-08 04:26:21 +0000",
       "minecraft:jungle": "2019-09-02 00:19:23 +0000",
