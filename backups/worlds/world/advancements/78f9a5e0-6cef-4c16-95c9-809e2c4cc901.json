@@ -533,13 +533,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-16 15:01:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-06-16 15:01:54 +0000"
     },
@@ -971,13 +971,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-06-18 07:51:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-06-18 07:51:34 +0000"
     },
@@ -1870,10 +1870,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-22 09:27:19 +0000",
       "minecraft:cold_ocean": "2019-08-20 16:39:58 +0000",
-      "minecraft:forest": "2019-06-14 04:21:07 +0000",
+      "minecraft:jungle_edge": "2019-05-22 09:27:19 +0000",
       "minecraft:mountains": "2019-08-19 19:15:22 +0000",
+      "minecraft:forest": "2019-06-14 04:21:07 +0000",
       "minecraft:desert_hills": "2019-05-22 09:23:04 +0000",
       "minecraft:giant_tree_taiga": "2019-09-03 08:05:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 05:43:52 +0000",
@@ -1887,8 +1887,8 @@
       "minecraft:savanna_plateau": "2019-05-22 09:22:49 +0000",
       "minecraft:beach": "2019-05-22 09:22:46 +0000",
       "minecraft:dark_forest": "2019-08-26 11:52:39 +0000",
-      "minecraft:river": "2019-05-22 09:22:11 +0000",
       "minecraft:lukewarm_ocean": "2019-08-26 11:53:20 +0000",
+      "minecraft:river": "2019-05-22 09:22:11 +0000",
       "minecraft:snowy_taiga": "2019-08-19 19:06:53 +0000",
       "minecraft:wooded_mountains": "2019-08-19 19:14:48 +0000",
       "minecraft:stone_shore": "2019-08-26 11:34:23 +0000",
