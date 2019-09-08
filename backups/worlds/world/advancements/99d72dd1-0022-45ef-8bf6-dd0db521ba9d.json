@@ -488,6 +488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2019-09-08 17:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2019-08-19 18:10:54 +0000"
@@ -1848,7 +1854,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-09-03 21:41:29 +0000",
-      "minecraft:chicken": "2019-08-19 17:57:32 +0000"
+      "minecraft:chicken": "2019-08-19 17:57:32 +0000",
+      "minecraft:sheep": "2019-09-08 17:43:20 +0000"
     },
     "done": false
   },

@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-09-08 15:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-08-19 18:45:03 +0000"
@@ -1085,8 +1091,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
-      "minecraft:creeper": "2019-08-20 08:36:01 +0000",
-      "minecraft:drowned": "2019-08-20 07:23:14 +0000"
+      "minecraft:drowned": "2019-08-20 07:23:14 +0000",
+      "minecraft:creeper": "2019-08-20 08:36:01 +0000"
     },
     "done": false
   },
@@ -1117,6 +1123,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-21 06:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-09-08 15:51:58 +0000"
     },
     "done": true
   },
@@ -1630,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-09-08 15:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 07:23:15 +0000"
@@ -1903,13 +1921,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:50:22 +0000",
-      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:forest": "2019-08-19 17:40:56 +0000",
+      "minecraft:mountains": "2019-08-19 17:50:18 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 18:25:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 06:47:52 +0000",
       "minecraft:desert": "2019-08-20 18:48:39 +0000",
       "minecraft:frozen_river": "2019-08-20 08:25:54 +0000",
       "minecraft:jungle": "2019-08-19 18:00:06 +0000",
+      "minecraft:warm_ocean": "2019-09-08 17:47:59 +0000",
       "minecraft:badlands": "2019-08-19 19:35:06 +0000",
       "minecraft:dark_forest": "2019-08-19 17:53:09 +0000",
       "minecraft:snowy_taiga": "2019-08-20 09:08:58 +0000",
