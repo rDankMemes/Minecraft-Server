@@ -260,6 +260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2019-09-08 22:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-09-01 22:26:16 +0000"
@@ -477,6 +483,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-09-02 00:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2019-09-08 22:17:49 +0000"
     },
     "done": true
   },
@@ -1043,6 +1055,7 @@
       "minecraft:shulker": "2019-09-02 23:06:22 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:15 +0000",
       "minecraft:enderman": "2019-09-02 22:41:11 +0000",
+      "minecraft:silverfish": "2019-09-08 23:07:49 +0000",
       "minecraft:magma_cube": "2019-09-07 19:32:10 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
@@ -1168,6 +1181,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-09-02 00:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2019-09-08 22:17:49 +0000"
     },
     "done": true
   },
@@ -1882,6 +1901,7 @@
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:desert": "2019-09-08 04:26:21 +0000",
       "minecraft:jungle": "2019-09-02 00:19:23 +0000",
+      "minecraft:badlands": "2019-09-08 22:16:34 +0000",
       "minecraft:dark_forest": "2019-09-01 23:58:42 +0000",
       "minecraft:snowy_taiga": "2019-09-01 21:50:45 +0000",
       "minecraft:wooded_mountains": "2019-09-01 22:25:05 +0000",
@@ -1911,6 +1931,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2019-09-02 23:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2019-09-08 22:17:49 +0000"
     },
     "done": true
   },
@@ -2175,6 +2201,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-09-02 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2019-09-08 22:17:49 +0000"
     },
     "done": true
   },
