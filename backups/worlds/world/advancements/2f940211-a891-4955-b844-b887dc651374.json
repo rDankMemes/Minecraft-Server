@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-09-10 14:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-08-20 16:54:02 +0000"
@@ -1448,8 +1454,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 16:27:12 +0000",
-      "minecraft:forest": "2019-08-24 11:38:39 +0000",
       "minecraft:mountains": "2019-08-20 16:27:01 +0000",
+      "minecraft:forest": "2019-08-24 11:38:39 +0000",
       "minecraft:snowy_tundra": "2019-08-20 17:28:16 +0000",
       "minecraft:desert": "2019-08-20 11:25:34 +0000",
       "minecraft:jungle": "2019-08-20 17:17:44 +0000",
