@@ -302,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-09-10 21:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-09-02 20:19:51 +0000"
@@ -561,16 +567,17 @@
       "minecraft:skeleton": "2019-09-01 23:04:42 +0000",
       "minecraft:phantom": "2019-09-04 02:36:28 +0000",
       "minecraft:zombie_pigman": "2019-09-04 00:43:42 +0000",
+      "minecraft:husk": "2019-09-10 21:19:06 +0000",
       "minecraft:ghast": "2019-09-02 22:29:14 +0000",
       "minecraft:shulker": "2019-09-02 23:06:22 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:15 +0000",
-      "minecraft:silverfish": "2019-09-08 23:07:49 +0000",
       "minecraft:enderman": "2019-09-02 22:41:11 +0000",
+      "minecraft:silverfish": "2019-09-08 23:07:49 +0000",
       "minecraft:magma_cube": "2019-09-07 19:32:10 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
-      "minecraft:creeper": "2019-09-01 23:21:11 +0000",
-      "minecraft:drowned": "2019-09-03 02:19:08 +0000"
+      "minecraft:drowned": "2019-09-03 02:19:08 +0000",
+      "minecraft:creeper": "2019-09-01 23:21:11 +0000"
     },
     "done": false
   },
@@ -814,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-09-10 21:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-09-01 22:26:05 +0000"
@@ -865,6 +878,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-09-01 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-09-10 21:52:19 +0000"
     },
     "done": true
   },
@@ -1003,8 +1022,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-08 04:13:44 +0000",
-      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:mountains": "2019-09-01 22:24:33 +0000",
+      "minecraft:forest": "2019-09-01 22:21:15 +0000",
       "minecraft:giant_tree_taiga": "2019-09-08 05:59:11 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:desert": "2019-09-08 04:26:21 +0000",
