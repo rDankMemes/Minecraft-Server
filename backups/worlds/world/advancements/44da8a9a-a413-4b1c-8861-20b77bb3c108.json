@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-09-12 15:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-08-23 19:58:54 +0000"
@@ -554,12 +560,12 @@
       "minecraft:ghast": "2019-09-03 18:08:08 +0000",
       "minecraft:shulker": "2019-08-30 17:31:15 +0000",
       "minecraft:cave_spider": "2019-08-22 09:44:05 +0000",
-      "minecraft:enderman": "2019-08-22 14:15:34 +0000",
       "minecraft:silverfish": "2019-08-21 19:28:53 +0000",
+      "minecraft:enderman": "2019-08-22 14:15:34 +0000",
       "minecraft:spider": "2019-08-21 19:54:15 +0000",
       "minecraft:zombie": "2019-08-21 19:45:26 +0000",
-      "minecraft:drowned": "2019-08-29 16:14:49 +0000",
       "minecraft:creeper": "2019-08-22 18:26:20 +0000",
+      "minecraft:drowned": "2019-08-29 16:14:49 +0000",
       "minecraft:slime": "2019-09-05 13:55:57 +0000"
     },
     "done": false
@@ -964,8 +970,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 09:50:43 +0000",
-      "minecraft:forest": "2019-08-22 11:45:50 +0000",
       "minecraft:mountains": "2019-08-20 09:50:26 +0000",
+      "minecraft:forest": "2019-08-22 11:45:50 +0000",
       "minecraft:giant_tree_taiga": "2019-08-28 07:44:35 +0000",
       "minecraft:snowy_tundra": "2019-08-20 09:52:07 +0000",
       "minecraft:desert": "2019-08-20 09:48:50 +0000",
@@ -1835,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-09-12 15:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-23 15:41:54 +0000"
@@ -2312,6 +2324,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2019-08-30 17:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-09-12 15:35:45 +0000"
     },
     "done": true
   },
