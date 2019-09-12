@@ -541,13 +541,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 14:34:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-20 14:34:45 +0000"
     },
@@ -991,13 +991,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-20 14:56:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 14:56:28 +0000"
     },
@@ -1034,14 +1034,14 @@
       "minecraft:phantom": "2019-08-20 16:04:59 +0000",
       "minecraft:ghast": "2019-08-31 14:14:50 +0000",
       "minecraft:cave_spider": "2019-08-21 13:15:35 +0000",
-      "minecraft:enderman": "2019-08-20 15:29:07 +0000",
-      "minecraft:stray": "2019-08-20 14:34:06 +0000",
       "minecraft:silverfish": "2019-08-21 12:57:05 +0000",
+      "minecraft:stray": "2019-08-20 14:34:06 +0000",
+      "minecraft:enderman": "2019-08-20 15:29:07 +0000",
       "minecraft:magma_cube": "2019-08-31 15:39:31 +0000",
       "minecraft:spider": "2019-08-20 14:27:26 +0000",
       "minecraft:zombie": "2019-08-20 14:56:00 +0000",
-      "minecraft:creeper": "2019-08-20 14:55:28 +0000",
-      "minecraft:drowned": "2019-09-01 16:18:22 +0000"
+      "minecraft:drowned": "2019-09-01 16:18:22 +0000",
+      "minecraft:creeper": "2019-08-20 14:55:28 +0000"
     },
     "done": false
   },
