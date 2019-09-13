@@ -491,6 +491,7 @@
       "bread": "2019-08-29 10:26:32 +0000",
       "salmon": "2019-08-19 21:17:29 +0000",
       "melon_slice": "2019-08-21 17:37:02 +0000",
+      "golden_carrot": "2019-09-13 17:33:48 +0000",
       "cooked_chicken": "2019-08-19 19:11:15 +0000",
       "mushroom_stew": "2019-08-21 21:44:25 +0000",
       "cod": "2019-08-20 11:42:59 +0000",
@@ -863,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-09-13 17:45:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-08-19 18:28:44 +0000"
@@ -956,6 +963,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2019-08-29 10:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-09-13 17:32:16 +0000"
     },
     "done": true
   },
@@ -1092,8 +1105,8 @@
       "minecraft:magma_cube": "2019-08-21 21:37:04 +0000",
       "minecraft:spider": "2019-08-20 08:35:36 +0000",
       "minecraft:zombie": "2019-08-20 06:56:04 +0000",
-      "minecraft:drowned": "2019-08-20 07:23:14 +0000",
-      "minecraft:creeper": "2019-08-20 08:36:01 +0000"
+      "minecraft:creeper": "2019-08-20 08:36:01 +0000",
+      "minecraft:drowned": "2019-08-20 07:23:14 +0000"
     },
     "done": false
   },
@@ -1118,6 +1131,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2019-08-21 21:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-09-13 17:37:50 +0000"
     },
     "done": true
   },
@@ -1817,6 +1836,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-09-13 17:32:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-21 06:53:50 +0000"
@@ -1922,8 +1947,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:50:22 +0000",
-      "minecraft:forest": "2019-08-19 17:40:56 +0000",
       "minecraft:mountains": "2019-08-19 17:50:18 +0000",
+      "minecraft:forest": "2019-08-19 17:40:56 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 18:25:48 +0000",
       "minecraft:snowy_tundra": "2019-08-20 06:47:52 +0000",
       "minecraft:desert": "2019-08-20 18:48:39 +0000",
