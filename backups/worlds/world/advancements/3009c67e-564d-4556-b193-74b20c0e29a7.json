@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2019-09-14 01:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-05-21 06:52:08 +0000"
@@ -332,6 +338,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-19 05:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-09-14 00:52:13 +0000"
     },
     "done": true
   },
@@ -672,6 +684,7 @@
       "minecraft:skeleton": "2019-05-19 09:14:01 +0000",
       "minecraft:phantom": "2019-08-22 09:26:02 +0000",
       "minecraft:wither_skeleton": "2019-08-25 00:53:11 +0000",
+      "minecraft:husk": "2019-09-14 00:44:23 +0000",
       "minecraft:ghast": "2019-08-17 03:55:17 +0000",
       "minecraft:shulker": "2019-07-10 03:27:47 +0000",
       "minecraft:guardian": "2019-06-24 05:27:47 +0000",
@@ -912,6 +925,12 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2019-08-17 03:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-09-14 00:49:43 +0000"
     },
     "done": true
   },
@@ -2445,6 +2464,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2019-09-14 01:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2019-05-18 23:58:29 +0000"
@@ -2724,6 +2749,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-09-03 22:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-09-14 00:49:43 +0000"
     },
     "done": true
   },
