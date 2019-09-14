@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-09-14 14:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 18:20:47 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 11:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-09-14 14:49:18 +0000"
     },
     "done": true
   },
@@ -538,9 +550,11 @@
       "minecraft:polar_bear": "2019-08-19 21:28:26 +0000",
       "minecraft:skeleton": "2019-08-20 11:29:29 +0000",
       "minecraft:phantom": "2019-08-20 13:35:00 +0000",
+      "minecraft:wither_skeleton": "2019-09-14 14:45:48 +0000",
       "minecraft:shulker": "2019-08-20 20:59:26 +0000",
       "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
+      "minecraft:magma_cube": "2019-09-14 14:47:46 +0000",
       "minecraft:spider": "2019-08-19 21:47:59 +0000",
       "minecraft:zombie": "2019-08-20 11:30:33 +0000",
       "minecraft:drowned": "2019-08-19 18:26:41 +0000",
@@ -2171,6 +2185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-09-14 14:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-08-19 21:04:11 +0000"
@@ -2282,6 +2302,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2019-08-19 18:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-09-14 14:46:27 +0000"
     },
     "done": true
   },
