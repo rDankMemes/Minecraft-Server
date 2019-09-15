@@ -880,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-09-15 18:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-19 18:31:35 +0000"
@@ -1717,6 +1723,7 @@
       "apple": "2019-08-19 20:17:10 +0000",
       "potato": "2019-08-19 18:35:05 +0000",
       "cooked_cod": "2019-08-24 21:22:57 +0000",
+      "rabbit": "2019-09-15 18:50:15 +0000",
       "mutton": "2019-08-19 18:47:35 +0000",
       "bread": "2019-08-19 19:04:12 +0000",
       "salmon": "2019-08-28 22:32:04 +0000",
@@ -2577,6 +2584,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-27 13:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-09-15 18:50:04 +0000"
     },
     "done": true
   },
