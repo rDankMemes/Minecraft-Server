@@ -771,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2019-09-14 23:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-08-17 16:58:51 +0000"
@@ -889,8 +895,8 @@
       "minecraft:enderman": "2019-08-22 17:04:50 +0000",
       "minecraft:spider": "2019-08-19 23:42:32 +0000",
       "minecraft:zombie": "2019-08-19 17:27:47 +0000",
-      "minecraft:drowned": "2019-08-20 12:05:48 +0000",
-      "minecraft:creeper": "2019-08-19 17:40:27 +0000"
+      "minecraft:creeper": "2019-08-19 17:40:27 +0000",
+      "minecraft:drowned": "2019-08-20 12:05:48 +0000"
     },
     "done": false
   },
@@ -1297,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-14 23:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-22 23:50:31 +0000"
@@ -1348,6 +1360,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-08-19 17:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2019-09-14 23:47:37 +0000"
     },
     "done": true
   },
@@ -1552,9 +1570,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:08:16 +0000",
-      "minecraft:forest": "2019-08-16 14:57:51 +0000",
-      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
       "minecraft:mushroom_fields": "2019-08-19 17:20:35 +0000",
+      "minecraft:mountains": "2019-08-17 17:00:11 +0000",
+      "minecraft:forest": "2019-08-16 14:57:51 +0000",
       "minecraft:desert_hills": "2019-08-22 23:51:40 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:21:02 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:07:35 +0000",
@@ -1599,6 +1617,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-19 18:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2019-09-14 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-14 23:39:29 +0000"
     },
     "done": true
   },
@@ -1851,6 +1881,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-08-19 17:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-14 23:39:29 +0000"
     },
     "done": true
   },

@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-09-14 21:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-08-22 01:57:11 +0000"
@@ -347,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-09-14 21:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2019-08-22 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-09-14 21:03:59 +0000"
     },
     "done": true
   },
@@ -479,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-09-14 23:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2019-08-16 22:25:35 +0000"
@@ -542,8 +566,8 @@
       "minecraft:witch": "2019-08-25 01:14:34 +0000",
       "minecraft:cave_spider": "2019-08-26 23:53:20 +0000",
       "minecraft:guardian": "2019-08-27 08:07:22 +0000",
-      "minecraft:enderman": "2019-08-22 00:46:06 +0000",
       "minecraft:vindicator": "2019-08-17 04:08:27 +0000",
+      "minecraft:enderman": "2019-08-22 00:46:06 +0000",
       "minecraft:spider": "2019-08-19 22:47:57 +0000",
       "minecraft:zombie": "2019-08-19 22:14:45 +0000",
       "minecraft:creeper": "2019-08-19 22:45:21 +0000",
@@ -732,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-09-14 23:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-08-17 19:15:28 +0000"
@@ -795,6 +825,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2019-08-21 00:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-14 23:36:58 +0000"
     },
     "done": true
   },
@@ -867,6 +903,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-08-16 21:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-09-14 23:20:43 +0000"
     },
     "done": true
   },
@@ -986,11 +1028,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
       "minecraft:cold_ocean": "2019-08-18 03:53:11 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 22:09:37 +0000",
-      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:jungle_edge": "2019-08-18 03:52:11 +0000",
       "minecraft:forest": "2019-08-16 21:14:19 +0000",
+      "minecraft:mountains": "2019-08-16 22:19:06 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 22:09:37 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 16:08:19 +0000",
       "minecraft:deep_cold_ocean": "2019-08-18 03:54:03 +0000",
       "minecraft:snowy_tundra": "2019-08-19 16:04:17 +0000",
@@ -1040,6 +1082,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-08-16 20:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-14 23:36:58 +0000"
     },
     "done": true
   },
@@ -1193,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-09-14 23:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2019-08-18 03:57:50 +0000"
@@ -1292,6 +1346,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-09-14 22:43:18 +0000"
     },
     "done": true
   },
@@ -1468,6 +1528,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2019-08-19 15:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-09-14 21:03:59 +0000"
     },
     "done": true
   },
@@ -2059,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-09-14 21:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-18 04:15:17 +0000"
@@ -2356,6 +2428,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-08-17 07:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-14 23:36:58 +0000"
     },
     "done": true
   },

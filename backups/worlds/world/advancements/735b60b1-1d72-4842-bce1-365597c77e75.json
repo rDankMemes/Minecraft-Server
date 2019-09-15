@@ -512,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2019-09-14 23:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-09-01 22:20:38 +0000"
@@ -578,14 +584,14 @@
       "minecraft:ghast": "2019-09-02 22:29:14 +0000",
       "minecraft:shulker": "2019-09-02 23:06:22 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:15 +0000",
-      "minecraft:stray": "2019-09-12 00:36:56 +0000",
-      "minecraft:enderman": "2019-09-02 22:41:11 +0000",
       "minecraft:silverfish": "2019-09-08 23:07:49 +0000",
+      "minecraft:enderman": "2019-09-02 22:41:11 +0000",
+      "minecraft:stray": "2019-09-12 00:36:56 +0000",
       "minecraft:magma_cube": "2019-09-07 19:32:10 +0000",
       "minecraft:spider": "2019-09-01 23:06:12 +0000",
       "minecraft:zombie": "2019-09-01 22:02:50 +0000",
-      "minecraft:drowned": "2019-09-03 02:19:08 +0000",
-      "minecraft:creeper": "2019-09-01 23:21:11 +0000"
+      "minecraft:creeper": "2019-09-01 23:21:11 +0000",
+      "minecraft:drowned": "2019-09-03 02:19:08 +0000"
     },
     "done": false
   },
@@ -901,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2019-09-14 23:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-09-01 23:06:13 +0000"
@@ -1036,8 +1048,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-08 04:13:44 +0000",
-      "minecraft:mountains": "2019-09-01 22:24:33 +0000",
       "minecraft:forest": "2019-09-01 22:21:15 +0000",
+      "minecraft:mountains": "2019-09-01 22:24:33 +0000",
       "minecraft:giant_tree_taiga": "2019-09-08 05:59:11 +0000",
       "minecraft:snowy_tundra": "2019-09-02 22:20:21 +0000",
       "minecraft:desert": "2019-09-08 04:26:21 +0000",
@@ -2179,6 +2191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-09-14 21:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-09-03 00:41:42 +0000"
@@ -2296,6 +2314,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-09-03 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2019-09-14 23:47:31 +0000"
     },
     "done": true
   },

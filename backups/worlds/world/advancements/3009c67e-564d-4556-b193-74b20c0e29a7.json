@@ -684,6 +684,7 @@
       "minecraft:skeleton": "2019-05-19 09:14:01 +0000",
       "minecraft:phantom": "2019-08-22 09:26:02 +0000",
       "minecraft:wither_skeleton": "2019-08-25 00:53:11 +0000",
+      "minecraft:zombie_pigman": "2019-09-14 23:01:19 +0000",
       "minecraft:husk": "2019-09-14 00:44:23 +0000",
       "minecraft:ghast": "2019-08-17 03:55:17 +0000",
       "minecraft:shulker": "2019-07-10 03:27:47 +0000",
@@ -1703,6 +1704,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-19 00:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-09-14 22:50:21 +0000"
     },
     "done": true
   },
