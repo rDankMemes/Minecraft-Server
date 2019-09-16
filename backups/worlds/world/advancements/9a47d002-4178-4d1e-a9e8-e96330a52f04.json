@@ -1445,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-09-16 01:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2019-08-29 21:39:57 +0000"
@@ -1711,6 +1717,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-08-29 21:50:00 +0000",
+      "minecraft:chicken": "2019-09-16 01:33:48 +0000",
       "minecraft:sheep": "2019-08-29 21:49:27 +0000"
     },
     "done": false
