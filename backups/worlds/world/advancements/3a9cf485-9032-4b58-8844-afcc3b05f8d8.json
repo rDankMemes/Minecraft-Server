@@ -551,13 +551,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-09-02 17:10:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-09-02 17:10:46 +0000"
     },
@@ -991,13 +991,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-09-02 17:10:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-09-02 17:10:37 +0000"
     },
@@ -1039,12 +1039,12 @@
       "minecraft:ghast": "2019-09-08 18:09:33 +0000",
       "minecraft:shulker": "2019-09-02 23:05:38 +0000",
       "minecraft:cave_spider": "2019-09-03 00:48:23 +0000",
-      "minecraft:enderman": "2019-09-02 01:36:31 +0000",
       "minecraft:stray": "2019-09-02 01:17:47 +0000",
+      "minecraft:enderman": "2019-09-02 01:36:31 +0000",
       "minecraft:spider": "2019-09-02 18:05:59 +0000",
       "minecraft:zombie": "2019-09-02 00:53:00 +0000",
-      "minecraft:drowned": "2019-09-03 02:18:39 +0000",
       "minecraft:creeper": "2019-09-02 01:17:31 +0000",
+      "minecraft:drowned": "2019-09-03 02:18:39 +0000",
       "minecraft:slime": "2019-09-06 01:08:30 +0000"
     },
     "done": false
@@ -1832,13 +1832,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-04 00:55:03 +0000",
-      "minecraft:mushroom_fields": "2019-09-07 23:35:10 +0000",
-      "minecraft:forest": "2019-09-03 01:15:30 +0000",
       "minecraft:mountains": "2019-09-02 00:39:55 +0000",
+      "minecraft:forest": "2019-09-03 01:15:30 +0000",
+      "minecraft:mushroom_fields": "2019-09-07 23:35:10 +0000",
       "minecraft:giant_tree_taiga": "2019-09-03 01:56:23 +0000",
       "minecraft:snowy_tundra": "2019-09-02 01:11:35 +0000",
       "minecraft:jungle": "2019-09-02 00:37:18 +0000",
       "minecraft:birch_forest": "2019-09-04 00:36:13 +0000",
+      "minecraft:river": "2019-09-15 22:26:16 +0000",
       "minecraft:wooded_mountains": "2019-09-02 00:42:09 +0000",
       "minecraft:swamp": "2019-09-04 00:36:38 +0000",
       "minecraft:plains": "2019-09-08 18:11:11 +0000"
