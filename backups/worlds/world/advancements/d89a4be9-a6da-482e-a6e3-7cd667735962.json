@@ -1,0 +1,26 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-09-17 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-09-17 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2019-09-17 20:55:34 +0000",
+      "minecraft:desert": "2019-09-17 20:55:59 +0000",
+      "minecraft:jungle": "2019-09-17 20:41:04 +0000",
+      "minecraft:jungle_hills": "2019-09-17 20:44:14 +0000",
+      "minecraft:warm_ocean": "2019-09-17 20:56:00 +0000",
+      "minecraft:beach": "2019-09-17 20:39:46 +0000",
+      "minecraft:river": "2019-09-17 20:52:30 +0000"
+    },
+    "done": false
+  }
+}
