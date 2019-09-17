@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-08-20 08:55:07 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2019-08-27 06:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
     },
     "done": true
   },
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 09:00:37 +0000"
@@ -390,13 +408,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 09:00:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-20 09:00:06 +0000"
     },
@@ -423,6 +441,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 09:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
     },
     "done": true
   },
@@ -644,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-08-20 13:32:45 +0000"
@@ -746,13 +776,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 12:36:55 +0000"
     },
@@ -804,6 +834,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-20 12:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-09-17 15:22:20 +0000"
     },
     "done": true
   },
@@ -915,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-08-20 08:55:07 +0000"
@@ -954,6 +996,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 12:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
     },
     "done": true
   },
@@ -1053,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 12:24:19 +0000"
@@ -1119,6 +1173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 09:00:37 +0000"
@@ -1140,6 +1200,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2019-08-22 12:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
     },
     "done": true
   },
@@ -1311,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-20 08:56:08 +0000"
@@ -1338,15 +1410,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-20 14:34:37 +0000",
-      "minecraft:mountains": "2019-08-20 12:22:19 +0000",
       "minecraft:forest": "2019-08-22 12:23:08 +0000",
+      "minecraft:mountains": "2019-08-20 12:22:19 +0000",
       "minecraft:giant_tree_taiga": "2019-08-20 08:49:54 +0000",
       "minecraft:snowy_tundra": "2019-08-20 14:35:16 +0000",
       "minecraft:desert": "2019-08-20 02:26:39 +0000",
       "minecraft:frozen_river": "2019-09-07 14:35:19 +0000",
       "minecraft:badlands": "2019-08-20 00:28:47 +0000",
       "minecraft:snowy_taiga": "2019-08-20 13:28:43 +0000",
-      "minecraft:wooded_mountains": "2019-08-20 13:07:49 +0000"
+      "minecraft:wooded_mountains": "2019-08-20 13:07:49 +0000",
+      "minecraft:plains": "2019-09-17 15:33:06 +0000"
     },
     "done": false
   },
@@ -1512,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-17 15:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-20 08:52:49 +0000"
@@ -1527,6 +1606,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-08-20 12:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-09-17 15:28:37 +0000"
     },
     "done": true
   },
