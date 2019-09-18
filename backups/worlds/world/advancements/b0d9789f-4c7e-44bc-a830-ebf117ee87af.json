@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-09-18 12:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-08-24 07:32:10 +0000"
@@ -568,15 +574,15 @@
       "minecraft:ghast": "2019-08-24 08:15:22 +0000",
       "minecraft:cave_spider": "2019-08-24 08:03:15 +0000",
       "minecraft:guardian": "2019-08-26 11:12:19 +0000",
-      "minecraft:silverfish": "2019-08-26 13:26:15 +0000",
-      "minecraft:vindicator": "2019-08-24 14:07:19 +0000",
-      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
       "minecraft:stray": "2019-08-23 13:17:55 +0000",
+      "minecraft:enderman": "2019-08-23 07:13:24 +0000",
+      "minecraft:vindicator": "2019-08-24 14:07:19 +0000",
+      "minecraft:silverfish": "2019-08-26 13:26:15 +0000",
       "minecraft:magma_cube": "2019-08-24 08:27:46 +0000",
       "minecraft:spider": "2019-08-23 07:28:48 +0000",
       "minecraft:zombie": "2019-08-23 07:05:55 +0000",
-      "minecraft:creeper": "2019-08-24 12:50:21 +0000",
       "minecraft:drowned": "2019-08-25 08:22:51 +0000",
+      "minecraft:creeper": "2019-08-24 12:50:21 +0000",
       "minecraft:zombie_villager": "2019-08-25 12:33:30 +0000",
       "minecraft:evoker": "2019-08-24 14:11:39 +0000"
     },
@@ -1006,9 +1012,9 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-08-23 06:46:32 +0000",
       "minecraft:snowy_mountains": "2019-08-25 08:55:17 +0000",
-      "minecraft:badlands_plateau": "2019-08-26 09:47:40 +0000",
-      "minecraft:forest": "2019-08-24 07:29:56 +0000",
       "minecraft:mountains": "2019-08-23 06:46:15 +0000",
+      "minecraft:forest": "2019-08-24 07:29:56 +0000",
+      "minecraft:badlands_plateau": "2019-08-26 09:47:40 +0000",
       "minecraft:taiga": "2019-08-24 07:50:40 +0000",
       "minecraft:deep_cold_ocean": "2019-08-26 11:03:21 +0000",
       "minecraft:snowy_tundra": "2019-08-23 06:49:53 +0000",
@@ -1024,14 +1030,14 @@
       "minecraft:badlands": "2019-08-23 06:44:46 +0000",
       "minecraft:beach": "2019-08-24 07:36:54 +0000",
       "minecraft:dark_forest": "2019-08-24 13:59:56 +0000",
-      "minecraft:river": "2019-08-24 07:34:32 +0000",
       "minecraft:lukewarm_ocean": "2019-08-25 08:31:40 +0000",
+      "minecraft:river": "2019-08-24 07:34:32 +0000",
       "minecraft:snowy_taiga": "2019-08-25 08:58:47 +0000",
       "minecraft:birch_forest_hills": "2019-08-25 09:34:03 +0000",
       "minecraft:wooded_mountains": "2019-08-23 07:27:00 +0000",
       "minecraft:wooded_hills": "2019-08-24 07:34:34 +0000",
-      "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
       "minecraft:stone_shore": "2019-08-25 08:38:16 +0000",
+      "minecraft:giant_tree_taiga_hills": "2019-08-24 07:52:31 +0000",
       "minecraft:wooded_badlands_plateau": "2019-08-26 09:52:02 +0000",
       "minecraft:swamp": "2019-08-24 13:56:55 +0000",
       "minecraft:savanna": "2019-08-24 11:24:09 +0000",
