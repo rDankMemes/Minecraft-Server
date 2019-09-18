@@ -871,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-17 23:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-09-06 01:35:59 +0000"
@@ -1115,6 +1121,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-09-02 00:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-17 23:48:00 +0000"
     },
     "done": true
   },
@@ -2524,6 +2536,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-09-02 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2019-09-17 23:48:00 +0000"
     },
     "done": true
   },
