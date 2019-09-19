@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2019-09-19 01:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2019-08-20 05:25:25 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2019-09-19 01:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2019-08-19 23:48:07 +0000"
@@ -356,6 +368,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 03:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2019-09-19 01:31:25 +0000"
     },
     "done": true
   },
@@ -684,6 +702,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2019-08-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_gray_dye": "2019-09-19 01:31:26 +0000"
     },
     "done": true
   },
@@ -1110,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-09-19 01:31:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-08-20 00:38:57 +0000"
@@ -1149,6 +1179,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 03:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2019-09-19 01:31:42 +0000"
     },
     "done": true
   },
@@ -1371,6 +1407,7 @@
       "bread": "2019-08-20 22:38:19 +0000",
       "golden_carrot": "2019-08-20 02:40:49 +0000",
       "cooked_chicken": "2019-08-22 04:42:04 +0000",
+      "enchanted_golden_apple": "2019-09-19 01:45:45 +0000",
       "carrot": "2019-08-20 00:32:20 +0000"
     },
     "done": false
@@ -2381,6 +2418,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-20 08:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-09-19 01:31:50 +0000"
     },
     "done": true
   }
