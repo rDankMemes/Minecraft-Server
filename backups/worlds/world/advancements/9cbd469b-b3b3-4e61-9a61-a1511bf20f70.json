@@ -855,8 +855,8 @@
       "minecraft:enderman": "2019-08-25 19:01:46 +0000",
       "minecraft:spider": "2019-08-21 07:48:22 +0000",
       "minecraft:zombie": "2019-08-21 07:46:42 +0000",
-      "minecraft:creeper": "2019-08-21 11:19:42 +0000",
-      "minecraft:drowned": "2019-08-24 18:48:17 +0000"
+      "minecraft:drowned": "2019-08-24 18:48:17 +0000",
+      "minecraft:creeper": "2019-08-21 11:19:42 +0000"
     },
     "done": false
   },
@@ -1627,8 +1627,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-25 18:56:13 +0000",
-      "minecraft:forest": "2019-08-23 22:11:16 +0000",
       "minecraft:mountains": "2019-08-21 12:15:10 +0000",
+      "minecraft:forest": "2019-08-23 22:11:16 +0000",
       "minecraft:giant_tree_taiga": "2019-08-21 07:53:22 +0000",
       "minecraft:snowy_tundra": "2019-08-25 18:57:05 +0000",
       "minecraft:desert": "2019-08-24 20:00:10 +0000",
@@ -1638,8 +1638,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-08-24 18:46:57 +0000",
       "minecraft:badlands": "2019-08-24 20:30:30 +0000",
       "minecraft:dark_forest": "2019-08-23 22:13:58 +0000",
-      "minecraft:river": "2019-08-21 11:38:41 +0000",
       "minecraft:lukewarm_ocean": "2019-08-24 18:45:35 +0000",
+      "minecraft:river": "2019-08-21 11:38:41 +0000",
       "minecraft:snowy_taiga": "2019-08-24 19:43:03 +0000",
       "minecraft:wooded_mountains": "2019-08-21 08:06:01 +0000",
       "minecraft:wooded_hills": "2019-08-23 22:13:26 +0000",
