@@ -587,13 +587,14 @@
       "minecraft:husk": "2019-08-23 00:05:09 +0000",
       "minecraft:ghast": "2019-09-08 20:08:10 +0000",
       "minecraft:shulker": "2019-08-21 02:01:51 +0000",
-      "minecraft:enderman": "2019-08-21 02:16:44 +0000",
-      "minecraft:silverfish": "2019-08-30 20:31:22 +0000",
       "minecraft:stray": "2019-09-18 19:48:26 +0000",
+      "minecraft:silverfish": "2019-08-30 20:31:22 +0000",
+      "minecraft:enderman": "2019-08-21 02:16:44 +0000",
       "minecraft:spider": "2019-08-19 23:31:13 +0000",
       "minecraft:zombie": "2019-08-19 23:21:58 +0000",
+      "minecraft:creeper": "2019-08-20 00:33:31 +0000",
       "minecraft:drowned": "2019-08-22 23:49:49 +0000",
-      "minecraft:creeper": "2019-08-20 00:33:31 +0000"
+      "minecraft:zombie_villager": "2019-09-19 22:01:23 +0000"
     },
     "done": false
   },
@@ -1085,11 +1086,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-19 21:07:05 +0000",
       "minecraft:jungle_edge": "2019-08-25 22:50:35 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 23:21:23 +0000",
-      "minecraft:forest": "2019-08-18 03:47:59 +0000",
+      "minecraft:cold_ocean": "2019-08-19 21:07:05 +0000",
       "minecraft:mountains": "2019-08-17 03:37:32 +0000",
+      "minecraft:forest": "2019-08-18 03:47:59 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 23:21:23 +0000",
       "minecraft:desert_hills": "2019-05-21 01:26:17 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 22:33:35 +0000",
       "minecraft:snowy_tundra": "2019-08-19 21:49:08 +0000",
