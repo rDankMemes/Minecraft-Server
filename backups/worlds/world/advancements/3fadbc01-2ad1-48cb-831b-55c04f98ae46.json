@@ -794,6 +794,7 @@
       "minecraft:skeleton": "2019-09-17 07:53:05 +0000",
       "minecraft:witch": "2019-09-19 08:04:19 +0000",
       "minecraft:wither_skeleton": "2019-09-19 15:24:20 +0000",
+      "minecraft:cave_spider": "2019-09-20 02:24:28 +0000",
       "minecraft:enderman": "2019-09-19 12:50:47 +0000",
       "minecraft:magma_cube": "2019-09-19 08:14:43 +0000",
       "minecraft:spider": "2019-09-19 12:29:29 +0000",
@@ -1430,8 +1431,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-19 08:08:04 +0000",
-      "minecraft:mountains": "2019-09-19 07:04:59 +0000",
       "minecraft:forest": "2019-08-19 21:43:13 +0000",
+      "minecraft:mountains": "2019-09-19 07:04:59 +0000",
       "minecraft:jungle": "2019-09-19 12:37:26 +0000",
       "minecraft:wooded_mountains": "2019-09-19 13:01:53 +0000",
       "minecraft:plains": "2019-06-14 04:28:32 +0000"
