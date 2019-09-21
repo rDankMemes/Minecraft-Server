@@ -933,6 +933,7 @@
       "minecraft:phantom": "2019-09-21 14:56:31 +0000",
       "minecraft:witch": "2019-09-19 08:04:19 +0000",
       "minecraft:wither_skeleton": "2019-09-19 15:24:20 +0000",
+      "minecraft:ghast": "2019-09-21 16:46:49 +0000",
       "minecraft:cave_spider": "2019-09-20 02:24:28 +0000",
       "minecraft:enderman": "2019-09-19 12:50:47 +0000",
       "minecraft:magma_cube": "2019-09-19 08:14:43 +0000",
@@ -1923,6 +1924,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-06-14 04:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2019-09-21 16:24:48 +0000"
     },
     "done": true
   },
