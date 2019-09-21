@@ -559,13 +559,13 @@
       "minecraft:wither_skeleton": "2019-09-14 14:45:48 +0000",
       "minecraft:ghast": "2019-09-14 14:59:46 +0000",
       "minecraft:shulker": "2019-08-20 20:59:26 +0000",
-      "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
       "minecraft:enderman": "2019-08-20 20:16:22 +0000",
+      "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
       "minecraft:magma_cube": "2019-09-14 14:47:46 +0000",
       "minecraft:spider": "2019-08-19 21:47:59 +0000",
       "minecraft:zombie": "2019-08-20 11:30:33 +0000",
-      "minecraft:creeper": "2019-08-20 11:30:43 +0000",
-      "minecraft:drowned": "2019-08-19 18:26:41 +0000"
+      "minecraft:drowned": "2019-08-19 18:26:41 +0000",
+      "minecraft:creeper": "2019-08-20 11:30:43 +0000"
     },
     "done": false
   },
@@ -971,9 +971,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:36:18 +0000",
-      "minecraft:mushroom_fields": "2019-09-02 12:55:46 +0000",
-      "minecraft:forest": "2019-08-30 16:19:04 +0000",
       "minecraft:mountains": "2019-08-19 18:16:44 +0000",
+      "minecraft:forest": "2019-08-30 16:19:04 +0000",
+      "minecraft:mushroom_fields": "2019-09-02 12:55:46 +0000",
       "minecraft:desert_hills": "2019-09-12 09:22:41 +0000",
       "minecraft:giant_tree_taiga": "2019-09-02 12:11:50 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
@@ -1387,6 +1387,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2019-09-21 19:41:04 +0000",
       "cooked_mutton": "2019-09-02 12:55:19 +0000",
       "chorus_fruit": "2019-08-20 20:34:28 +0000",
       "cooked_beef": "2019-08-22 22:01:32 +0000",
