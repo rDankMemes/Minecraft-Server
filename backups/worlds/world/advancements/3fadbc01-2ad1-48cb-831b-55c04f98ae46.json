@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-09-22 10:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-08-19 22:01:39 +0000"
@@ -725,6 +731,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-21 14:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-09-22 10:48:12 +0000"
     },
     "done": true
   },
@@ -1682,6 +1694,7 @@
       "minecraft:forest": "2019-08-19 21:43:13 +0000",
       "minecraft:mountains": "2019-09-19 07:04:59 +0000",
       "minecraft:jungle": "2019-09-19 12:37:26 +0000",
+      "minecraft:dark_forest": "2019-09-22 10:37:16 +0000",
       "minecraft:wooded_mountains": "2019-09-19 13:01:53 +0000",
       "minecraft:plains": "2019-06-14 04:28:32 +0000"
     },
@@ -1954,6 +1967,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-09-17 08:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-22 10:50:23 +0000"
     },
     "done": true
   },
