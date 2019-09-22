@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-09-22 08:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-08-19 21:50:02 +0000"
@@ -1673,8 +1679,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-09-19 08:08:04 +0000",
-      "minecraft:mountains": "2019-09-19 07:04:59 +0000",
       "minecraft:forest": "2019-08-19 21:43:13 +0000",
+      "minecraft:mountains": "2019-09-19 07:04:59 +0000",
       "minecraft:jungle": "2019-09-19 12:37:26 +0000",
       "minecraft:wooded_mountains": "2019-09-19 13:01:53 +0000",
       "minecraft:plains": "2019-06-14 04:28:32 +0000"
