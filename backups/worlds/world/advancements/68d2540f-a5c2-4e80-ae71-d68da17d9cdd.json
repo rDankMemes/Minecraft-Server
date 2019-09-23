@@ -335,6 +335,7 @@
       "cooked_cod": "2019-08-20 20:31:15 +0000",
       "mutton": "2019-08-21 07:16:44 +0000",
       "bread": "2019-08-20 04:40:49 +0000",
+      "golden_apple": "2019-09-23 19:29:20 +0000",
       "cooked_chicken": "2019-08-20 18:32:43 +0000",
       "cod": "2019-08-19 17:49:05 +0000",
       "carrot": "2019-08-19 17:27:28 +0000"
@@ -779,13 +780,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-08-20 04:15:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-20 04:15:26 +0000"
     },
@@ -811,12 +812,12 @@
       "minecraft:wither_skeleton": "2019-08-20 17:11:18 +0000",
       "minecraft:ghast": "2019-08-20 04:56:32 +0000",
       "minecraft:guardian": "2019-08-21 06:25:01 +0000",
-      "minecraft:enderman": "2019-08-20 17:20:07 +0000",
       "minecraft:silverfish": "2019-08-20 04:09:09 +0000",
+      "minecraft:enderman": "2019-08-20 17:20:07 +0000",
       "minecraft:spider": "2019-08-20 17:45:32 +0000",
       "minecraft:zombie": "2019-08-20 20:27:44 +0000",
-      "minecraft:creeper": "2019-08-21 07:57:04 +0000",
-      "minecraft:drowned": "2019-08-20 20:29:09 +0000"
+      "minecraft:drowned": "2019-08-20 20:29:09 +0000",
+      "minecraft:creeper": "2019-08-21 07:57:04 +0000"
     },
     "done": false
   },
@@ -1490,8 +1491,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-21 07:18:29 +0000",
-      "minecraft:mountains": "2019-08-19 17:23:21 +0000",
       "minecraft:forest": "2019-08-20 04:24:19 +0000",
+      "minecraft:mountains": "2019-08-19 17:23:21 +0000",
       "minecraft:giant_tree_taiga": "2019-08-19 17:20:28 +0000",
       "minecraft:snowy_tundra": "2019-08-19 17:25:44 +0000",
       "minecraft:desert": "2019-08-19 17:46:49 +0000",
