@@ -922,6 +922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2019-09-23 16:17:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-17 16:30:58 +0000"
@@ -1579,9 +1585,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 19:27:03 +0000",
-      "minecraft:mushroom_fields": "2019-08-19 19:19:48 +0000",
-      "minecraft:forest": "2019-08-16 14:24:08 +0000",
       "minecraft:mountains": "2019-08-16 15:14:03 +0000",
+      "minecraft:forest": "2019-08-16 14:24:08 +0000",
+      "minecraft:mushroom_fields": "2019-08-19 19:19:48 +0000",
       "minecraft:taiga": "2019-08-16 13:29:22 +0000",
       "minecraft:giant_tree_taiga": "2019-08-17 20:42:13 +0000",
       "minecraft:snowy_tundra": "2019-08-19 19:26:08 +0000",
@@ -1714,15 +1720,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2019-09-22 13:12:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-09-22 12:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-09-22 13:12:45 +0000"
     },
     "done": true
   },
