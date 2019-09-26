@@ -359,15 +359,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2019-05-18 23:11:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-05-18 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-05-18 23:11:28 +0000"
     },
     "done": true
   },
@@ -1346,11 +1346,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-18 22:58:11 +0000",
       "minecraft:cold_ocean": "2019-08-21 02:48:20 +0000",
-      "minecraft:forest": "2019-05-18 22:46:16 +0000",
-      "minecraft:mountains": "2019-05-18 22:51:56 +0000",
+      "minecraft:jungle_edge": "2019-05-18 22:58:11 +0000",
       "minecraft:mushroom_fields": "2019-05-18 22:54:29 +0000",
+      "minecraft:mountains": "2019-05-18 22:51:56 +0000",
+      "minecraft:forest": "2019-05-18 22:46:16 +0000",
       "minecraft:taiga": "2019-05-18 22:52:20 +0000",
       "minecraft:desert_hills": "2019-05-18 22:46:37 +0000",
       "minecraft:giant_tree_taiga": "2019-09-12 09:23:11 +0000",
@@ -1366,8 +1366,8 @@
       "minecraft:savanna_plateau": "2019-05-18 22:58:01 +0000",
       "minecraft:beach": "2019-05-18 22:36:47 +0000",
       "minecraft:dark_forest": "2019-08-30 01:07:44 +0000",
-      "minecraft:river": "2019-05-18 22:36:50 +0000",
       "minecraft:lukewarm_ocean": "2019-05-18 22:50:34 +0000",
+      "minecraft:river": "2019-05-18 22:36:50 +0000",
       "minecraft:snowy_taiga": "2019-08-22 00:00:32 +0000",
       "minecraft:wooded_mountains": "2019-05-18 22:52:15 +0000",
       "minecraft:wooded_hills": "2019-05-19 20:52:30 +0000",
@@ -1426,15 +1426,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2019-05-18 23:09:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2019-05-18 23:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-05-18 23:09:44 +0000"
     },
     "done": true
   },
