@@ -2585,6 +2585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2019-10-12 17:56:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2019-08-19 22:57:14 +0000"
