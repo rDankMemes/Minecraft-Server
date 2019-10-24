@@ -1064,6 +1064,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:witch": "2019-06-24 01:21:19 +0000",
+      "minecraft:ghast": "2019-10-24 04:19:01 +0000",
       "minecraft:zombie": "2019-09-16 01:52:10 +0000"
     },
     "done": false
@@ -1157,6 +1158,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2019-07-16 04:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2019-10-24 04:19:01 +0000"
     },
     "done": true
   },

@@ -404,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-10-24 04:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-19 23:38:04 +0000"
@@ -541,6 +547,7 @@
       "minecraft:blaze": "2019-08-20 02:55:06 +0000",
       "minecraft:skeleton": "2019-08-20 00:41:57 +0000",
       "minecraft:phantom": "2019-08-22 08:08:21 +0000",
+      "minecraft:ghast": "2019-10-24 04:15:32 +0000",
       "minecraft:shulker": "2019-08-21 02:03:04 +0000",
       "minecraft:guardian": "2019-08-27 06:50:48 +0000",
       "minecraft:stray": "2019-08-24 06:08:37 +0000",
@@ -1323,6 +1330,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-10-24 03:49:02 +0000"
     },
     "done": true
   },
