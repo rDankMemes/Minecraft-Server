@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2019-10-26 21:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-08-19 18:18:35 +0000"
@@ -328,6 +334,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-08-19 19:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2019-10-26 21:38:33 +0000"
     },
     "done": true
   },
@@ -597,13 +609,13 @@
       "minecraft:zombie_pigman": "2019-10-06 13:06:55 +0000",
       "minecraft:ghast": "2019-09-14 14:59:46 +0000",
       "minecraft:shulker": "2019-08-20 20:59:26 +0000",
-      "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:silverfish": "2019-08-22 22:09:49 +0000",
+      "minecraft:enderman": "2019-08-20 20:16:22 +0000",
       "minecraft:magma_cube": "2019-09-14 14:47:46 +0000",
       "minecraft:spider": "2019-08-19 21:47:59 +0000",
       "minecraft:zombie": "2019-08-20 11:30:33 +0000",
-      "minecraft:drowned": "2019-08-19 18:26:41 +0000",
-      "minecraft:creeper": "2019-08-20 11:30:43 +0000"
+      "minecraft:creeper": "2019-08-20 11:30:43 +0000",
+      "minecraft:drowned": "2019-08-19 18:26:41 +0000"
     },
     "done": false
   },
@@ -1033,13 +1045,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-19 18:36:18 +0000",
-      "minecraft:mountains": "2019-08-19 18:16:44 +0000",
-      "minecraft:forest": "2019-08-30 16:19:04 +0000",
       "minecraft:mushroom_fields": "2019-09-02 12:55:46 +0000",
+      "minecraft:forest": "2019-08-30 16:19:04 +0000",
+      "minecraft:mountains": "2019-08-19 18:16:44 +0000",
       "minecraft:desert_hills": "2019-09-12 09:22:41 +0000",
       "minecraft:giant_tree_taiga": "2019-09-02 12:11:50 +0000",
       "minecraft:snowy_tundra": "2019-08-19 18:25:26 +0000",
       "minecraft:desert": "2019-08-20 11:28:23 +0000",
+      "minecraft:frozen_river": "2019-10-26 21:45:24 +0000",
       "minecraft:jungle": "2019-09-12 09:23:01 +0000",
       "minecraft:badlands": "2019-09-21 21:02:29 +0000",
       "minecraft:beach": "2019-09-07 21:02:44 +0000",
@@ -1067,6 +1080,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2019-08-20 20:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2019-10-26 21:38:33 +0000"
     },
     "done": true
   },
@@ -1501,7 +1520,9 @@
       "baked_potato": "2019-08-19 20:45:28 +0000",
       "spider_eye": "2019-08-20 21:52:15 +0000",
       "potato": "2019-08-19 18:33:43 +0000",
+      "cooked_cod": "2019-10-26 21:32:24 +0000",
       "mutton": "2019-08-19 18:24:14 +0000",
+      "bread": "2019-10-26 22:01:55 +0000",
       "rotten_flesh": "2019-09-02 11:27:47 +0000",
       "salmon": "2019-08-22 23:03:19 +0000",
       "beetroot": "2019-08-27 18:00:04 +0000",
@@ -1936,6 +1957,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-08-19 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2019-10-26 21:38:33 +0000"
     },
     "done": true
   },
@@ -2548,6 +2575,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-19 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2019-10-26 21:38:33 +0000"
     },
     "done": true
   },
