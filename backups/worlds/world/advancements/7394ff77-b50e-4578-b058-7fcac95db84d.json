@@ -1538,12 +1538,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-08-19 18:22:53 +0000",
       "minecraft:jungle_edge": "2019-05-18 23:02:18 +0000",
-      "minecraft:mountains": "2019-07-18 19:18:36 +0000",
-      "minecraft:forest": "2019-05-18 22:34:34 +0000",
-      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
+      "minecraft:cold_ocean": "2019-08-19 18:22:53 +0000",
       "minecraft:mushroom_fields": "2019-08-19 10:31:31 +0000",
+      "minecraft:badlands_plateau": "2019-05-18 22:55:54 +0000",
+      "minecraft:forest": "2019-05-18 22:34:34 +0000",
+      "minecraft:mountains": "2019-07-18 19:18:36 +0000",
       "minecraft:taiga": "2019-08-16 17:48:17 +0000",
       "minecraft:desert_hills": "2019-05-18 23:35:32 +0000",
       "minecraft:giant_tree_taiga": "2019-08-18 17:59:32 +0000",
